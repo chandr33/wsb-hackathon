@@ -1,0 +1,296 @@
+,post_id,text,title,upvote_ratio,date,author
+0,m1jhfy,,SPY tits up,1.0,1615332600,AR_Astro
+1,m1jhjt,,420/69,1.0,1615332607,Gangsternigg26-13-6
+2,m1jhrm,[removed],🦍,1.0,1615332622,r-j-w
+3,m1jhzq,[removed],GME to the MOON 🌙,1.0,1615332641,CausticRises
+4,m1ji34,After the close!,GameStop To Report Q4 Earnings On March 23,1.0,1615332649,MrTurner82
+5,m1ji5m,,Just hold it,1.0,1615332654,IndustrialMechanic3
+6,m1jikn,Does anyone feel like the hedge funds are letting this ride up and then will somehow cause it to fall back down again? Like last time. Rinse and repeat?,What are your thoughts?,1.0,1615332689,random321_random
+7,m1jil3,Anyone buying?,ATOS up 35% in after hours! 🚀🚀🚀🚀🚀.,1.0,1615332690,knownunknown69
+8,m1jioq,,Two shares! Came in at $41 and still riding!,1.0,1615332697,letsplayninja99
+9,m1jiqv,,I cant wait to tell my wife we did it💎🤲to the moon we go!!!🚀🚀🚀,1.0,1615332701,joey_quinoa
+10,m1jixw,"We have people from all over the world buying GME simply because they like the stock. People are getting burned and it isn’t us RETAIL investors. Incredible things happen when we come together. We have won the battle but not the war people, I LIKE THE STOCK!!",Showerthought: The GME situation is WW3 against the hedgys of the USA.,1.0,1615332717,imperba
+11,m1jj2o,"I know I know, GME TO 500K !!! Guys I am hyped too but there is something we need to talk about. What are the hedge funds doing. I mean they keep shorting GME although GME is rising every day. I would say it’s stupidity but they have smart ass people working for them. They must have a plan. Do they hope we paper hand at 500 or 1000 ? Will they manipulate again and drop the price from 1000 to 100 to make people paper hand ? It’s foolish to believe the price will just climb without any manipulation by them. What do you think they are planing ?",Can we please talk about the hedge funds plan,1.0,1615332728,FlyingEagle0703
+12,m1jj91,,"Fuck it, I'm in. TO THE MOON!",1.0,1615332742,Shrimpkin
+13,m1jjk8,,Only bought 7 shares but I'm up over $700 dollars. Even us small apes matter!,1.0,1615332766,youzz33
+14,m1jjlc,,I have next to nothing but it's rock solid &amp; not available to the institutions... Hopefully there are 6M other apes doing the same.,1.0,1615332768,KiwiFirey
+15,m1jjyr,,Fellow apes. So is sndl up next? I just eat crayons idk much.,1.0,1615332800,garza_adam
+16,m1jk2h,,PILULKA LÉKÁRNY A.S. (PINK),1.0,1615332809,matejovo
+17,m1jk3j,,"Diamond Hands get rewarded, Bought 1 @ $251 then it crashed then i bought some more cause im retarded,",1.0,1615332812,Cubuss
+18,m1jk97,,I'm in and I won't sell until those Heggies pay for my Tendies!,1.0,1615332823,Millencolinm3
+19,m1jksq,"This is a continuation of a DDDD I wrote a few weeks ago about [how GME could cause a stock market crash](https://www.reddit.com/r/wallstreetbets/comments/l9sh9e/dddd_why_gme_might_next_week_and_how_it_could/) through mass de-grossing from short/long Hedge Funds. However, that was just one side of the story, and there was an even more troubling 2008-style flaw in the system the GME has revealed in our financial system; something that first interested me when Thomas Peterffy, the founder and chairman of Interactive Brokers mentioned it on CNBC.
+
+*Disclaimer - This is not financial advice, and a lot of the content below is my personal opinion and for ENTERTAINMENT PURPOSES ONLY. In fact, the numbers, facts, or explanations presented below could be wrong and be made up and with some satire thrown in. Don't buy random options because some person on the internet says so. Do your own research and come to your own conclusions on what you should do with your own money, and how levered you want to be based on your personal risk tolerance.*
+
+First, let’s go on a history lesson about the 2008 Financial Crisis and one of the main factors in it - Counterparty Risk.
+
+# What is Counterparty Risk?
+
+Counterparty Risk is the likelihood that the counterparty (i.e. entity on the other side) of the transaction might default on an obligation. To put it simply, imagine Bob sells Alice one GME call with a $10 strike price. Unfortunately for Bob, some 🦍🦍🦍 in an obscure subreddit sent GME 🚀🌝 so when those calls expire, GME is at $410, meaning Bob now owes Alice $40K. However, Bob’s entire portfolio is worth only $10K and is unable to fulfil his financial obligation when he wrote those GME calls, defaulting on it.
+
+# Counterparty Risk in 2008 &amp; the “Solution”
+
+This is exactly what happened in the 2008 Financial Crisis when AIG sold Credit Default Swaps (basically, puts on the housing market) and defaulted on their financial obligations when the housing market collapsed. It made everything worse, because other funds were using these CDS to hedge their own positions in the housing market, so when those CDS turned out to be worthless because the other side was bankrupt, it endangered the financial soundness of firms like Goldman Sachs, Morgan Stanley, BoA and Marril Lynch who bought these swaps. This suddenly created a counterparty risk to anyone on the other sides of all the trades they have made, and has a domino effect that ends up with basically every financial institution collapsing if AIG collapses; in other words, AIG was too big to fail.
+
+Title 7 of Dodd Frank, which was the law passed by Congress as a response to the Financial Crisis to prevent this from ever happening again, mandates that all securities and derivatives be cleared in clearing houses such as DTCC and post collateral they deem to be sufficient to manage counterparty risk to them. These clearing houses would then be responsible for ensuring a transaction is fulfilled on both sides, and if one of the parties in the transactions fail to meet their obligation, they are responsible for honoring it.
+
+# Why this doesn’t really work
+
+What this solution has effectively created is one monolithic central counterparty in the form of the DTCC. According to their [2019 annual report](https://www.dtcc.com/annuals/2019/financial-performance/), they processed $2.15 quadrillion worth of securities in 2019, or 24 times the global GDP of $24T and 6 times the total net worth of the world of $360T. Basically, they’re way too big to fail. So to make sure this never happens, they have pretty broad authority to unilaterally decide how much collateral each participant based on their outstanding trades using an unknown and obscure formula.
+
+This is how Robinhood got fucked over by them - their collateral requirements for the DTCC suddenly increased ten-fold on them, and they had a liquidity crisis (which they tried really hard not to admit, because this is the brokerage equivalent of your bank saying they're running out of cash and you might not get your deposits back) because they didn’t have enough cash to cover it. What happens if a participant can’t meet their collateral requirements? Similar to a degenerate options gambler who can’t meet their margin call (aka your average [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) 🦍), their entire portfolio gets liquidated.
+
+See, DTCC not only is a central clearing house that guarantees most settlements; technically that’s the NSCC, which is a subsidiary / service provided by the DTCC. Their main operations are the equivalent of a central bank for brokerages - the broker of brokers, responsible for holding the physical shares that the brokerages own; hence their name Depository Trust Clearing Corporation.
+
+So what does it take to bring the DTCC down? Most recently, GME. For those who haven’t seen it yet, this interview with the Chairman of Interactive Brokers (apparently post gets auto-deleted if I put a YouTube link, but should be easy to find) on why they halted buying of GME outlines the issue pretty clearly. For those with too short of an attention span to click the link, he basically says
+
+* The most important reason why he halted GME purchases was to protect the integrity of the financial system and clearing houses
+* There were ALOT of options that suddenly became in the money, and whoever held them suddenly were owed a bucket of tendies; he mentioned $10-15B losses in one expiry date alone.
+* These tendies need to come from somewhere. Anyone who was net short GME got absolutely fucked and might defaulting on their short position or call option write.
+* If they default, the broker is on the hook to pay out those losses. If the broker cannot pay for it, they go under and clearing house (DTCC) is on the hook
+
+# Tin Foil Hat Time
+
+Now here’s where I’ll start speculating on what exactly happened on the other side of the trade and DTCC. So, who’s on the other side of all these GME calls, or in other words, who wrote all these calls and suddenly owes fuck ton of money when GME 🚀🌝? Probably Citadel, which is involved in [over 99% of all options trading volume](https://www.citadelsecurities.com/products/equities-and-options/). Now in theory, Market Makers are not in the business of taking a position and should be delta-neutral in all positions they take.
+
+However, delta and gamma hedging is a tricky art and probably not possible to perfect, especially in situations where a ticker suddenly becomes irrationally volatile, has large gaps between sessions (i.e. the opening price is significantly above or below the previous closing) and when the underlying is illiquid relative to the notional exposure value. I’m too lazy to actually research this data, although I’m almost certain this is true (someone pls fact check me), but it’s extremely likely that at a certain point, the amount of shares Citadel needed to buy to remain fully delta hedged on all the options they wrote exceeded the available float, and became literally impossible to do.
+
+This is because a large portion of the options they wrote were out-of-the-money, meaning that although they don’t need to buy a lot of GME shares when they first sell the contract to be delta-hedged, they would need to drastically purchase more and more shares if GME goes up, causing it to go up even more and becoming a vicious cycle (i.e. gamma squeeze). Usually, market makers might use other strategies like buying similar tickers or ETFs holding GME to try to remain delta neutral, but there’s so much volatility that it’s possible that Citadel was in fact net delta-negative on GME - on in other words, they lost money if GME goes up.
+
+Okay, so let’s make a logical jump (with no evidence) to speculate an idea - what if **Citadel’s financial soundness came into question?** In other words, what if they were at risk of bankruptcy and ended up defaulting on their financial obligations? Well, they’re involved with over 99% of all options trades, and if they default then the DTCC is suddenly on the hook for unwinding their massive portfolio and ensuring that all of Citadel’s financial obligations, including paying out all those GME calls, are met.
+
+Obviously, DTCC does not want this to happen, and as a private corporation, they are allowed to do whatever is in their best financial interest to preserve their own financial soundness to ensure their business is not at risk that is allowed within the financial regulatory framework they operate in - including raising GME margin requirements.
+
+*TLDR; DTCC is definitely too big to fail, so they get broad sweeping powers by financial regulation to make sure they don't fail. Citadel is probably too big to fail in DTCC's eyes because they don't want to be responsible for honoring 99% of all options transactions.*",The Systematic Risk in the Financial System GME revealed,1.0,1615332869,ASoftEngStudent
+20,m1jl0d,[removed],Cruise lines Delayed,1.0,1615332882,Someguyuknow23
+21,m1jl3y,Do you guys think Coeur Mining will go up? The chart shows promising reversal signals. It was also trending on this forum a month ago. Thanks in advance for your thoughts!,Thoughts on Coeur Mining (CDE) ? ⛏️,1.0,1615332891,Builder_Sudden
+22,m1jl7v,,Your favorite superhero!,1.0,1615332900,Hopeful-Delay-4494
+23,m1jl9u,,WTF ??? In 1d 1.8k up? Content value network ... if I should have known :p...that’s to the moon,1.0,1615332904,Chris07980
+24,m1jlm4,,Y’all apes came back for me,1.0,1615332931,novionb
+25,m1jlml,"&amp;#x200B;
+
+[https:\/\/opensea.io\/assets\/0x495f947276749ce646f68ac8c248420045cb7b5e\/46121144364309909139476354556490504755660302168966722267620758460978893422593](https://preview.redd.it/zyd4l2k983m61.png?width=2048&amp;format=png&amp;auto=webp&amp;s=18c212da0968c9e87b865ddb5971642878b7c936)",Hey boys just put up this NFT if you wanna check it out. Keep on holding on. https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/46121144364309909139476354556490504755660302168966722267620758460978893422593,1.0,1615332933,Fantastic_Bird_7313
+26,m1jln7,,💎🦍💎 G O T I M E 💎🦍💎,1.0,1615332934,diamondhandsare4eva
+27,m1jlo6,,"I have never seen gains like this before, and I still ain't selling!",1.0,1615332936,BhutlahBrohan
+28,m1jlrf,,💎🙌🏼,1.0,1615332943,Advanced_Ad_5958
+29,m1jlst,,Freedom Feels Great - Ditch RH,1.0,1615332946,Myllokunmingia
+30,m1jlxf,So...is there a way to Game Stop the bond auction tomorrow? The bond market has been down lately,Bond auction 2morrow,1.0,1615332957,alwaysready42
+31,m1jlza,"I want to do some trading on the side. I have heard good things about Fidelity, but really I don't know where to start. Any suggestions?",Best trading app to start with?,1.0,1615332962,Gravestron
+32,m1jm4g,,"It's coming, lads. 💎🙌",1.0,1615332973,Polevata
+33,m1jmch,,what do u guys think for zomedica looks promising,1.0,1615332991,StockTrader91
+34,m1jmoh,,Diamond Hand Momma They Call Me.,1.0,1615333016,weezyJefferson4
+35,m1jmt8,,"Okay so im fairly new to trading, and I hold GME, but should I buy AMC?",1.0,1615333027,Just-Economy5864
+36,m1jmum,Open for squeeze discussion.,ALL $EYES ON YOU!!!,1.0,1615333030,fsu63189
+37,m1jmv7,"I will start by saying I full ape. If this isnt possible.. someone please correct me.
+  We all know that Melvin capital and citadel were in deep short positions a few months ago. What if behind the scenes, someone from the government gave them 3 weeks before the next hearing, to open up long positions to try and cover their losses. The stock was around $40 back then, and over 200 now. 
+How many shares can we expect them to puchase?
+Noone sell. We are possibly helping the enemy.
+HODL HODL HODL",What may have happened behind the scenes..,1.0,1615333032,MysteriousMusic1372
+38,m1jn58,,u/DeepFuckingValue has made it across the pond and onto the BBC. As an English retard I didn’t understand the conversation but the colours were similar to the crayons I ate for lunch.,1.0,1615333053,_DrinkinPinkRabbits_
+39,m1jnao,,It’s not much but I’M IN !! Let’s go AMC !!! 🚀🚀🚀,1.0,1615333064,iAn1sha
+40,m1jnkn,,I’m not selling I always been broke nothing new 💎🙌🚀🚀🚀,1.0,1615333089,lurkeylyrker
+41,m1jnm2,,What are you doing step market,1.0,1615333093,Terz234
+42,m1jnpb,,WTF ??? In 1d 1.8k up? Content value network ... if I should have known :p...that’s to the moon,1.0,1615333100,Chris07980
+43,m1jnv0,[removed],Diamondhedge Sub and wallstreetbets,1.0,1615333112,Infamous_Sympathy_91
+44,m1jnv5,I will be buying few Roblox shares but I dont know which app os the best and when do I buy them. First day or should I wait a little?,Im new to trading and I need an advice.,1.0,1615333112,justaskinnyboi
+45,m1jnx5,,Am I doing this right?,1.0,1615333116,no____thisispatrick
+46,m1jo13,,"How are we not talking about IVR?? 8.51% dividend.. what's 8.5% x 500% growth potential?? I'm bad at math and even worse at stocks; but this one seems like a slam dunk to me... Like a legit, real, investment. I'm gonna pour a ton in to this unless anyone objects?? and how come??",1.0,1615333125,tickly0
+47,m1jo4e,,Class systems are fun when you can turn them off and on,1.0,1615333134,deth-373829
+48,m1jo8m,,Tetra bio pharma TBPMF$$$$.,1.0,1615333145,jip_upwallstreet
+49,m1joe3,,"Idiots first time investing, will I be ok?",1.0,1615333158,Electrical_Moose_116
+50,m1join,,Cool Idea and concept - Thoughts ?,1.0,1615333169,bull1tz
+51,m1jojz,,💎🙌🏼,1.0,1615333172,Advanced_Ad_5958
+52,m1jolo,"
+IPO Preview: Roblox, Coupang, Joann Lead Busy Week Of Offerings
+Chris Katje , Benzinga Staff Writer  
+ 
+March 08, 2021 10:31am   3 min read   Comments
+
+→ Click here to learn about breakout trades.
+IPO Preview: Roblox, Coupang, Joann Lead Busy Week Of Offerings
+
+This week’s IPO calendar has several high profile offerings coming to the public markets. The delayed and highly anticipated direct listing from Roblox leads the week, along with South Korean e-commerce company Coupang and U.S. arts and craft retailer Joann.
+
+Roblox Corporation: Online gaming company Roblox Corporation NYSERBLX is going public with a direct listing to sell 196.7 million shares. The company has 31.1 million daily active users as of September, up 81% year-over-year. In the most recent reported nine-month period, users spent 22.2 billion hours engaged on the company’s platform.
+
+Roblox had revenue of $589 million in the nine-month period ending in September, a 68% year-over-year increase. 
+
+New Traders Swear By Benzinga Options
+
+★★★★★
+""9 out of 10 trades are winners!"" - Cameron W. Houston, TX
+
+We sift through this volatile market for consistent trades so you don't have to. Get Benzinga Options: Starter Edition to follow Benzinga's high-conviction options trades. 
+
+Click here to get my trades!
+
+The company plans to continue its growth with a platform expansion appealing to an older audience and international growth. Roblox has a joint venture with Tencent Holdings
+TCEHY 4.46%
+to expand in China.
+
+Related Link: Talking Roblox: Interview With Will Hershey On Gaming Company’s Upcoming IPO
+
+Coupang: South Korean e-commerce company Coupang NYSECPNG plans to sell 120 million shares at a price point of $27 to $30. The company offers some same day delivery services and offers next day delivery if orders are placed by midnight. Coupang offers millions of items to customers including fresh groceries.
+
+Seventy percent of the population of South Korea is within seven miles of a logistics center. The company has the largest B2C logistics footprint of all South Korean e-commerce companies.
+
+In 2019, the company launched a membership program with a flat monthly fee for free shipping on all items without a minimum order size. The company’s Coupang Eats and Rocket Fresh are the nation’s leading food delivery and online grocers, respectively.
+
+Revenue for the company was $3.8 billion in the fourth quarter of 2020. Fiscal 2020 revenue of $12 billion was up 90.8% year-over-year.
+
+(benzi^ga . com/news/21/03/20048728/ipo-preview-roblox-coupang-joann-lead-busy-week-of-offerings)
+
+
+
+Coupang is seeking to raise up to $3.6 billion in its IPO and could garner a value of more than $50 billion. That would make it the largest float by a Korean company since Samsung Group took its insurance unit public at home in 2010.
+
+Had the loss-making e-commerce firm listed in Korea -- which from this month will allow unprofitable companies to go public -- Coupang could have fetched a maximum valuation of just $10 billion, according to Suh YongGu, a marketing professor at Sookmyung University.
+
+“The history of capitalism in South Korea is short, so Koreans don’t ascribe high valuations to loss-making companies,” said Suh.
+
+A $51 billion valuation would put Coupang among the five most valuable companies in Korea, of which Samsung Electronics Co. is the biggest. Korea’s other big startups with growing clout in e-commerce -- the $58 billion Internet conglomerate Naver Corp., and the $39 billion messaging app Kakao Corp. -- are both listed in Seoul, but were both profitable when they went public. The two are backed by entrepreneurs and not linked to the chaebols like Samsung Group.
+
+In fact, Coupang’s listing in the U.S. will allow it to exceed the combined market value of the six chaebol-owned retailers trying to expand their presence in e-commerce -- E-Mart Inc., Lotte Shopping Co., GS Retail Co., Shinsegae Inc., BGF Retail Co., and Hyundai Department Store Co..
+
+Liquidity is another allure of the U.S. market, allowing companies to raise funds frequently through secondary share sales. Korea’s stock market, at a total value of $2.12 trillion, is a fraction of the $44.2 trillion of the U.S., according to Bloomberg data.
+
+“It’s easier for investors to exit” their stakes in the U.S., said Seo Sang-Young, an analyst at Kiwoom Securities in Seoul. “And the trading volume is much larger.”
+
+And finally, a U.S. listing gives founders more power.
+
+Korea doesn’t allow uneven voting rights, favored by tech firms like Alphabet Inc. and Facebook Inc., who see it as a way for founders to focus on the long-term. But the U.S. does, even if the ownership structure is itself not without controversy, as it lacks shareholder protections. Kim, Coupang’s 42-year-old founder, will end up with 76.7% of the company’s voting rights with just 10.2% of its outstanding shares.
+
+“We would have liked Coupang to list in Korea,” said Kim Sung-gon, a spokesperson at Korea Stock Exchange. “But we respect the company’s choice.”
+
+(Bloomberg)",ECommerce IPO this month with higher price to sales than Amazon.,1.0,1615333176,tsa004
+53,m1jomt," Hello fellow Apes and Autists. I rarely post on this forum and only have done so when I have a diamond for you. My other 2 posts were amazing gems. I will try and make this short, simple, sweet for everyone to understand.
+
+GOCO reported earnings yesterday, they made money 133 million or 41 cents per share. 
+
+Fourth quarter 2020 net revenue of $445.9 million increased 55% compared to the prior year period, and fiscal year 2020 net revenue of $877.4 million increased 63% compared to the prior year period
+
+They are forecasting 1.15 Billion in sales to 1.3 Billiion in sales for 2021 that is 50%
+
+They are expecting earnings of 345 to 385 million that is on 321 million shares.
+
+Let me translate that for you apes! 
+
+**That is at worst $1.07 Per Share Trading at Under $10.50** 
+
+**That is an 8 PE, You will not find any company growing at 50%+ a year with a PE under 8.** 
+
+**Even the boomer dow stocks are over 10PE and grow near 10%**
+
+**What does that mean? Apes get rich and make tendies. GOOD LUCK!**","GoHealth – GOCO The Hidden Gem, In Case you missed AMC or GME",1.0,1615333179,UltimateTraders
+54,m1joqn,,Tis a sign of good tendies to squeeze,1.0,1615333187,MemoryTM
+55,m1jovq,,What does the green do?,1.0,1615333199,Quiet-Education121
+56,m1joxu,Watch and gain!,"Come on Diamond 💎 Hands , get behind GNUS. .... Because GNUS = MARVEL",1.0,1615333204,dsbelievin
+57,m1jp0c,Do I buy in at 246 or am I too late?,GME on the rise again?,1.0,1615333209,Rich-Bicycle5332
+58,m1jp48,,This feels more like gme bets. What happened to the real wsb. I wouldnt be surprised if this is ran by the hedgies distracting from their real problem AMC,1.0,1615333218,Own-Albatross3868
+59,m1jqr8,I am kind of new to this and missed out on buying gme...,Are there any other stocks besides gme that I should invest in,1.0,1615333349,Moistsacks3325
+60,m1jquf,,1.25 right now 🚀🌖,1.0,1615333356,alredy_takn
+61,m1jqxj,"[https://www.pairagraph.com/dialogue/3b8e49dbdd8946d6a58c61c579c93f8f](https://www.pairagraph.com/dialogue/3b8e49dbdd8946d6a58c61c579c93f8f?25)
+
+* Speculative option positions are highest on record.
+* Highest-ever volumes in pink sheet stocks.
+* Short interest is lowest on record.
+* Margin debt is highest on record.
+* Hedge fund gross exposure is highest on record.
+* Investor optimism is highest on record.
+* Mutual funds have the lowest cash position in history
+
+""The question is whether the market is correct in taking these risks.
+
+The economy is still probably trending at or below zero (the numbers will get screwy YoY for a while) due to huge insolvencies and a still restricted global economy; and structural unemployment is 6-10% (*i.e.,* whether you include the Labor Force Participation rate or not) showing how bad the picture really is. Debts have been temporarily forgiven but not permanently, so those payments are yet to come, and a LOT of demand for durable goods and housing has been brought forward. There is a high chance of payback, and the economy can't survive without stimulus.
+
+The risks are (1) the market trying to price in higher rates (but likely to be capped by the Fed or by more sluggish growth) and (2) a strong potential for the dollar to rise. Both causes upset the speculative reflation party. Or it can wither away if growth comes in weaker than expected. I err towards a rising dollar and weaker growth over time, once stimulus fades.
+
+But, the question I am wrestling with is whether we are even using the right denominator for assets anymore. The massive money printing doesn't show up in CPI due to demographics, debt loads, deflation effects of technology, or globalisation; but it does show up in assets. I'm starting to play around with the idea that the right way to understand what is really going on is to change the denominator to the Fed balance sheet for US equities, or the G4 Central Bank Balance Sheets for global stocks. Since QE started in 2008, stocks have basically traded sideways (*i.e.*, they have offset the balance sheet but have done no more than that).
+
+Only technology stocks have outperformed the balance sheet since 2008 and that suggests that the tech trend is a secular trend, which also makes sense to me.
+
+In gold terms, equities are fairly priced versus the long run average too.
+
+Thus, I'm starting to think we are looking at 2 bubbles: a shorter-term bubble in reflation (that can be corrected by a sharp sell off), and the really big bubble that is distorting everything—central bank balance sheets. When viewed through those two lenses, everything since 2008 makes more sense.""",By all measures the markets are now in full bubble territory,1.0,1615333364,calmeagle11
+62,m1jr1k,"I just thought of this question and the moral dilemmas associated with it. 
+
+The pros of shorting Robinhood at IPO:
+
+- Would be funny 
+- Give Vlad a taste of some of his own medicine by cozying up to the hedgies
+- A few hearings in the future and general hatred amongst the government: could be a legitimately smart short due to fines and regulations.
+- fuck over all those funds that are propping up Robinhood.
+
+The cons of shorting Robinhood at IPO:
+
+- All my homies hate short sellers
+- would be a bit of a deviation from some core beliefs of WSB
+
+
+Well what’s the move boys? 
+
+My Positions: LONG SoFi and Chamath for Governor 
+
+Not investment advice.",When Robinhood IPOs: Do we short the shit out of it?,1.0,1615333373,CavsDaddy
+63,m1jr3d,,THE ROCKET (RKT) must have lost fuel 🤷🏾‍♂️🤦🏽‍♂️ ALL OF YOU ARE LIARS!!! $40-60 my ASS!!,1.0,1615333377,GRIND2SHYNE
+64,m1jr60,,🚨🚨🚨 SELL ALERT 🚨🚨Unfortunately we should call it a day for beautiful $CAN dropping now sell and enjoy the profit 📉⚠️ #stockmarkets #StocksToWatch #StockMarket #stock #StocksToWatch,1.0,1615333383,dralifornia
+65,m1jret,"TLDR: The banks run the world and don't give a fuck. Furthermore, the banks themselves are run by people like the above - criminals who will do anything to hide failure and anything to make money.
+
+&amp;#x200B;
+
+\- In the 2007/2008 financial crisis, Kareem Serageldin, a banker at Credit Suisse was sentenced to 30 months in jail for manipulating bond prices to hide $1 billion of losses.
+
+\- Goldman Sachs paid $550 million to settle fraud charges after allegedly anticipating the 2007/2008 crisis and selling toxic investments to its clients. 
+
+\- Nick Leeson made a variety of unauthorised speculative trades whilst working for the bank in Singapore and quickly built up a deficit which he hid. Over the years the deficit grew and, after it was discovered that he had lost the bank £827 million, Barings collapsed. 
+
+\-  **Bernard Lawrence Madoff** is currently serving a federal prison sentence for offenses related to a massive Ponzi scheme. He is the former non-executive chairman of the NASDAQ stock market, the confessed operator of the largest Ponzi scheme in world history, and the largest financial fraud in U.S. history. Prosecutors estimated the fraud to be worth $64.8 billion based on the amounts in the accounts of Madoff's 4,800 clients as of November 30, 2008.",This is what banks are capable of,1.0,1615333403,FireRngesus
+66,m1jrf0,,GE TO THE REAL MOON 🌚,1.0,1615333403,GRIND2SHYNE
+67,m1jro9,[removed],‘GameStop/Gamestonk’ Has Nothing To Do With The Madness Of Crowds,1.0,1615333424,KangarooReady6430
+68,m1jrra,ROBLOX IS GOING PUBLIC TOMORROW LETS MAKE IT COME OUT WITH A BANG!,LETS SEND RBLX TO THE MOON,1.0,1615333431,GAMEGO789
+69,m1jrst,,AMC. $ 50 by Friday,1.0,1615333435,vintagevdubbs
+70,m1js1q,,Please give me a reason and reassurance why I should put in more money and as to how GameStop will take off. I’m seriously considering using what I have to make some money for myself.,1.0,1615333456,d_magzz
+71,m1js8r,,20% for closing a deal For you,1.0,1615333470,Full_Seaweed_8857
+72,m1jsbn,[removed],HERE WE GO!,1.0,1615333477,Jazzlike-Recover7560
+73,m1jsey,[removed],"MONKE FROM BOLIVIA AND HIS BEST FRIEND PACKING TO GET TO THE MOON, CAN WE GET 1M???!!!",1.0,1615333486,Interesting-Plate-30
+74,m1jsyg,,You glorious apes came back for me 🦍 next stop the moon 🚀,1.0,1615333532,A_Freaking_Ninja
+75,m1jt1q,,"GameStop, Game Go! We passed $200!",1.0,1615333540,hillmechanics
+76,m1jt9r,"There was a highly upvoted comment in the GME daily thread today that was editing to completely change the position of the comment. Here are the screenshots showing the comment before and after the edit.
+
+[http://imgur.com/a/lpSByCV]()
+
+Does this violate any specific reddit rules regarding the upvote/downvotes system? Does this warrant a ban from this subreddit? 
+
+Is there a way comments could be locked for editing after reaching certain upvote/downvote thresholds? 
+
+If the spirit of the voting system is to reflect the actual views of the userbase, this seems like something that should not be allowed to happen.",Meta: everyone should be aware of users editing comments as a form vote manipulation,1.0,1615333560,Jeffpardy
+77,m1jtbe,,You sirs. For just the publicity you have gave reddit I LOVE U,1.0,1615333563,fjosmjdifjfndush
+78,m1jtdk,,It ain’t much but I went full retard,1.0,1615333567,nicko17
+79,m1jtjc,,Not a loss if you don't sell 💎🚀🚀,1.0,1615333581,Lagiified
+80,m1jtjj,,🔔💎🙌🔔😍😍 250$,1.0,1615333582,MIB411
+81,m1jtmj,Bank of America is backing the roblox deal. Will bac see some action too?,Bac with rblx,1.0,1615333587,no____thisispatrick
+82,m1jtp4,Any opinions on WPG? This REIT could be an interesting move.,WPG?,1.0,1615333594,After-Chain-4064
+83,m1jtp8,,On my way to the moon. Who’s with me!?! 💎💎🙌🏼🙌🏼🚀🚀🚀,1.0,1615333594,AlternativeMK9
+84,m1jtz1,,Smol apes 2nd day I went all in with my money,1.0,1615333618,Stvngamer
+85,m1ju6m,,Needed to average down so I bought 200 more shares.,1.0,1615333635,Tirade75
+86,m1juc7,,Give me a reason and assurance as to why I should put money to gme instead of saving for a car. I’m seriously considering this because I want to make money can anyone help?,1.0,1615333647,d_magzz
+87,m1juiv,,"Still in with my meager 8 shares! Bought at $325, averaged down to $152. Next stop, the moon! Thanks for the wild ride, retards!",1.0,1615333661,Wrathdragyn
+88,m1julm,,If you know.. you know.. .,1.0,1615333667,Narshlob88
+89,m1juv2,,Mama ain’t raise no 🧻🤲,1.0,1615333688,69rekaosrepus
+90,m1juw7,,Let me know what you think,1.0,1615333690,TraderRaz117
+91,m1jv0e,"
+GNOG stocktwits board rocks we control trending now at will - and hedge funds w reverse Bearish click 
+
+To the moon GNOG $$$$",GNOG Bearish sentiment we control algo,1.0,1615333700,Expensive_Explorer_2
+92,m1jv0m,,Did a little Ape charting today. Ape likes the banana line.,1.0,1615333700,steelesurfer
+93,m1jv2r,"I made a pretty decent amount of money the day before RH fucked us all and flagged me as a day trader. So I’m hoping tomorrow I’ll finally see some return on my 80 shares. 
+Just a single mom trying to eat tendies with my babies on the moon. 
+I swear I’ll keep 💎🙌 with y’all. I’ve held on this long! 
+Just looking for a more intelligent insight on tomorrow, cuz clearly my ape brain thought it was a good idea to buy a shitload of shares @ 18$, so I’m just as retarded as the rest of u. 
+Maybe there’s a genius among us 🙏🙏",What’s everyone’s AMC predictions for tomorrow?!,0.99,1615333704,BreezyBaby44
+94,m1jv4n,,When do I get my show on CNBC?,1.0,1615333709,replyforwhat
+95,m1jv6s,,What are you doing step market,1.0,1615333713,Terz234
+96,m1jv8i,,Needed to average down so I picked up 200 more shares...,1.0,1615333717,Tirade75
+97,m1jvdg,Roblox is going public tomorrow and starting at $45 this could go big,New YOLO opportunity coming tomorrow morning (March 10),1.0,1615333729,nono9315
+98,m1jvf9,,Want 0.5% return every day guarenteed on your initial investment? Email me jasonhurney@gmail.com for more info,1.0,1615333732,Infantly
+99,m1jvfl,,PLTR next stop?,1.0,1615333733,Fuckurputs

@@ -1,0 +1,345 @@
+,post_id,text,title,upvote_ratio,date,author
+0,lx6mg1,[removed],Next GME!,0.19,1614812146,Xcrman007
+1,lx6mjb,[removed],🚨 Listen Up Retards! $SOS DD from a (C-Word Banned For Some Reason) Maniac! Shines More Light on How Manipulative the Net Short Hedge Funds like Melvin can Act for a Profit! 🚀,0.8,1614812153,robby5555
+2,lx6mjp,[deleted],Bumped into a fellow ape in a League game,1.0,1614812154,[deleted]
+3,lx6mlj,,Watching AMERICAN DAD on Hulu can’t help to notice episode S2 E8 🚀 — AMC to $58 — 🚀,0.89,1614812158,123_1234_12345
+4,lx6mnm,,I am not,1.0,1614812162,Fengsel
+5,lx6mpz,[removed],Thoughts on $BUZZ ETF?,1.0,1614812168,Competitive_Bear_536
+6,lx6mz2,,GE is the future my apes,1.0,1614812186,Historyguy_253
+7,lx6n1d,"**Disclosure: This is not investment advice. I own shares of GME. I like the stock. This is purely my opinion and these numbers have not been audited.**
+---
+**Round 2**: Ding, ding, ding. Here's my previous [analysis](https://www.reddit.com/r/wallstreetbets/comments/lspbb5/gme_dd_analysis_of_options_expiry_on_226_and/)
+
+---
+
+**TL;DR**: The data indicates that squeezes could be on the way.
+
+---
+**Analysis**
+
+Currently: Roughly $227m in value, or 11.6m shares, (call-put) are in the money. 
+
+* At each $10 threshold up to $150/share, approximately 1m shares come into the money at each increment. 
+* At $160/share, approximately 2m shares come into the money.
+
+&amp;nbsp;
+
+Since rate of delta change is the highest around each strike price (meaning gamma is also largest). It would lead me to believe that a ton of shares will need to be bought to hedge these positions as these share price amounts are passed (creating a sequence of gamma squeezes).
+
+&amp;nbsp;
+
+**If price were to squeeze up to $810/share (~56b market cap): 
+
+* The net calls in the money would exceed the float.** This is insane! Even if calls were covered on the way up by buying the underlying, it's not possible to cover more than 100% of float
+* 8m shares would come into the money creating a huge gamma squeeze
+* This in turn would create a massive short squeeze (even if current short reporting is accurate, which is somewhat questionable at this point, there are more net calls alone that need to be covered to exceed float, which means shorts would be squeezed not just because of the price, but also because of share lenders calling shares. P.S. - Not sure how this works, so would like to hear others weigh-in if they understand this better)
+* Really, hitting this price seems like it would create a squeeze of epic proportions
+
+&amp;nbsp;
+
+As of 3/3 close: (Call Value ITM - Put Value ITM) = **&gt;$226m** | Call Shares ITM - Put Shares ITM = **&gt;11.5m**
+
+---
+
+**Data**
+
+&amp;nbsp;
+
+Here's the call-put at various different prices.
+
+&amp;nbsp;
+
+|close price|call-put value|call-put shares|% of float|market cap
+|--:|--:|--:|--:|--:
+| 100 | -$201,809,550 | 6,835,400 | 15.2% | $7b
+|110|$10,521,350|9,778,800|21.7%|$8b
+|120|$226,704,750|11,592,100|25.7%|$8b
+|130|$446,365,250|12,925,800|28.7%|$9b
+|140|$669,720,750|14,056,700|31.2%|$10b
+|150|$894,626,250|15,208,300|33.8%|$10b
+|160|$1,129,840,250|17,105,300|38.0%|$11b
+|170|$1,366,069,250|17,670,700|39.2%|$12b
+|180|$1,605,351,750|18,202,100|40.4%|$13b
+|190|$1,847,982,750|18,695,800|41.5%|$13b
+|200|$2,093,079,750|19,494,900|43.3%|$14b
+|210|$2,351,539,750|21,391,700|47.5%|$15b
+|220|$2,611,682,750|21,638,200|48.0%|$15b
+|230|$2,873,648,250|22,053,100|49.0%|$16b
+|240|$3,138,199,250|22,466,600|49.9%|$17b
+|250|$3,405,997,250|23,338,600|51.8%|$17b
+|260|$3,679,676,750|24,481,600|54.3%|$18b
+|270|$3,954,336,250|24,657,400|54.7%|$19b
+|280|$4,229,638,750|24,801,000|55.1%|$20b
+|290|$4,505,858,750|24,948,400|55.4%|$20b
+|300|$4,783,059,750|25,351,500|56.3%|$21b
+|310|$5,073,186,250|26,944,700|59.8%|$22b
+|320|$5,364,298,000|27,189,100|60.4%|$22b
+|330|$5,658,580,000|27,605,400|61.3%|$23b
+|340|$5,955,671,000|27,963,300|62.1%|$24b
+|350|$6,253,594,000|28,084,700|62.3%|$24b
+|360|$6,556,845,000|28,649,400|63.6%|$25b
+|370|$6,862,032,500|28,867,000|64.1%|$26b
+|380|$7,168,371,000|29,016,600|64.4%|$27b
+|390|$7,475,723,500|29,127,600|64.7%|$27b
+|400|$7,783,850,500|29,250,500|64.9%|$28b
+|410|$8,105,302,000|30,614,100|68.0%|$29b
+|420|$8,427,259,000|30,695,200|68.1%|$29b
+|430|$8,750,625,000|30,869,200|68.5%|$30b
+|440|$9,075,446,000|31,042,300|68.9%|$31b
+|450|$9,400,534,000|31,107,800|69.1%|$31b
+|460|$9,728,535,000|31,430,100|69.8%|$32b
+|470|$10,056,809,000|31,484,600|69.9%|$33b
+|480|$10,385,370,000|31,545,700|70.0%|$33b
+|490|$10,714,482,000|31,629,000|70.2%|$34b
+|500|$11,044,436,000|31,819,200|70.6%|$35b
+|510|$11,387,898,000|33,292,500|73.9%|$36b
+|520|$11,731,749,000|33,374,100|74.1%|$36b
+|530|$12,075,914,000|33,435,900|74.2%|$37b
+|540|$12,420,559,000|33,513,000|74.4%|$38b
+|550|$12,765,594,000|33,583,900|74.5%|$38b
+|560|$13,113,141,000|33,932,800|75.3%|$39b
+|570|$13,460,868,000|34,100,400|75.7%|$40b
+|580|$13,809,225,000|34,290,800|76.1%|$40b
+|590|$14,157,787,000|34,374,400|76.3%|$41b
+|600|$14,506,602,000|34,414,800|76.4%|$42b
+|610|$14,862,204,000|35,107,200|77.9%|$43b
+|620|$15,217,948,000|35,128,000|78.0%|$43b
+|630|$15,573,943,000|35,156,900|78.0%|$44b
+|640|$15,930,174,000|35,187,000|78.1%|$45b
+|650|$16,286,864,000|35,242,800|78.2%|$45b
+|660|$16,646,145,000|35,509,400|78.8%|$46b
+|670|$17,005,750,000|35,544,100|78.9%|$47b
+|680|$17,365,355,000|35,546,300|78.9%|$47b
+|690|$17,725,404,000|35,592,900|79.0%|$48b
+|700|$18,085,453,000|35,597,700|79.0%|$49b
+|710|$18,450,950,000|36,147,300|80.2%|$50b
+|720|$18,816,447,000|36,152,400|80.2%|$50b
+|730|$19,182,837,000|36,246,800|80.5%|$51b
+|740|$19,549,227,000|36,263,800|80.5%|$52b
+|750|$19,916,583,000|36,377,400|80.7%|$52b
+|760|$20,283,939,000|36,389,300|80.8%|$53b
+|770|$20,652,936,000|36,565,300|81.2%|$54b
+|780|$21,021,933,000|36,594,700|81.2%|$54b
+|790|$21,393,815,000|36,912,600|81.9%|$55b
+|800|$21,765,697,000|37,047,300|82.2%|$56b
+|810|$22,217,511,000|45,175,200|100.3%|$56b
+|820|$22,669,325,000|45,175,200|100.3%|$57b
+|830|$23,121,139,000|45,175,200|100.3%|$58b
+|840|$23,572,953,000|45,175,200|100.3%|$59b
+|850|$24,024,767,000|45,175,900|100.3%|$59b
+|860|$24,476,680,000|45,186,500|100.3%|$60b
+|870|$24,928,593,000|45,186,500|100.3%|$61b
+|880|$25,380,506,000|45,186,500|100.3%|$61b
+|890|$25,832,419,000|45,186,500|100.3%|$62b
+|900|$26,284,332,000|45,187,200|100.3%|$63b
+|910|$26,736,550,000|45,218,400|100.4%|$63b
+|920|$27,188,768,000|45,218,400|100.4%|$64b
+|930|$27,640,986,000|45,218,400|100.4%|$65b
+|940|$28,093,204,000|45,218,400|100.4%|$66b
+|950|$28,545,422,000|45,220,100|100.4%|$66b
+|960|$29,000,108,000|45,468,600|100.9%|$67b
+|970|$29,454,794,000|45,468,600|100.9%|$68b
+|980|$29,909,480,000|45,468,600|100.9%|$68b
+|990|$30,364,166,000|45,468,600|100.9%|$69b
+|1000|$30,818,852,000|45,468,600|100.9%|$70b
+|1010|$31,273,538,000|45,468,600|100.9%|$70b
+|1020|$31,728,224,000|45,468,600|100.9%|$71b
+|1030|$32,182,910,000|45,468,600|100.9%|$72b
+|1040|$32,637,596,000|45,468,600|100.9%|$73b
+|1050|$33,092,282,000|45,468,600|100.9%|$73b
+|1060|$33,546,968,000|45,468,600|100.9%|$74b
+|1070|$34,001,654,000|45,468,600|100.9%|$75b
+|1080|$34,456,340,000|45,468,600|100.9%|$75b
+|1090|$34,911,026,000|45,468,600|100.9%|$76b
+|1100|$35,365,712,000|45,468,600|100.9%|$77b
+|1110|$35,820,398,000|45,468,600|100.9%|$77b
+|1120|$36,275,084,000|45,468,600|100.9%|$78b
+|1130|$36,729,770,000|45,468,600|100.9%|$79b
+|1140|$37,184,456,000|45,468,600|100.9%|$80b
+|1150|$37,639,142,000|45,468,600|100.9%|$80b
+|1160|$38,093,828,000|45,468,600|100.9%|$81b
+|1170|$38,548,514,000|45,468,600|100.9%|$82b
+|1180|$39,003,200,000|45,468,600|100.9%|$82b
+|1190|$39,457,886,000|45,468,600|100.9%|$83b
+|1200|$39,912,572,000|45,468,600|100.9%|$84b
+|1210|$40,367,258,000|45,468,600|100.9%|$84b
+|1220|$40,821,944,000|45,468,600|100.9%|$85b
+|1230|$41,276,630,000|45,468,600|100.9%|$86b
+|1240|$41,731,316,000|45,468,600|100.9%|$86b
+|1250|$42,186,002,000|45,468,600|100.9%|$87b
+|1260|$42,640,688,000|45,468,600|100.9%|$88b
+|1270|$43,095,374,000|45,468,600|100.9%|$89b
+|1280|$43,550,060,000|45,468,600|100.9%|$89b
+|1290|$44,004,746,000|45,468,600|100.9%|$90b
+|1300|$44,459,432,000|45,468,600|100.9%|$91b
+|1310|$44,914,118,000|45,468,600|100.9%|$91b
+|1320|$45,368,804,000|45,468,600|100.9%|$92b
+|1330|$45,823,490,000|45,468,600|100.9%|$93b
+|1340|$46,278,176,000|45,468,600|100.9%|$93b
+|1350|$46,732,862,000|45,468,600|100.9%|$94b
+|1360|$47,187,548,000|45,468,600|100.9%|$95b
+|1370|$47,642,234,000|45,468,600|100.9%|$96b
+|1380|$48,096,920,000|45,468,600|100.9%|$96b
+|1390|$48,551,606,000|45,468,600|100.9%|$97b
+|1400|$49,006,292,000|45,468,600|100.9%|$98b
+|1410|$49,460,978,000|45,468,600|100.9%|$98b
+|1420|$49,915,664,000|45,468,600|100.9%|$99b
+|1430|$50,370,350,000|45,468,600|100.9%|$100b
+|1440|$50,825,036,000|45,468,600|100.9%|$100b
+|1450|$51,279,722,000|45,468,600|100.9%|$101b
+|1460|$51,734,408,000|45,468,600|100.9%|$102b
+|1470|$52,189,094,000|45,468,600|100.9%|$103b
+|1480|$52,643,780,000|45,468,600|100.9%|$103b
+|1490|$53,098,466,000|45,468,600|100.9%|$104b
+|1500|$53,553,152,000|45,468,600|100.9%|$105b
+|1510|$54,007,838,000|45,468,600|100.9%|$105b
+|1520|$54,462,524,000|45,468,600|100.9%|$106b
+|1530|$54,917,210,000|45,468,600|100.9%|$107b
+|1540|$55,371,896,000|45,468,600|100.9%|$107b
+|1550|$55,826,582,000|45,468,600|100.9%|$108b
+|1560|$56,281,268,000|45,468,600|100.9%|$109b
+
+
+
+&amp;nbsp;
+
+**Source**: [Yahoo! Finance](https://finance.yahoo.com/quote/GME/options?p=GME)
+
+*I pulled all options expirations date available.*
+
+&amp;nbsp;
+
+I would appreciate if others can contribute to (and expand upon) this analysis. 
+
+&amp;nbsp; 
+
+**Finally**: This is not investment advice. I own shares of GME. I like the stock.","GME DD: Huge squeeze potential. Options analysis, part II",0.95,1614812193,critter_bus
+8,lx6n7g,,so proud of him.........................,0.66,1614812208,Overall-Class-963
+9,lx6n8j,[deleted],RKT stock is the most shorted. You idiots let bots take us off our game,0.57,1614812210,[deleted]
+10,lx6n8r,[deleted],Instead of buying RKT I YOLO’d on GME made more than half of my year’s salary. Either I retire early or I’ll be hanging out at the local Caritas (Italian homeless shelter).,1.0,1614812211,[deleted]
+11,lx6nb3,[removed],3 HEDGIES IN POSITION TO LOSE EVERYTHING AND READY FOR A WSB SQUUEEEZZZEE. WSB WE NEED YOUR HELP 🚀🚀🚀,0.35,1614812217,MyNameIsTaddy
+12,lx6nnf,[removed],PLTR. Buckle up,1.0,1614812246,RuggstoRiches
+13,lx6o3h,[removed],$NAKD cheap,1.0,1614812284,TSMSALADQUEEN
+14,lx6o3o,[removed],yellen the tyrant,1.0,1614812284,mcmendez013
+15,lx6o54,[removed],$BUZZ TO THE MOON U SWAMP DONKEYS,1.0,1614812288,KingKobraKaii
+16,lx6o9a,[removed],Wendy's CEO to appear on Mad Money,1.0,1614812297,Academic_Power_7473
+17,lx6ogs,,PLTR UP 6% AH base on just cnbc news??!!!??! Will pltr become the #1 or even the #2 on Swaggy stocks??,0.79,1614812316,SmallRadComp
+18,lx6oi6,"Getting shafted after buying shitty tech stock trading at 100x made up 2025 revenue like $LMND? Come to value town and play the reopening with commercial real estate.
+
+Previous two yolo updates:
+1. https://www.reddit.com/r/wallstreetbets/comments/lkrzqp/100k_nmrk_real_estate_yolo/?sort=confidence
+2. https://www.reddit.com/r/wallstreetbets/comments/lnnm92/130k_nmrk_yolo_update_still_in
+
+NMRK has fared very well since tech started puking. It may not have retard strength to 10x in a week, but can double and triple in a year, most importantly, it is safe because $800 million of cash it was set to receive over the next several years just got pulled forward to 2021 thanks to NASDAQ. The company is buying back $400 MILLION in stock. Commercial leasing activity is about to get blown the fuck up after Covid when everyone gets the jab. Even if they don't, Q4 2020 EPS was $0.30, so still very good in an okayish commercial real estate market.
+
+I think fair value anywhere between 15 to 30 depending on how bullish you are on commercial real estate activity.
+
+Position: https://ibb.co/M8xjcXQ",NMRK Yolo update $100K &gt; $188K,0.55,1614812319,TrumpBidenLovechild
+19,lx6ok6,,"GME , the everlasting gobstopper!!!",1.0,1614812324,urtheriver
+20,lx6oke,[removed],Xl fleet short by muddy waters,1.0,1614812325,Neo8881212
+21,lx6oo8,,If the Hedgies get their way,1.0,1614812333,sfaticat
+22,lx6p9i,[removed],Phala Network! PHA! Moon it! On Kucoin &amp; Binance..69 right now $100.00 by EOY!!!!,1.0,1614812382,TEAM_MACHINE79
+23,lx6pak,[deleted],Gains ——&gt;&gt; #GME,1.0,1614812385,[deleted]
+24,lx6pfq,,Hmmmmm....,1.0,1614812396,thekevo1297
+25,lx6psq,[removed],How would you feel about a law that requires people over the age of 70 to pass a specialized driving test in order to continue driving?,0.67,1614812418,Overall-Class-963
+26,lx6pvf,[deleted],Instead of buying RKT I YOLO’d on GME made more than half of my year’s salary. Either I retire early or I’ll be hanging out at the local Caritas (Italian homeless shelter).,0.5,1614812424,[deleted]
+27,lx6q4s,,Hmmmmmmm.....,1.0,1614812445,thekevo1297
+28,lx6q61,[deleted],Instead of buying RKT I YOLO’d on GME made more than half of my year’s salary. Either I retire early or I’ll be hanging out at the local Caritas (Italian homeless shelter).,1.0,1614812447,[deleted]
+29,lx6q9l,[removed],Buy APHA,1.0,1614812454,OwnOrganization1322
+30,lx6qff,[removed],🚨 Listen Up Retards! $SOS DD from a (C-Word Banned For Some Reason) Maniac! Shines More Light on How Manipulative the Net Short Hedge Funds like Melvin can Act for a Profit! 🚀,0.83,1614812465,robby5555
+31,lx6qww,[removed],Hypocrites,1.0,1614812502,Kindly-Ad-3611
+32,lx6r5e,[removed],GME to the 🌙 🚀🚀🚀!,1.0,1614812520,dilzafersingh
+33,lx6r64,[deleted],PIC OF MY NEW CRIB,1.0,1614812523,[deleted]
+34,lx6rcd,,"Ah, the duality of life",1.0,1614812537,Henosreddit
+35,lx6rid,[deleted],Someone gave this to a friend who works at GameStop. I love you all.,1.0,1614812549,[deleted]
+36,lx6rjf,[removed],Buy Aphria,1.0,1614812552,OwnOrganization1322
+37,lx6roc,,Why I'm back in GME,0.8,1614812562,[deleted]
+38,lx6rok,[removed],$MSFT,0.5,1614812563,XC-RANCH
+39,lx6rqv,[deleted],We are strong together $PLTR $GME $AMC,1.0,1614812567,[deleted]
+40,lx6s2k,[removed],$UWMC if I get 200 upvotes I'll buy 9000 shares!!,1.0,1614812592,Maskless_Warrior
+41,lx6s5u,[deleted],"My modest gain porn from the RKT launch abortion. ""Sell when others are greedy,"" Sun Tzu",1.0,1614812598,[deleted]
+42,lx6sf2,,New fund tracks 'meme stocks' after GameStop saga caught Wall Street off guard,0.84,1614812618,neurone214
+43,lx6sfp,,Votación positiva para que todos vean que tenemos APOYO.,0.5,1614812619,Overall-Class-963
+44,lx6sns,[deleted],"no giving up yet boys, let’s get to it 🚀",0.8,1614812639,[deleted]
+45,lx6sq6,[removed],$BZTG 🚀🚀🚀,1.0,1614812644,MrSouthShore
+46,lx6srw,,Tesla down 20%?,1.0,1614812648,WallStreet-Killer
+47,lx6sy3,[removed],PALANTIR IS FREE GAINS,0.77,1614812662,feed4all
+48,lx6t9a,[deleted],lmao,1.0,1614812686,[deleted]
+49,lx6ti7,,Xl fleet got shorted TODAY BIG TIME let get this back..Great company,0.5,1614812705,mrrogersgoesgard
+50,lx6tij,[removed],Please don’t lose focus on GME,0.68,1614812706,Carrot-Spiritual
+51,lx6tjd,,NOICE,1.0,1614812707,DopeDialer
+52,lx6tji,[removed],Shorting Robinhood's IPO,1.0,1614812707,Icy-Ad9158
+53,lx6tlk,[deleted],When you buy your first shares after reading on WSB,1.0,1614812713,[deleted]
+54,lx6tml,[removed],Newbie here,0.38,1614812716,Motherofdragons78
+55,lx6trt,[removed],Seeking Alpha- Stock Research service,1.0,1614812730,Kelev_2-67
+56,lx6tt1,[removed],$PLTR apes,1.0,1614812733,100milstrong
+57,lx6tuc,[deleted],Keeping it simple with these bond holding Aussie Boomers 🏀,1.0,1614812735,[deleted]
+58,lx6twv,,I blew air through my nose when I saw this.,1.0,1614812742,Mnkyblunt
+59,lx6u6b,[deleted],Bought some GME Calls... then I sold and bought again lol,1.0,1614812766,[deleted]
+60,lx6u7c,,Which of you took this to GameStop and GAVE IT AWAY?!,1.0,1614812768,Herr_Doktore
+61,lx6u80,,"If you’re still stuck on Robinhood for whatever reason at this point, turn off Data Sharing Permissions in your Settings",1.0,1614812770,[deleted]
+62,lx6uiq,,Stop removing GME-related posts.,1.0,1614812795,[deleted]
+63,lx6unk,,$NNDM needs assistance 🚀,0.53,1614812807,[deleted]
+64,lx6up0,,Shorts haven’t even covered $Rkt 🚀🚀🚀,1.0,1614812811,MrjasonAdair
+65,lx6v12,[deleted],Melvin brags about 20% gains in Feb. Fuck these asshole hedge funds,0.78,1614812842,[deleted]
+66,lx6vdo,[removed],Listen up RETARDS,1.0,1614812869,bd981
+67,lx6vfa,[removed],Thought a about ATT ?,1.0,1614812873,goutham4444
+68,lx6vii,[removed],I’ve been looking for the next squeeze and I think I found it.,0.25,1614812881,MAGAman1775
+69,lx6vjq,,Shorts haven’t covered $Rkt 🚀🚀,0.64,1614812884,MrjasonAdair
+70,lx6vlk,,"My DD. History doesn't always repeat itself, but if the volume does what it did in Jan.... 💎💎💎✋🚀🚀🚀",1.0,1614812889,trpearso
+71,lx6w6a,[removed],Spread attack,0.61,1614812935,CadetCade245
+72,lx6w6k,[removed],NNDM$ need help guys!,1.0,1614812936,Wellplayoenny
+73,lx6w75,,I shouldnt have waited to buy. I had an order ready to fill at $40 now im holding to the moon,1.0,1614812937,Mean_Anxiety_8243
+74,lx6wl6,"TLDR: UNFI = 💎👐🚀🌕
+
+I've been watching unfi for about 4 years now.
+This post is going to be very basic as the last unfi DD post I read had lots of good information. There's no point in repeating the same arguments.
+
+I have a part-time job at a grocery store for insurance. Over the last four years I've been watching UNFI increase their market share and product offerings while the stock price plummeted. Early on I noticed a large short interest. Currently it's around 22% and has been for quite some time. You have to ask yourself why would there be a large short interest throughout a pandemic for a dine at home stock?
+
+One could certainly argue the mismanaged acquisition of SVU greatly contributed to this, however something that I have not heard mentioned in any due diligence report on UNFI is the lawsuit against Goldman Sachs for the unfair terms of the loan. It was around this period in time that I began to notice how large is the short interest was. It is my guess and opinion because of this lawsuit UNFI is being punished by way of short interest. I have not heard anyone mention this as a potential reason for such a high short interest.
+
+During the last four years I have seen UNFI gobble up a significant amount of brands increasing their distribution to our store from about 10% of our product offering line to well over 50%.  Don't take my word for it you can go into any grocery store and look at the tag on the shelf and it will tell you which distributor the product comes from. If you've been paying attention to this (and who would) you would find a consistent increase in their market share. 
+
+In fact recently they acquired 62 QFC locations in my area. This tells me more than any potential Amazon contract. I, in fact don't care whether or not they get the Amazon go stores because I think those will flop in the longterm. That being said a lot of people are looking at the Amazon contract as a sign of success and it's my opinion that they will retain that contract but I couldn't care less.
+
+Let us know talk cerebrally about their shipping issues.
+Recently I saw three drivers unloading a UNFI truck and I jokingly asked them if they were Union drivers having three people control one truck. They responded by saying no they were training new drivers from JB Hunt to deliver their products in my area. This replaces a complicated intricate system of independent owner operators. consolidating their shipping costs into one account as opposed to hundreds of accounts is going to save them a lot of money.
+
+My bottom line is that UNFI continually increases their market share and the synergies will be realized from the SVU acquisition in fairly short order. This is my YOLO play and I'm planning on holding it upwards of $100 a share. My guess is that we could reach over $200 a share within two years. 
+
+As you can see in my previous post I hold 2600 shares.
+If I could create a gif for this stock it would be a turtle with a rocket strapped to its back on a skateboard. (Someone posted this exact gif on yahoo finance board and it is so accurate) I feel very comfortable with this stock and although I check it multiple times a day it's not something that I need to do I sleep like a baby at night!
+
+One thing that I will caution y'all about is the earnings reports never send the stock skyrocketing. In fact last earnings report they crushed it and their stock did absolutely nothing over the week after earnings. This is of absolutely no concern to me. When you have a high short interest and low volume trading this sort of thing is to be expected. 
+
+A negative point about this company, (very important to include in an unbiased assessment) is the general silence from the board about what they're doing. However I'm looking at this through the lens of ""they're too busy expanding their business instead of making hyped up press releases"" and this just gives me more confidence in the stock for the mid and long-term.
+
+This is the way.",Unfi DD,0.81,1614812967,reddit_eats_tidepods
+75,lx6x1j,,Isn't this all a person needs to see to lay down a stack of chips?,0.86,1614813005,trpearso
+76,lx6x25,[deleted],"ACB needs a short squeeze👀, going to pull out a college loan and 💎🙌🏼😎 ACB 100+ after it’s legalization and squeeze",1.0,1614813006,[deleted]
+77,lx6xya,[removed],"$SKT to $200? Might be rarted, might be genius- I'm doing it either way. 🚀🚀🚀🚀🚀",1.0,1614813079,Lizard_worm
+78,lx6y21,[deleted],"RKT, second highest shorted stock. We dropped the ball by listening to bots or crazed Gme fans.",0.66,1614813087,[deleted]
+79,lx6y27,[removed],GME giving me the most profit!,1.0,1614813087,Slugwormmaker
+80,lx6y9c,[removed],"just bought 100K shares of Spineway at 0.003, let‘s take them to the moon🤩🔥🔥🔥🚀🚀🚀🚀 #hodltheline",0.25,1614813103,No-Individual-1139
+81,lx6ypv,[removed],GSAT shows great report.. the price is going up after market!!,0.5,1614813141,carlinchen
+82,lx6yt6,[removed],Manifested $10k FLAT very fast.,1.0,1614813148,Miserable-While-2131
+83,lx6yvt,[deleted],I'M NOT FUCKIN' SELLING. 💎🙌,1.0,1614813154,[deleted]
+84,lx6z50,,RH just sold some of my GME shares. I dont hold options and all my deposits settled end of Jan,1.0,1614813171,tommyvodka
+85,lx6z9j,[deleted],Any of you autists know what’s going on with my GME? I’m retarded 🦍💎🙌🚀🚀🚀🚀🚀,1.0,1614813180,[deleted]
+86,lx6zds,,Providing insight for these bond holding boomers down under 🇦🇺 $DEEZNUTS,1.0,1614813189,[deleted]
+87,lx6zig,[removed],E-Trade because RH sucks,1.0,1614813198,-NotJimCramer-
+88,lx6zj1,[removed],15 share mortgage,0.67,1614813200,Ryan27895
+89,lx6zm5,,What WSB mods don't want you to see.,1.0,1614813204,[deleted]
+90,lx6zw2,,Hooters tweeted me back and confirmed they like the tendies 💎👐🚀,1.0,1614813226,bankingbets
+91,lx6zxs,,VISIT TO SMILE AT THE HEDGES LIKE A BADASS,1.0,1614813229,Lukep47
+92,lx709k,,Looks like all the AMCs in Texas are opening soon!🚀💎👐🏾 $AMC #AMC,0.77,1614813254,covomar158
+93,lx70oy,[deleted],Anyone else see that? $GME was down 45% for a split second AH. Press F to pay respects to the fat fingered retard who sold.,1.0,1614813289,[deleted]
+94,lx70ql,,I need your guys help to bring my account back up to 75k,0.67,1614813294,Big_green_bull
+95,lx70uq,"&amp;#x200B;
+
+https://preview.redd.it/9v793w0gbwk61.png?width=1152&amp;format=png&amp;auto=webp&amp;s=b6e888749da5319de4e9354fe4445915dbe517f7",69K YOLO - Not selling until $69420 LETS GO,0.89,1614813303,Butttpounder
+96,lx711p,,Why I have never and will never sell my GME,1.0,1614813321,[deleted]
+97,lx711w,,is this beautifull???,0.5,1614813321,Overall-Class-963
+98,lx71gp,[removed],I c RKT has plateaued at the support. Divide the dingus from the cochingus &amp; u arrive a Dexter’s Medium Pattern. Two of those and u cld possibly b seeing the genesis of a Harding’s. Anticreptical Wave. Folks we have not seen that ever! The market was boring AF today,1.0,1614813357,Louisnbillyray
+99,lx71la,[deleted],"A little late, but here’s my gains from the first spike.",1.0,1614813367,[deleted]

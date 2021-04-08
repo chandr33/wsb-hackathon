@@ -1,0 +1,233 @@
+,post_id,text,title,upvote_ratio,date,author
+0,m45i29,"Wells Fargo is holding every bodies stimulus until Wednesday because the money wouldn’t clear until the next week, forcing people to either buy on margin or diminish the strength of our stimmy attack, they know APE TOGETHER STRONG 🦍🦍🚀🚀💎",The major banks are holding out stimmies cause they’re in bed with the hedgies,1.0,1615639114,elsmoothbrain
+1,m45ic7,,"Hi guys, can someone explain to a noob ape like me why my app says GME closed @259,93 and google says it closed at @264,50",1.0,1615639149,-LNZ-
+2,m45iz2,[removed],$ROOT - Highest Shorted Stock: Massive Value and Squeeze Opportunity? Here is my DD,1.0,1615639219,discohut
+3,m45jr7,DNN not looking bad in the after hours. Maybe they are looking into nuclear power more and the stock will finally grow.,DNN,1.0,1615639310,doublea42196
+4,m45lka,,I’m going all in,1.0,1615639507,Interesting-Sir-4534
+5,m45lv7,,Just thought I'd put this here.,1.0,1615639545,Some_Palmtree
+6,m45lzq,,Went to the chapel of the ape gods,1.0,1615639558,countryguy143
+7,m45mcr,"Cricut announced that they will be limiting users to 20 uploads per month unless users pay a monthly subscription. The machines cost between $300-$400. This isn’t a matter of whether we can afford $10/month. 20 uploads is nothing. One project can use 20 uploads. This machine was marketed as having a free design program with unlimited uploads and the phrase “creativity should be free”. This machine can ONLY be used with their program. It’s not even a good program. People are designing outside of Design Space and then uploading just to be cut. This is comparable to buying a printer and being told you can print up to 20 documents a month. They want to charge us a premium price for a horrible program. This is the same monthly price of Photoshop to put it in perspective. This is a deplorable money grab by Cricut who is preparing to go public. Investors need to know that this community will not tolerate being jerked around. Please sign this petition and make our voices heard on their social media. They are deleting posts and comments as fast as they can
+
+https://www.change.org/p/cricut-cricut-design-space-update-petition?utm_content=cl_sharecopy_27809968_en-CA%3A2&amp;recruiter=16136163&amp;recruited_by_id=e997a5d0-f129-012f-d18d-4040d2fbfbbf&amp;utm_source=share_petition&amp;utm_medium=copylink&amp;utm_campaign=psf_combo_share_initial",Cricut is trying to go public and they a screwing over their customer in the process,1.0,1615639601,HereIsTess
+8,m45mg5,"Don’t say GME, or the other meme stocks on here. A brief explanation will be appreciated 🥸 💰 🚀
+
+(I’m not looking for investment advice. I know you are retards)","I have $3,000 to invest. I will pick the top answer.",1.0,1615639611,Used-Possibility
+9,m45n2v,,"I was talkng to my Orthopeadic Surgeon yesterday (Florida) about WSB. He said, its craziness but those guys are smart and the hedgies underestimate them. LOL",1.0,1615639675,Patient_Sandwich1255
+10,m45np5,"Any of you has a good dd on desalination companies, or water stocks in general?",How do you guys feel about water stocks?,1.0,1615639745,quary1993
+11,m45o1o,,"BTC testing resistance, u might wanna sit back and join the ride as we hit 60k",1.0,1615639782,ZaSlayer121
+12,m45o3h,What’s a good penh stock to invest in rn?,Penny stocks to buy?,1.0,1615639787,Mythicall88
+13,m45o4y," 
+
+The memestock shares you own probably don't exist (yet). They are created out of thin air because app traders are not supposed to hold. If you buy the stock they have weeks of time to actually deliver it to you. Every single time you exit a trade in order to make a new one at a better cost basis you are slowing the rocket down. Because you reset the time frame for your stock to actually get bought on the market. They bet on you resetting the time frame. That is why they are not just moving GME but the whole market. That is why AMC and GME trade the same. Algos are identical for this situation. People are holding. Wiggle them out.
+
+DON'T GET WIGGLED OUT. NOT EVEN FOR PROFIT. YOU RESET THE TIMEFRAME FOR YOUR SHARES TO GET DELIVERED.
+
+That is also why I am certain $Rocket was a shill op. People thought they were smart by hoping onto $Rocket and take the gains back to GME. But this didn't help the cause at all. Hedgies already sold way more than the existing amount of shares of GME. They are fucked no matter what. But by getting people out of GME even for a short period of time, all FTD timelines for those stocks got reset. So you just gave them more time to breathe.
+
+At this point the only thing that keeps this rocket from going of is daytraders. GME will moon. You just don't have to overthink it. I buy when its red and hold when its green. That is all that is necessary in this situation.
+
+They can never get out of this again and the price has no logical limits.
+
+Not financial advice. I'm just a dumb ape.",YOU ONLY NEED TO BUY AND HOLD !!PLEASE READ THIS!!,1.0,1615639792,Not_a_Deutscher
+14,m45pd4,,$SEEL LOOKING GOOD,1.0,1615639929,Invest_Roy
+15,m45q4w,"As a JSON object of course:
+
+    //hotkeys idea for day trading (maybe robinstocks?)
+    implement_this={
+        ticker: 'GME'               //default ticker
+        amount: 20, 		//dollar amount of market buy
+        amount_delta: 5, 		//amount to increase amount by 
+        key_F1: set_ticker('GME'), 	//""Trading in lots of $20 for GME""
+        key_F2: set_ticker('AMC'), 	//""Trading in lots of $20 for AMC""
+        //	.
+        //	.
+        key_right: buy_market(ticker,amount), //""Bought $20 of GME@299.42, 567.12 buys remain, holding $1,253.85 worth, $27,420 account size""
+        key_left: sell_market(ticker,amount), //""Sold $20 of GME@350.69, 62.69 sells remain, holding $457.25 worth, $27,889 account size""
+    
+        key_up: increase_amount(ticker,amount_delta), //""Increased lot size to $25""
+        key_down: decrease_amount(ticker,amount_delta) //""Decreased lot size to $15""
+    }
+
+The idea being there are simply too many swipes to make day trading with RH efficient for the retail trader (also too lazy to sign up for a 'real' brokerage that may already have hotkeys). 
+
+Thinking it could simply be a console app but could also put it in a web app. I guess on a mobile device you could substitute 'key\_' with 'swipe\_' perhaps but I don't have experience writing mobile apps.",Would anyone benefit from the app described here?,1.0,1615640018,schlumlawd
+16,m45qwg," 
+
+The memestock shares you own probably don't exist (yet). They are created out of thin air because app traders are not supposed to hold. If you buy the stock they have weeks of time to actually deliver it to you. Every single time you exit a trade in order to make a new one at a better cost basis you are slowing the rocket down. Because you reset the time frame for your stock to actually get bought on the market. They bet on you resetting the time frame. That is why they are not just moving GME but the whole market. That is why AMC and GME trade the same. Algos are identical for this situation. People are holding. Wiggle them out.
+
+DON'T GET WIGGLED OUT. NOT EVEN FOR PROFIT. YOU RESET THE TIMEFRAME FOR YOUR SHARES TO GET DELIVERED.
+
+That is also why I am certain $Rocket was a shill op. People thought they were smart by hoping onto $Rocket and take the gains back to GME. But this didn't help the cause at all. Hedgies already sold way more than the existing amount of shares of GME. They are fucked no matter what. But by getting people out of GME even for a short period of time, all failed to deliver timelines for those stocks got reset. So you just gave them more time to breathe.
+
+At this point the only thing that keeps this rocket from going of is daytraders. GME will moon. You just don't have to overthink it. I buy when its red and hold when its green. That is all that is necessary in this situation.
+
+They can never get out of this again and the price has no logical limits.
+
+Not financial advice. I'm just a dumb ape.",YOU ONLY HAVE TO BUY AND HOLD !!PLEASE READ!!,1.0,1615640104,Not_a_Deutscher
+17,m45r7j,If AMC gets to $200 I will not only be able to get my first house but I will also get a tattoo of the AMC logo 💎🙌🏼,If AMC gets to $200...,1.0,1615640139,Appropriate-Weather5
+18,m45rkh,"Real talk: Congress is getting started on the infrastructure bill and the majority leader in the Senate plans on a bill passage by October. It should climate focused considering that the Biden administration ran on that message. One of Biden’s initiatives was building a network of charging station across America. Another one is making modern changes to the power grid system and alternative ways to harness energy. Of courses the materials to build these priorities takes steel and fuel.
+
+Based on these assumptions mixed in with a few facts about the materials that will be used to modernize our infrastructure, as other analysts have reiterated, this is a great year for energy and materials. They like to think about the reopening which I think is short-sighted. The real growth will come from the rumor out of Congress. That’s going to be the accelerant for a lot of these alternative energy stocks.
+
+Here are some on my watch list:
+MP Materials
+Star Peak Energy (soon to be STEM this month)
+ChargePoint
+
+MP Materials 
+
+• Not a fan all too much for this one, and it has a competitive advantage that’s also its greatest weakness. They are the only rare earth material miner in the US. It only takes a competitor with lower prices to soak up their market share. A little apprehensive about this one but I like their team. Maybe you guys have more information on what makes this one stellar.
+
+Star Peak Energy 
+
+• This one is a good one in my opinion for its uniqueness. Other green tech stocks in its sector are trading at much much higher multiples like Blink whereas this company is only 8x. So, it’s trading at a discount from its peers. They offer energy solutions driven by their patented AI system Athena to harness power from energy storage units. They also plan to be cash flow positive by 2022-2023. That’s beside the point though, they’re pioneering great sustainable technology and already have a 75% market share in California in energy storage. I like this one a lot. They’re planning a merger with Stem this month and it will be listed in the NYSE as STEM. 
+
+ChargePoint 
+
+• The company has the widest distribution of charging units across the country. Though they aren’t as good as other chargers in their sector, they have them at scale. This play is largely contingent on the infrastructure bill. GM plans to have like 30 EV cars by 2025, so just imagine the growth story for this stock. Even at its current multiple, I can honestly say that Biden’s proposal is not factored in. They’re going to be met with more demand than they projected in a few years as more and more people embrace EV’s.",Green-Centric Technology Set to Benefit from Infrastructure Spending,1.0,1615640183,blaclaureate
+19,m45s0v,,GME its not a matter of if but when apes come together and put all differences aside.,1.0,1615640232,001sdk001
+20,m45s1r,,17% Short interest or Short barrow fee rate? This is the first article I’ve seen that confirmed that it has increased and not decreased the way barrowdesk and Fintel say! Can you rich Apes pause from posting your million dollar bananas and call your broker and update us 💎🙌🏾🚀🚀 19.5% last I heard🦍,1.0,1615640235,SmileWhole9784
+21,m45so9,,ET to the 🌕🚀🌕🚀🌕🚀🌕🚀🌕🚀🌕🚀🌕🚀,1.0,1615640308,notorioustdick
+22,m45sp8,,Diamond Hands Haircut,1.0,1615640310,jrow68
+23,m45sww,"Hello fellow Apes.
+
+So I'm a EuroTard who uses Etoro, I have 195 GME shares, including the last 10 that I bought yesterday @ 265$, right before the market closed. The other 185 shares are at an average of 140$, or something around that number.
+
+This morning I receive an email telling me that I'm finally verified, and can join the Degiro app now. Which has the AMC stock.
+
+So now I'm wondering, should I just stick to GME. Or should I paperhand the 10 shares I bought yesterday (as it's still breaking even), and diamondhand them on AMC, when the market opens on Monday?
+
+So, what would be the most retarded move for me to make now?
+
+Thanks :)",Should I close 1 GME position for AMC?,1.0,1615640334,Kayde1210
+24,m45txu,,Waiting for my stimmy . AMC to the moon,1.0,1615640427,Techsiege2020
+25,m45uoi,"What are the best stocks to day trade? 
+
+I am looking for stocks that are under one dollar to invest 100 K and look for a spike anywhere from $.05-$.10. The list I have now is very small, I like to hear from you guys.",Day trading stocks,1.0,1615640499,8444MyJail
+26,m45vfl,[removed],Reassurance DD For The Weekend - Retail Owns More Of The GME Float Than You Think!,1.0,1615640576,Metro_Jocks
+27,m45w6k,I’m still learning about stocks and I bought 6 shares @ $20.66 and another 4 shares @ $18.94 last year and it tanked right after. Can someone explain?,JDST,1.0,1615640650,HighAngleHell60MM
+28,m45wc5,,"Thinking Japanese, I really think so",1.0,1615640667,lifesafetyslave
+29,m45wr6,,Saw this on my instagram today. Notice how no where it says sell 🚀🚀🚀 stay strong apes 🦍,1.0,1615640713,Reasonable-Broccoli1
+30,m45x3r,[removed],Quantum computer and Bitcorn encryption,1.0,1615640750,Chasboyz
+31,m45x5t,,Saw this on my instagram today. Notice how no where it says sell 🚀🚀🚀 stay strong apes 🦍,1.0,1615640756,Reasonable-Broccoli1
+32,m45x9f,,"First week options trading, not bad not bad",1.0,1615640767,dclarkkk
+33,m45xh8,"Could someone Tell me Something about ""Pi Network""?
+I'm not sure of its Scam or could be a real thing in Future.",Pi Network?! Scam?! No Scam?! Idk,1.0,1615640789,Captain_Bifi
+34,m45xyf,This retard is ready for the next stage of the simulation.,🦍 with 💎🤚 ready for 🚀,1.0,1615640840,scatpackcatdaddy
+35,m45xzz,,"I bought 10,000 shares of this penny stock shit, why? why not, I'm retarded.",1.0,1615640843,belzer999
+36,m45y0w,,I’ll be stimulating the my GME position,1.0,1615640847,NerdlingerOG
+37,m45y5c,,SLOW AND STEADY WINS THE RACE,1.0,1615640859,IlluminaRagnarok255
+38,m45yb7,,"ASO Update, sold 2000 shares becuase I had some gme call options that expired and I needed funds to buy the shares. Still holding the rest.",1.0,1615640876,skwolf522
+39,m45yq7,"Hey,
+
+Was talking to someone who mentioned quantum computing and being able to break encryption. If this is true wouldn’t it render bot corn useless?",Quantum computer cracking encryption for b!+corn,1.0,1615640919,Chasboyz
+40,m45z4b,[removed],Ape help Ape no matter the sex tape wife made,1.0,1615640956,ScissorHandsMcgee
+41,m46031,,"Most Anticipated Earnings Releases for the trading week beginning March 15th, 2021",1.0,1615641053,bigbear0083
+42,m460hw,,Tendies incoming 💎🚀,1.0,1615641096,theepicone111
+43,m460vd,,ICBU Going Current Targeting Blockchain. Heavily shorted,1.0,1615641135,AustinInvestments
+44,m461wb,[removed],$ROOT - Highest Shorted Stock - Massive Value and Squeeze Opportunity? Here is my DD,1.0,1615641235,discohut
+45,m4622k,"Lets say i put $3000 in GME, my portfolio goes up to $6000. I sell and withdraw $3000 within 1 month of holding. Would this be taxed at short term gain or no tax since its my initial deposit?",How does short term and long term capital tax work?,1.0,1615641255,LoveOthers-
+46,m46370,Fuck theses fuckers the market shouldn't be closed on the weekends. Performance is performance. Your telling me that businesses don't fucking exist on the weekends just cause these dicks wanna day off. The market should be opened 24/7. Let them work on the weekends like the rest of us. They aren't in school anymore.,Why is the market closed on the weekends,1.0,1615641374,AllMightySalt2234
+47,m463b4,"60% short 
+Let's go 🚀",CHPT next,1.0,1615641387,Fluid-Airport2241
+48,m4648n,[removed],Ape stays with Apes,1.0,1615641479,ScissorHandsMcgee
+49,m464do,,Thought I just drop this here. $GME,1.0,1615641493,Dodgers-1313
+50,m464zv,Would like your opinions on Sndl (sundial),Sndl,1.0,1615641554,dnbrokers
+51,m4657m,,WTF is a account deficit?,1.0,1615641574,Difficult-Drummer806
+52,m465fs,,...,1.0,1615641598,throatgogurt69
+53,m4663j,Late arrival to all of this and still learning.  I signed up for Robinhood and started trading there than read about all their shenanigans regarding putting holds on trading for GME.  Do you folks think I should transfer my holdings to another brokerage like webull?,Brokerage Question,1.0,1615641663,Several-Sir-3218
+54,m467hj,"Why are you all in GME ?? 
+
+I also was in... But i sold out... Now i have CHZ coins ... From 8 cents.. to 80 cents in a week..
+
+That ain't going tot happen whit GME",Why GME ?,1.0,1615641800,Gold_Luck_666
+55,m468ap,,((((EXTREMELY BULLISH AFTER SEEING THIS ONE))))) 😎😜,1.0,1615641881,Rxrecipe
+56,m468ig,"Man of steel, he launches his supertard into sky and even the bad guy says citadel, start at 11:50 on nuhflix","im beyond retard to do this, cut 11:50 the opening scene to man of steel, perfect WSB launch vidya",1.0,1615641904,stavsobese
+57,m468q1,[removed],advice for a neophyte?,1.0,1615641925,babaleboursier
+58,m46927,,Started with $10k in September. I like the stonk.,1.0,1615641964,Sasquatters
+59,m4694c,,💎💎Do You like my Diamond Hands haircut?💎💎,1.0,1615641970,jrow68
+60,m4698b,"Ok so I’m sure we all know deepfakes and how they can create fantastic memes but they can also have a dark side. Until yesterday I had only really considered the government impact - something like a fake video of Kim jung un saying he just launched nukes at LA and the havoc that would cause
+
+But I now realize our beloved market is at risk from these too and the only way to fight it is awareness. Think about if a fake Elon saying Tesla is buying billions of dog🪙 or a YouTube video from Ryan Cohen with all sorts of exciting news only to learn a day later it was completely fake. 
+
+I haven’t seen examples of this yet but I fully expect them in the coming months and years so be on the look out and help spread awareness. 
+
+Oh and required positions - this will also likely make tons of money for ai software stocks so calls on BOTZ or AI
+
+Just your friendly weekend PSA. Here’s is a link where CNBC focuses on deepfakes impact to businesses but of course overlooks this market manipulation potential - FBI warns deep fakes could be the next big cyber threat https://www.cnbc.com/video/2021/03/12/fbi-warns-deep-fakes-could-be-the-next-big-cyber-threat.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",Deepfakes - coming to a market near you. Be on the look out,1.0,1615641982,unemployedbull
+61,m469l5,,Started with $10k in September. I like the stonk.,1.0,1615642019,Sasquatters
+62,m46a8q,,And we HODL’em too! AMC 🚀🌙,1.0,1615642090,WingsJr
+63,m46afg,What’s the view on Roblox guys?,Roblox,1.0,1615642109,Glum_Classroom499
+64,m46ahv,,Stimulus acquired. Preparing for takeoff.,1.0,1615642116,macca1967
+65,m46apq," You  know what fellow 'tards.... I've been thinking (it hurts, but i'm  stubborn so keep at it) - there are many out there who subscribe to and  promote the notion that at current MC of \~ 17B $GME is grossly, and i  mean GROSSLY overvalued  ( last SP of \~$266 X 65M Float = 17B) and the  only thing that GME has going for it is this stubborn pack of apes who  like the stock and diamond hand their shares as if those were last  bananas on Earth and therefore presenting and causing all kinds of  nuisances and troubles to otherwise sophisticated investors getting in  their way of  making big bucks as usual by doing all kinds of complex  calculations on smart machines, forecasting, prognosticating, staring  and squiggly lines all day, pontificating to ignorant masses etc. etc.  etc.
+
+\-  well you know what
+
+i  know it's maybe a bit ""apples n oranges"" ; but let's take a quick look at DASH shall we...?
+
+Now  if DASH can take on most of delivery business in US  (including  business w no or in-house delivery services start outsourcing to DASH  and of  course they can start collecting/mining info get into  advertising etc etc ) -  then yes - i say DASH might be worth 46B maybe  even much more (btw - DASH currently is doing less in Sales and looses  as much as GME)
+
+Market  is forward  looking so considering GME and it's potential in - gaming;  e-sports;  betting; e-sports tournaments/events and the fact that the  brand name  is getting a positive FREE SYMPATHETIC PUBLICITY around the  world  especially among GME core users and considering demographic -  who's  then to say that GME is not actually worth the current SP of \~$300  and  why should it be valued 3 times LESS than DASH???!!!
+
+Also I ran a quick ""back of the envelope"" screener (all data are from [Finviz.com](https://finviz.com/) link below // );
+
+I  only specified few fundamental and technical parameters to try to see  what I come up with - take a look-see; snoop around a bit; click away on  some of the familiar names... and some of those business are app's (of  course i'm over-simplifying!!! don't get on my case - I'm VENTING!!!)
+
+There  are currently more than 20 Co's (some of which might be hailed as  disruptions, innovators and all around trailblazers) who's MC is larger  than GME's - in some cases considerably larger; most if not ALL (i have  not checked one by one) are loosing some big bucks - in the billions;  some have triple digits F/PE; ROI/ROA/ROE in deep double digit red - but  hey you don't see a band of apes getting assigned the responsibility of  unreasonably and blatantly ""manipulating"" and  inflating the SP and  keeping the MC where it's at..... (btw reason DASH didn't make the list  is coz they currently don't have ROI/ROA listed)
+
+So in conclusion: **TLDR**
+
+GME SP is currently in ""no-man's"" land and ""Who's to say GME is over-valued....??!!"" - (fundamentally, of course, we all understand it is currently, but again, markets are forward looking, GME has A LOT going for it now and is taking active and tangible steps to adopts and fine tune it's business model and is no more ""over-valued"" than some of the market ""darlings"" currently trading at considerable premium)
+
+To  the moons!!! (yeah you got that right - MOONS - plural - i am maybe a  retard ape but i know MARS has two moons, M  A  R  S - Mars biches...  and don't get me started w Jupiter and Saturn - take that suits...!!!!)
+
+(100 rocket emojis)
+
+[https://finviz.com/screener.ashx?v=111&amp;f=cap\_largeover,fa\_div\_none,fa\_roe\_veryneg,fa\_roi\_veryneg&amp;ft=2&amp;o=marketcap](https://finviz.com/screener.ashx?v=111&amp;f=cap_largeover,fa_div_none,fa_roe_veryneg,fa_roi_veryneg&amp;ft=2&amp;o=marketcap)","""Who's to say $GME is overvalued...??!!"" (Chamath P. - i think; i am pretty sure)",1.0,1615642140,greenday10Dsurfer
+66,m46bkc,,Very nice,1.0,1615642225,DevinSandoval254
+67,m46c7f,"Hey people, join little over a month ago, have been following and really love the crowd great bunch of 🦍. I was looking into buying some of UWMC, RIOT, maybe TRXC. 
+
+But the current app that I am using doesn't have UWMC at all and the others are coming soon. 
+
+Anyone here from UK that uses anything that has any of these tickers on there. Would really love to know.",New to WSB- Looking for a new UK trading app for US Stocks. Any Ideas?,1.0,1615642289,MvPolish
+68,m46cch,,GME 🚀,1.0,1615642304,reallyredrocket
+69,m46chh,,"FYI- ~20% of GME shares are held by “hEdGiES” and that’s just from the top 10. If this is common manipulation and they’re all in on it, why is the $50B DE Shaw long?",1.0,1615642319,BagofBabbish
+70,m46cn5,,CNBC's New Spin,1.0,1615642335,cat-playing-poker
+71,m46ctz,,Lol,1.0,1615642353,Kon-Rato
+72,m46de2,,"Let’s go, retards, apes!",1.0,1615642412,IJustDontBelieveMe
+73,m46e6c,Mine will and I'm sure millions of other people's entire $1200 is headed in that direction.,Like this post if your $1200 stimmy is going to gme.,1.0,1615642486,Kind_Strike
+74,m46ek2,"&gt;*That sound in the background is me in my spaceship*  
+&gt;  
+&gt;*I'm going to the top, and nobody's gonna stop me now*",HOLLYWOOD UNDEAD TO THE MOON,1.0,1615642526,Rando-af
+75,m46eoa,,Does a short squeeze happen all in one day or does it last a few days?,1.0,1615642541,chicoandy
+76,m46esj,"Wall Street sometimes refers to these kinds of investors as ""dumb money"".
+""Everybody is looking at WallStreetBets now,"" Americans for Financial Reform analyst and former trader Alexis Goldstein told me.
+""My sense is [hedge funds] are like, 'Oh, they're going to get excited again, maybe we can ride the thing up'.
+""I just think there are too many eyes on this now.""",Interesting so We are dumb and dumber,1.0,1615642552,Edjean24
+77,m46ezb,,Some good DD here guys! You’re welcome!,1.0,1615642572,Mysterious-Routine98
+78,m46f2z,"All us smooth 🧠s 🦍s need to keep holding the line 🦍 know fight 🦧 
+Cheers 🍻 everybody and good luck 🍀 
+GME to the 🚀 🌚 📈
+ This is the way
+Sincerely: uncle Jerry",Ape strong together,1.0,1615642582,UncleJ3rry
+79,m46fk8,,Is $AMC still something we car about or what’s happening with that,1.0,1615642629,Fatpanda-69
+80,m46gj4,,Stimmy checks. Theaters reopening. Earnings beat. The stars are aligning to the 🌝 🚀 The AMC story is something made for movies! Strap in 🦍 💎 🙌,1.0,1615642731,DarthShortSqueeze
+81,m46gm5,,"CNBC's new spin on how short sellers are important to the market because they can expose fraud. They don't mention that firms like Citadel, Point72, and Melvin can use short selling to commit fraud.",1.0,1615642740,cat-playing-poker
+82,m46gth,,GME After I get my stimmy this weekend (OC),1.0,1615642762,Onboarding92
+83,m46gua,,A new type of investor is rising!,1.0,1615642764,Onboarding92
+84,m46hck,,"Late to post in the lunch time rally earlier this week, but I think this is a sign for me to change my license plate",1.0,1615642813,Yf_lo
+85,m46hqp,Start investing with Acorns today! Get $5 when you use my invite link: https://www.acorns.com/invite/C9N5EL,Hello friends,1.0,1615642853,Nbolduc25
+86,m46hs3,,I like the stock. I have been called enough things by paper hands but on my way,1.0,1615642857,St3rlinArch3r
+87,m46hsy,Start investing with Acorns today! Get $5 when you use my invite link: https://www.acorns.com/invite/C9N5EL,Hello friends,1.0,1615642859,Nbolduc25
+88,m46ht1,,CIDM - all the shares are mine,1.0,1615642859,Terrible-Excuse-3723
+89,m46itv,,Most anticipated earnings releases for the week starting March 15th,1.0,1615642963,Cardamon1
+90,m46jg6,,Hold ya Apes,1.0,1615643022,urbangunslinga
+91,m46ju9,,Confirmed: My dog is retarded.,1.0,1615643066,RedSand62
+92,m46jx8,[removed],Monday thoughts,0.99,1615643074,ounceand4all
+93,m46l7y, Mght be news on the horizon but definitely worth adding to watchlist,ACER ran almost 40% after hours Friday with 1/12th of its public float changing hands.,1.0,1615643204,LoDzIT
+94,m46lcr,,How’s your one year return so far?,1.0,1615643217,Confused_pisces
+95,m46loc,Lets go baby RIDE to the moon 🚀🚀🚀🚀🚀🚀🚀🚀🚀,RIDE 🚀🚀🚀,1.0,1615643245,fintech18
+96,m46mhf,[removed],How to Yolo Your Stimmy Effectively,1.0,1615643323,WisePhantom
+97,m46mvt,How strict is Tradestation when issuing Options Level 3?  TOS will not allow me to trade spreads. I am aware of all the risks. Just need a platform which will not be so restrictive and is not Robinhood.,Which brokers for Options Level 3?,1.0,1615643366,No-Contribution8364
+98,m46mzv,"Many rockets, many moonmen. Chinese men speaking to their GME bros via Xiomi phones.",The investment ban on Xiomi has been resolved. Might there be a second rocket taking off on monday?,1.0,1615643376,TravisLagoonie
+99,m46n6i,,Gamestop made the BBC .... Or are they setting a trap??,1.0,1615643393,imanomadtrader

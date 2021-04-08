@@ -1,0 +1,402 @@
+,post_id,text,title,upvote_ratio,date,author
+0,m5hwdw,,$Nok Huge 5G Deal,1.0,1615804814,DNA_TTBOY
+1,m5hxlz,[removed],What happens to GME when XRT rebalances this Friday?,1.0,1615804955,NathanielA
+2,m5hxwk,,"""I ain't happy, I'm feeling glad I got sunshine in a bag I'm useless but not for long The future is coming on”",1.0,1615804988,Zacwel
+3,m5hz55,[removed],OLE,1.0,1615805137,TheBoomBust_com
+4,m5hz6u,[removed],$TLRY,1.0,1615805143,Money-machine-61
+5,m5hzua,"&amp;#x200B;
+
+https://preview.redd.it/y69p40iy86n61.png?width=415&amp;format=png&amp;auto=webp&amp;s=68d5ddbd2c03686aad96e4b278a15f05ebfa8c19",NICE,1.0,1615805221,lionhart44
+6,m5hzz3,,To Pluto with our new friends 🚀🦍🦍🦍,1.0,1615805236,plutoninenine
+7,m5i03d,[removed],TLRY,1.0,1615805249,Money-machine-61
+8,m5i06i,,Stimmmmyyyy,1.0,1615805257,Due-Courage-7768
+9,m5i0lu,Robin hood not allowing me to buy any chairs did that happen to anyone else,Bitcon,1.0,1615805306,Impossible-Ad6924
+10,m5i0qy,,Tendieland Cometh Hither,1.0,1615805325,brutusultimatum
+11,m5i0uf,"
+## Hello fellow retards, a****t, apes, DIAMOND HANDS, and degen**te paper hands.   
+
+
+### I thought I'd share my stockmarket glossary of all the ""big"" words I have learned since January.  
+#### The basics
+*Stock Market* - The stock market is where investors connect to buy and sell investments — most commonly, stocks, which are shares of ownership in a public company.  When people usually talk about the stock market they refer to one of the major stock market indexes. For example; Dow jones, OSBX, S&amp;P 500. Seeing that is rather difficult to track every single stock in the market, indexes are used as a measurement of how the market is doing, and as such these indexes become a measurement for the entire market. 
+
+*Market indexes* - is a hypothetical portfolio of investment holdings that represent a segment of the financial market. E.g., Dow Jones, S&amp;P 500, etc. 
+
+*Public company* -  commonly called a ""public traded company"" is a corporation whose shareholders have a claim to part of the company's assets and profits.  I.e., I buy a share of a public company for a right to partake in their profits. If you have a pension plan/mutual fund, they typically own stocks in a publicly-traded company.
+
+*Share* - a single unit of ownership in a company or financial asset. Essentially a tradable piece which price can fluctuate up and down depending on the market value of the company. Companies divide capital into shares in an effort to raise more capital. Shares are also commonly referred to as stock.
+
+*Bonds* - a bond is a fixed income instrument, which represents a loan between an investor to a borrower.  It includes the terms of the loan in terms of the amount loaned and the downpayment plan. They are typically used by companies, governments, or other trading entities to finance projects and operations.
+
+*ETFs* - exchange-traded-funds - is like a fruit basket of a sector, commodity, index, or other assets. Which can be sold like a stock (see *Share*). An ETF can track anything from the price of an individual commodity, such as silver (fuck that) or diverse collections of securities. For example  SPDR S&amp;P 500 ETF (SPY) which tracks the S&amp;P 500 index.
+
+*Portfolio* - is a collection of assets - stocks, bonds, commodities, cash, cash equivalents, closed-end funds, and exchange-traded-funds (ETFs). Your portfolio is the sum of all your assets, typically managed by you or a  professional portfolio manager.
+
+*Holding /Long position* -  holding an asset in hopes of the price going up. You make a profit if the asset price goes up relative to the cost price.
+
+*Shorting /Short position* - borrowing an asset for a fee and selling it at market price, hoping the price goes down before buying the borrowed asset back and returning it to its owner. You make a profit if the asset price goes down.
+
+#### The intermidiaries
+*Security* - a negotiable financial instrument that holds some form of monetary value. For example a stock, bond, or even a mint condition Charizard (collector's item that has perceived value to the public).
+
+*Margin* -  is the money borrowed from a brokerage firm to purchase an investment. It is the difference between the total value of securities held in an investor's account and the loan amount from the broker. ""Buying on margin"" is the term used when you borrow money to buy a security.
+
+*Options* - is a form of contracts that allows a holder to be entitled to buying or selling a stock at a set price (Strike Price) set forth by the issuer before the option expires. A holder of an options contract is not obliged to buy or sell - hence the term option.  Options are consist of 100 shares in an underlying asset. NOTE: an option is not like a share; buying an option does not give you ownership of the underlying assets, but can potentially in the future before the option expires, give you the right to either buy ( see CALL options) or sell (PUT options). The contract's price is determined by the underlying value of the assets. A contract can be sold or exercised before it expires. when you buy an options contract you pay a premium. Which is the market price of the underlying assets. If the underlying assets market price is below the paid premium upon purchase (strike price), the holder loses the premium. E.g., you lost your investment (maximum lost). *People who buy options are called holders (💎🤲) and sellers are called writers.*  *Writers* are obliged to sell or buy if the contract expires ITM (In-the-money). Meaning that *writers* are more exposed than holders of options. In some cases, the writers can potentially have unlimited risk, especially, if they naked sell options. 
+
+*Call options*  - the right to buy 100 of the underlying security (share, bond, ETF, etc) at a set price (strike price). If the value of the underlying assets is above the strike price at expiry, you make a profit based on the current price minus the strike price and the premium. Multiplied by the number of assets in the contract. 
+
+*Put options* - is a way of insuring your assets, giving you the right to sell a security at a set price in the future to limit your losses should the price fall below a certain point. Put options like call options have a premium that must be paid, and if the market does not drop before the expiration date, the premium is lost. 
+
+*Buying and selling puts and calls*
+The risk in buying puts and calls is limited to the premium, as it's only a right to buy or sell at a given price - not an obligation. Buying call options give you an incentive for a long position in the underlying assets.
+
+*Naked selling/uncovered options* - is when a writer sells an option without owning the underlying assets. If the contract can be exercised within expiry, the writer is as mentioned obliged to give the holder the underlying asset and buy the asset in the open market at market value, exposing the writer to immense risk. (Which is basically what has happened with $GME; there have been several options with a strike price of 5,10,15,40,50,60 when the stock reaches 50,100,150,250,300,350, etc. Making a lot of options so-called ITM.)
+
+*Covered call option* - is when a writer of a call option owns the underlying assets. I.e., the opposite of naked selling. Writers typically have some form of ownership in the underlying assets to lower their potential risk. Writers will typically start buying the underlying asset if the price increases to start covering their cost-basis should the potential call become exercisable. 
+
+*ITM: In-the-money* - refers to when a call option is exercisable. It also typically means that the holder can buy the underlying asset (calls) below market-price or sell the underlying asset (puts) above market price. Opposite of OTM (Out of the money).
+
+*OTM: Out of the money* - are option contracts where the strike price is either above the current market price (calls) or below the current market price (puts).
+
+*Short ladder attacks* -  It entails taking a heavy short position in an asset in an attempt to push the price as far down as possible, hopefully bankrupting/deeming the asset invaluable. Bankrupting the owners of an asset is the shorters' wet dream - allowing them to not cover their short position or paying tax returns on profit made from shorting. 
+
+""SSR: Short Sale Restriction"" - also known as the uptick-rule - is when you can only short a stock after the price has increased. The rule kicks in if the market price of an asset has dropped 10% from the previous day's close and is typically in effect for 48 hours.  When SSR is in effect shorting becomes more difficult as a shorter can only short the stock after the price has ""ticked up"". 
+
+""Quadruple witching"" -  refers to a date on which stock index futures, stock index options, stock options, and single stock futures expire simultaneously. It is usually more volume traded during a quadruple witching, though it does not necessarily make the market more volatile. One of the primary reasons for the increased activity is the options and futures contracts that are profitable settle automatically with offsetting trades. 
+In both situations, the expiration of in-the-money options results in automatic transactions between the buyers and sellers of the contracts. As a result, quadruple witching dates lead to an increased amount of these transactions being completed.
+
+*Short squeeze* - when an asset has a high amount of shorted stock, the holders of the stock can pressure the price up to buy not selling, squeezing the investors who have a short position for potentially unlimited money, as they have to buy the borrowed shares back at market price.
+
+
+##### LINGO
+*Tendies* - simply put; profit! 🚀🚀💎
+
+*Diamond hands* - holding your position and not selling! 💎💎🤲🤲
+
+*Paper hands* - selling your position when the price drops - like a pussy...typically involves buying high and selling low...
+
+*Shills* -  an accomplice of a confidence trickster or swindler who poses as a genuine customer to entice or encourage others.
+
+*buying the dip/averaging down* - is the action of buying stock as the price goes down to lower the average cost per share; potentially netting profits as the stock price increases. Common strategy during a ladder attack; by both sides.",Stockmarket 101 -for all you new apes,1.0,1615805337,Nosp1
+12,m5i13i,[removed],I like the stock : A song is for this movement &lt;3,1.0,1615805367,42Bim
+13,m5i25j,,[GME] Apes together strong - Adopted Sam &amp; Cupcake,1.0,1615805494,alwaysstuckforaname
+14,m5i2w1,"So I am European, not getting socio-communist checks here (yeah this is a joke calm down)
+
+Here is my in depth analysis from a socialist place.
+
+All of you should drop the stimmy on GME, you either get tendies or loss porn.
+
+In the case of loss porn you'll have your own stimmy loss thread (not a mod here, just speculating)
+Anyway don't even think about paying rent, actually steal you mother's and grandmother too. This is how you win.
+
+They are giving you stimmy because most of you are fucked, not that they care, but man those consumptions and rents need to keep going.
+
+So you should YOLO them. If you lose them you are equally fucked, so you'll get more stimmy. Otherwise is tendies. It's a win win.
+
+As someone once said: ""it literally can't go tits up""",Why stimmy into GME is the best play for apes,1.0,1615805584,zampyx
+15,m5i2w6,,[GME] Apes together strong - Adopted Sam &amp; Cupcake,1.0,1615805585,alwaysstuckforaname
+16,m5i526,,$280 Pre Market!!! Today’s gonna be a good day🚀🚀🚀,1.0,1615805832,Calumfletch97
+17,m5i56w,,🦍💨💎 top of the morning.... holding...,1.0,1615805846,Slow-Satisfaction-79
+18,m5i579,,Degenerate zombie,1.0,1615805847,pietradolce
+19,m5i62l,,$OZSC is going to the moon. Great PR last week. It’s time to take off! Also negotiating with #Tesla,1.0,1615805961,Xtremeant23
+20,m5i7c6,[removed],"Another title for the meme lord. Elon Musk, CEO, Technoking",1.0,1615806077,DisastrousBluebirb
+21,m5i7he,[removed],"GME to $100,000 BRING ME THOSE BANANAS",1.0,1615806090,RM2929
+22,m5i7nr,[removed],April Trading,1.0,1615806108,Wys182
+23,m5i7sh,"Awesome stuff we apes are doing with the animals but let's not forget the little ones!
+
+Here is a link to pick your bee-saving project to donate to, when I'll get my tendies I'm donating a bunch to each.
+
+Save the bees!",Don't forget the bees!!!!,1.0,1615806120,Ayeyebraso
+24,m5i7uf,,Power to the Primates: Inside the subreddit investing group that’s shaking Wall Street’s tree,1.0,1615806125,owboi
+25,m5i8ms,,Power to the Primates: Inside the subreddit investing group that’s shaking Wall Street’s tree,1.0,1615806206,owboi
+26,m5i8og,[removed],AMC,1.0,1615806211,Butteater696969
+27,m5iahd,,Can't wait to walk down the aisle with my wife and my wife's boyfriend 😍,1.0,1615806402,DaddyIssues97
+28,m5ianl,,$TSLA - Elon is now the TechnoKing 👑🚀🚀🚀,1.0,1615806421,StonkWonker
+29,m5ib1w,,$420.69 is not a meme 🚀🍦🦍🍌,1.0,1615806462,jmd2004
+30,m5iby2,APES to the moon?,Can you buy stonks in APE charities?,1.0,1615806553,nickbird00
+31,m5icf5,"Guys, you are looking for a New invest? Then Look to spineway. It is an really good Company with interest Products. Help them to grow and buy the Stocks! 
+Spineway will help all to come to Mars 🥳😎",Spineway need you all,1.0,1615806599,Relative_Future_4527
+32,m5icpq,"[https://www.sec.gov/Archives/edgar/data/1318605/000156459021012981/tsla-8k\_20210315.htm](https://www.sec.gov/Archives/edgar/data/1318605/000156459021012981/tsla-8k_20210315.htm)
+
+SEC. Suck. Elons. Cawk.
+
+Positions (picked these up last week, had a chance to sell at 80-100% gains):  
+
+
+*Processing img t9lrpsjsc6n61...*
+
+800+ EOW ez",CEO Elon Musk is now officially called Technoking of Tesla CFO Zach Kirkhorn is now officially called Master of Coin. TSLA 750c 3/19/20,1.0,1615806629,TU_NYCE
+33,m5icya,What is everyone's opinion on AVEO? FDA approval.,AVEO?,1.0,1615806654,Person332020
+34,m5id7x,,Under the radar stock. I like the stock.,1.0,1615806686,Mastery12
+35,m5ida3,,Morning Apetards,1.0,1615806693,Boeiend_was_taken
+36,m5idd5,,Truth!,1.0,1615806702,gnrlee01
+37,m5idf5,[removed],Spineway,1.0,1615806708,Relative_Future_4527
+38,m5idow,"&amp;#x200B;
+
+[ Elon Musk is now officially ‘Technoking’ of Tesla - MarketWatch ](https://preview.redd.it/cc59lc1cd6n61.png?width=2643&amp;format=png&amp;auto=webp&amp;s=f8423ab8b32cb9fc3ca0cad062a15c69a76b97f8)","Our Meme King Is Now ""Technoking""",1.0,1615806738,PaulPanTheAsian
+39,m5idpd,,Technoking to the moon $TSLA,1.0,1615806740,mammmma
+40,m5iegq,[removed],100x gem,1.0,1615806826,MineQuirky3739
+41,m5ieya,"[https://www.sec.gov/Archives/edgar/data/1318605/000156459021012981/tsla-8k\_20210315.htm](https://www.sec.gov/Archives/edgar/data/1318605/000156459021012981/tsla-8k_20210315.htm)
+
+Positions (picked these up last week, had a chance to sell at 80-100% gains):
+
+https://preview.redd.it/eg3oba1md6n61.png?width=973&amp;format=png&amp;auto=webp&amp;s=e4d5a51d166f45e0d760d396fd8f160a6c1dc6db
+
+Waiting for the Technoking and Master of Coin to come pick up this Humble Autist so we can fly back to TSLA tendy town, 800+ eow","The titles of Elon Musk and Zach Kirkhorn have changed to Technoking of Tesla and Master of Coin, respectively. TSLA 750c 3/19",1.0,1615806882,TU_NYCE
+42,m5if0j,,Meme King Now Has A Title,1.0,1615806888,PaulPanTheAsian
+43,m5if1d,"I had been using capital dot com ""CFD"". and wondered what will happen if a stock split happen, apparently their CUSTOMER SUPPORT tells me that they will close my position? be wary those who uses CFD's 
+
+&amp;#x200B;
+
+https://preview.redd.it/k5j7h4tud6n61.png?width=509&amp;format=png&amp;auto=webp&amp;s=5daf6633e6cbf68baa5b3adcc85cb0f49f7808c3",To all that uses CFD (Capital.com),1.0,1615806890,MoralesNotFound
+44,m5ifa9,[removed],Let's go apes,1.0,1615806919,Interesting-Tart6340
+45,m5ifcg,,The Truth About Trading Gurus Part 2,1.0,1615806927,Monster_Chief17
+46,m5ifnt,"Should you exercise your right If your options hit the strike price before expiring? 
+
+Sorry if it’s a dumb question but I couldn’t find a understandable answer to it.",Question,1.0,1615806960,superflybaby
+47,m5igcy,,They did not mention naked shorting,1.0,1615807036,weinscheich
+48,m5igqy,,All of us GME apes this week,1.0,1615807078,JMalley69
+49,m5ihut,,$NOK Strikes Global 5G Deal..,1.0,1615807203,In_A_Twilight_World
+50,m5iie2,"I am just starting out , what do you guys think of the future of Nakd ?",Honest Opinion About Nakd ?,1.0,1615807265,Throawyfapstronaut
+51,m5iiih,,Us Europeans are hearing rumours that the US government recently made a generous contribution to the GME Rocket Fuel Fund 🚀🚀🚀,1.0,1615807279,BeingHorne
+52,m5iinl,[removed],I may only have 3 shares on GME,1.0,1615807295,Alfredorising
+53,m5iisv,,11% Pre-Market in Germany! Increasing continuously.,1.0,1615807311,PositionOk611
+54,m5iix8,,Almost @ 100%,1.0,1615807326,LoneStarInSpace
+55,m5ijiw,[removed],Guys anyone knows how to get yearly Beta of company? It only shows beta(5Y monthly) anyway I can change that?,1.0,1615807395,fughitfki
+56,m5ijp8,"I cannot make this post without first professing how much I LOVE everything I have seen over the weekend from this sub. My heart fills with joy, and I am not too proud to admit that I have shed tears over the GOOD you all have done! Please, take a moment to congratulate yourselves...
+
+
+With that being said...I do want us to come together on something... 
+
+I saw a lot of negative sentiment right around market close on Friday, especially towards the fresh smoothies who don't understand what WSB is, or what happens here. I saw apes attacking apes for not understanding what options are, and u/The_Superbus seemed to be the only one willing to step up and clear the fog. (And thank you for it) 
+
+The fact of the matter is that there are a LOT of new investors here that are lost, don't know what to do, and are looking for help. Learning about personal finance and the stock market is like learning a new language. I know, because that's EXACTLY how it feels for me. I'M a newbie. I never invested in my future until I saw what you glorious apes were capable of. You have some of the best DD out there! I couldn't help but buy a ticket to ride, and I cannot distance myself from you as much as I would like to. GME was the first stock I ever bought, and it has changed my entire perspective on what I should be doing with my money. I only want to use my money to buy more money...(and plant some trees) 
+
+It's DAUNTING to learn how to do this, and personally, I think it is an stupid fucking idea to ask any of you who I should invest in, when to buy/sell, or for ANY relationship advice. I learn so much more just by watching you play your games. However, that doesn't mean that everyone else here can have that same level of scrutiny. You all keep talking about GME rising to $42,069, but you realize that only happens if we ALL hold, right?
+
+This is now a battle of wills. We are up against the hedge funds. These assholes have been holding for DECADES. You think they are convinced a few million redditors are going to break them?! Hell no! They are gambling on the fact that we will break first! That's why they never covered their shorts, and that's why we CANNOT have any infighting! Please, I understand the desire to separate the wheat from the chaff, but we are a bundle of chaffs 9.5 million strong. 
+
+It's best for us ALL to be together on this, at very least through the end of this play so we can discover how powerful we truly are. We ALL need to keep our diamond hands. I know how annoying it is to deal with anybody new who doesn't understand how this sub works, and how aggravating it is to constantly explain the same thing over and over...but this play only works if we do this TO-GE-THER!!! 
+
+I am up at 6 AM because I'm with you space apes. I am buying right at market open and doubling both my positions. I have diamond hands, and I'm here to stay. We WILL outlast them! 
+
+Gratuitous emojis:💎💎💎💎💎👐👐👐👐👐🦍🦍🦍🦍🦍🚀🚀🚀🚀🚀🌙🌙🌙🌙🌙
+
+
+TL;DR: APES TOGETHER STRONG!!!",Ape no fight ape.,1.0,1615807414,MidwesternTreeWizard
+57,m5ik1p,"I’m no advisor I just saw some info someone gathered.
+Postmaster Generals Potential conflict of interests USPS 6 B Deal #WKHS # OSK ?
+
+First of all wkhs Short interest high as hell  i think 30% ? Someone fact check this? I know apes like short interest high
+
+Some basic DD
+Wkhs was supposedly the only EV bid submitted for USPS contract, and President had just said to renew all federal fleets to EV. 
+
+BAM Dejoy post master general gives the contract to OShkosh who submitted a bid not for ev, they even stated in a conference call or was it PR that they are not familiar with EV tech. Now they say they will make a gas vehicle that can later be retrofitted to EV? Lol wtf? Didn’t even submit an EV bid 
+
+So Wkhs shares tanked from 40+ to now 16 levels 
+
+I mean wkhs still has a bunch of orders from UPS, hitachi help with production, RIDE 10% stake in lordstown motor etc. 
+
+
+
+Does this mean the  6B USPS contract could be voided? or even awarded to someone else? idk.   
+
+
+  
+ \*\*\*This Is Going To Be Epic!  [jlg.com/en/news-events/pres...](https://www.jlg.com/en/news-events/press-releases/2017/pdc-conexpo-mar8)  
+
+\*\*\*Pay attention to the company names.   Las Vegas — March 8, 2017— JLG Industries, Inc., an Oshkosh Corporation company \[NYSE:OSK\] and a leading global manufacturer of aerial work platforms and telehandlers, announced plans to open its new parts distribution center (PDC) in Las Vegas later this month 
+
+\*\*\*JLG is owned by OSK, the company awarded the USPS contract.  
+
+\*\*\*Once again pay attention to company names.   [news.xpo.com/484/xpo-logist...](https://news.xpo.com/484/xpo-logistics-launches-aftermarket-parts-distribution-network-for-jlg/)   
+   
+ \*\*\*Now pay attention that DeJoy used to own XPO logistics and sold it but he kept a large part of XPO by giving it to his kids.  [citizensforethics.org/repor...](https://www.citizensforethics.org/reports-investigations/crew-investigations/is-louis-dejoys-xpo-logistics-divestiture-a-sham/)  
+
+DeJoy stills owns a lot of XPO that works with JLG which is part of OSK which was awarded the USPS contract by DeJoy.  There was a large $54 million block trade made in OSK the day before the contract award.  
+
+Just sharing my findings and thoughts, while people diamond handing GME, maybe another play? 
+
+I don't know anything, i'm just sharing some info i saw on the internet here that is not GME related but go apes!",WKHS the EV play with Dejoy possible conflict of interest USPS 6B deal to OSK,1.0,1615807451,TelevisionMediocre
+58,m5ik2e,"So far I’ve used eToro but it’s pretty limited, you can’t buy options and not all stocks are available. 
+So you guys got some recommendations on any other broker ?
+
+And by the way GME goes BRRRRRR 💎💎🖐🏻🦍🦍💎💎",What broker to use in Europe (Germany),1.0,1615807453,AdiEisbear
+59,m5il2o,,Going all in,1.0,1615807562,As4kuraa
+60,m5ilgz,[removed],Check SSFT,1.0,1615807607,El_Skywalkero
+61,m5ilix,,$MANA to the Moon 🚀🚀🚀 Let's hit $1.50 😝,1.0,1615807614,D3P07
+62,m5ille,"Me, my smooth brain, and fat diamond balls just mushed a bunch of buttons on a calculator and the screen said duuurr Biden stimmy bucks + ape hold = 🦍🚀🌙
+
+Drop an upvote if u agree with the calculations if not then fuck off",BIG WEEK COMING UP PEOPLE,1.0,1615807623,jaypx21
+63,m5ilq3,"&amp;#x200B;
+
+https://preview.redd.it/wakbskeqe6n61.jpg?width=1293&amp;format=pjpg&amp;auto=webp&amp;s=46cb1b46c237de02ebe510eacdcc775633bca13a
+
+*Disclaimer : I'm not actually telling 🦍🦍🦍 to do this, it's more of a what if scenario of what would happen if 🦍 did, as many users have pointed out that according to the media this may amount to market manipulation and market manipulation is illegal if done by retail plebs, mkay... Only hedgies are allowed to do stuff like this and naked short a company to oblivion.*
+
+**RECAP** : With the borrow rate declining and available shares to short increasing, waiting around for the short squeeze might take some time.
+
+https://preview.redd.it/a7povkgre6n61.jpg?width=349&amp;format=pjpg&amp;auto=webp&amp;s=07f74b1a6d7beefd747dcf4b47feebbeccf0f4e3
+
+We aim to speed it up by triggering a prelude gamma squeeze leading to the short squeeze.
+
+**1. Why Call Options and Gamma Squeeze ?**
+
+Specific option strikes and expiries provides much greater leverage vs buying shares directly due to Market Makers delta hedging the option calls they sell.
+
+**2. Why this week 3/19 ?**
+
+Earnings is set for 3/23 however at the current price point, &gt;80% of the value is dependent on successful future business transformation instead of the current Q performance.
+
+Due to the structure of the current $GME option chains OI and external conditions such as the quad witching(the index futures, index options, stock options, and single stock futures expire simultaneously on March's 3rd Friday) and new DTCC regulations, 3/19 provides the highest probability of success.
+
+**3. What we aim to achieve :**
+
+# $GME &gt; $650 by end of week.
+
+**4. What 🦍🦍🦍 should be buying**
+
+**OTM Options (HIGH RISK BUT CHEAP)**
+
+https://preview.redd.it/yv90f3zte6n61.jpg?width=783&amp;format=pjpg&amp;auto=webp&amp;s=99610d769cc1f03d14d999e47a3822feee778932
+
+Buying the 570C 3/19 for about $800-$1000/contract would trigger MMs delta hedging 15 shares of $GME or about $3967 worth at current prices. If $GME prices goes up since gamma is positive the delta will increase triggering further buy ins by the MMs as shown by the projected delta and amplification values. The following table and graphs simulates the delta hedging for the 570C 3/19 at different underlying share prices
+
+*Processing img 2qcqtstve6n61...*
+
+https://preview.redd.it/wmenqj9xe6n61.jpg?width=823&amp;format=pjpg&amp;auto=webp&amp;s=07b4dde0a77f01fef8be4b5346e83a8fb1c4edde
+
+**570C 3/19 Profit/Loss**
+
+https://preview.redd.it/ps06vi01f6n61.jpg?width=375&amp;format=pjpg&amp;auto=webp&amp;s=20dbebafe67f013f28af078df91522e1285ae0e7
+
+**ITM Options (less risk but expensive)**
+
+https://preview.redd.it/vkucwi72f6n61.jpg?width=783&amp;format=pjpg&amp;auto=webp&amp;s=50f84e8c73fccd8913d98279fa3a40c09f4c37c3
+
+**ITM 210C 3/19 Profit/Loss**
+
+https://preview.redd.it/8gclkum3f6n61.jpg?width=375&amp;format=pjpg&amp;auto=webp&amp;s=ead2f379b6197255233aba6c24a60fbea632aa02
+
+**5. Can I just buy shares**
+
+Sure it's the safer way however it would take a lot more gross value of share buying compared to options, see point 7
+
+**6. Can I buy the 800C 3/19 ?**
+
+Not if you want to help the cause, many degenerates did it last week and ended up giving free money to MMs.
+
+If  🦍 buy the mentioned OTM strikes
+
+`🦍 1 🍌 &lt;--&gt; 🐊 4.6 🍌`
+
+`1 🦍 🍌 force evil MMs croc to buy 4.6 🍌`
+
+If 🦍 buy the 800C 3/19
+
+`🦍 1 🍌 --&gt; 🤣 🐊 0 🍌`
+
+`Evil MMs croc laugh at 🦍 and say thx for free banana`
+
+**7. How much 🦍🦍🦍 and 🍌🍌🍌 would it take to get $GME to $650 by 3/19**
+
+Assuming no 🦍 paper handed, any one of the following would do
+
+* OTM Options : 40,000 apes with 1k banana each (less 🍌)
+* ITM Options : 20,000 apes with 8k banana each (medium 🍌🍌)
+* Plain Shares : 800,000 apes with 1k banana each (requires a lot of fucking 🍌🍌🍌)
+
+Or a mix of the above
+
+**8. Has anyone confirmed this would actually work ?**
+
+This Forbes article, which actually referenced my earlier DD strike and expiries confirmed it
+
+[https://www.forbes.com/sites/georgecalhoun/2021/03/10/gamestop-the-second-surgeanatomy-of-a-gamma-swarm/?sh=6af3a3a64225](https://www.forbes.com/sites/georgecalhoun/2021/03/10/gamestop-the-second-surgeanatomy-of-a-gamma-swarm/?sh=6af3a3a64225)
+
+&gt;Imagine that a swarm of, say, 10,000 members, each invested $1,000 in GME $270 call options for Friday March 12. The March 9 cost of the option is $24. If all option sellers hedged, it could drive perhaps $100 million of share volume, at the then current prices.  
+&gt;  
+&gt;...  
+&gt;  
+&gt;A naked March 12 call option with a strike price of $270 would have exposed the seller to a loss of $56 a share. It is highly likely that the sellers of such options would have allowed themselves to be exposed to this risk. They would have covered, hedged, by purchasing shares – adding to the surge. Gamma power!\]
+
+https://preview.redd.it/68moo9z8f6n61.jpg?width=959&amp;format=pjpg&amp;auto=webp&amp;s=493c60eb562905e11b4540d811b7785a5eef9e5f
+
+Referenced DD
+
+[https://www.reddit.com/r/wallstreetbets/comments/m0eeav/optimize\_your\_stimmy\_gme\_gamma\_squeeze\_calculator/](https://www.reddit.com/r/wallstreetbets/comments/m0eeav/optimize_your_stimmy_gme_gamma_squeeze_calculator/)
+
+**9. How can I monitor the progress ?**
+
+Check the options chain OI of the mentioned strikes from [barchart.com](https://barchart.com/)
+
+[https://www.barchart.com/stocks/quotes/GME/options?moneyness=allRows&amp;expiration=2021-03-19-m](https://www.barchart.com/stocks/quotes/GME/options?moneyness=allRows&amp;expiration=2021-03-19-m)
+
+**10. Should I do it ?**
+
+Only with 🍌🍌🍌 you can afford to lose
+
+# TL;DR : No TLDR! Add a few wrinkles to that smooth brain and read the entire thing, make sure 🦍 know all the risk involved and effort required. Just kidding, 570C 3/19 or 210C 3/19",Cheap 3/19 $GME call options costing less then your stimmy 🍌🍌🍌 that have high delta/price ratio to 🔥💥🚀 the Gamma squeeze,1.0,1615807638,indonesian_activist
+64,m5ilwz,Is IDEX still a good play?,What is going kn with IDEX?,1.0,1615807660,flpn123
+65,m5imek,,Just the picture (This is on Hulu),1.0,1615807713,Eclipse00q
+66,m5imji,"Hello my fellow apes,
+
+im trying to understand how the GME stock listed on the NYSE is related to the GS2C which is how Gamestop is listed on the Frankfurt stock exchange are related.
+
+Most of the time when both exchanges are open for trading they seem to be moving in nearly the same way but where my ape brain starts to break down is how would this work if the squeeze was happening in a few scenarios.
+
+For example if GME gets the squeezes will GS2C also get squozen automatically?
+
+What happens when the squeeze happens when NYSE is still closed and only GS2C can be traded and same question for the reverse situation?
+
+&amp;#x200B;
+
+Is there even squeeze potential for GS2C at all?",How are GME and GS2C (the GME listing in Frankfurt) related?,1.0,1615807728,Pixelplanet5
+67,m5imk3,,Which one of y’all did this??? 😂😂😂,1.0,1615807730,lefunnies
+68,m5imv7,,"Love me some pre-market GME profits, now back to bed 🥱",1.0,1615807766,A_KY_gardener
+69,m5in2j,,Access Michael Burry’s Portfolio with Just a Few Lines of Code,1.0,1615807789,antoine_dedave
+70,m5in64,,Cuck Robbie thinks he can get a slice of my Stimmy 😤 Fuck em 🖕,1.0,1615807799,TheNon-Anon
+71,m5io31,"hi guys, can someone help me for this italia independent stock, listed on AIM italia, i can't find the short float ..",ITALIA INDEPENDENT,1.0,1615807898,luccaro74
+72,m5iom2,,Bc shareholders rn,1.0,1615807955,Similar-Ad-7670
+73,m5ip7m,,HODL 💎💎💎,1.0,1615808018,Upper-Pair8686
+74,m5ipk0,,When my entire portfolio halves within half an hour,1.0,1615808057,JonasGangsta
+75,m5ipkp,,Short Seller Takes Aim at Another EV Maker. Its Stock Is Tumbling. Time to take it to the filers again,1.0,1615808059,FearlessCaramel8009
+76,m5iptp,,The drip is real,1.0,1615808087,TheRealRickyLafleur
+77,m5iq3y,,A Day May Come When The Courage Of Apes Fails… But It Is Not THIS Day,1.0,1615808119,Shaddowork
+78,m5iqij,,CLNE could reach new highs.,1.0,1615808165,Nabor315
+79,m5iqtc,,YASSS!! SPEND THAT STIMMMY!!! 🇨🇦 🦍🦧💎🙌🚀,1.0,1615808195,LordP83
+80,m5ir51,,🦧 Apes together strong 🦧 Adopted Sam &amp; Cupcake,1.0,1615808230,alwaysstuckforaname
+81,m5ir6l,,Love the Movies!,1.0,1615808236,hollywood103
+82,m5ircp,,Me seeing all the apes buying GME.,1.0,1615808254,belowaverageguy97
+83,m5irfb,,They catching on to me! 😂,1.0,1615808262,No-Bandicoot-8980
+84,m5iri6,,Ready for the Monday Blitz,1.0,1615808270,Mnkeemagick
+85,m5irrl,,A sign that GME is going to the moon,1.0,1615808299,Doctor_Herbman
+86,m5iry6,[removed],"Why aren't, the millionaires who invested in Citadel and Melvin, withdrawing their money, knowing that shit will hit the fan?",1.0,1615808318,Insurdios
+87,m5isdq,Hi All. I am new to this whole Stock trading on my own. I moved a pile of money into my account and ready to invest. What's good to jump into at them moment. I have 2300 AMC shares and 490 PTLR already. I want in on GME but feel I missed the wave again. Can anybody give me some advice where to jump of a cliff and go Gorilla!,Help,1.0,1615808365,NVBullshit
+88,m5islk,"How many of you have received your stimmy yet? And how much of it have you put into GME, AMC etc.?
+
+There has been a lot of mentions of needing another catalyst in recent DDs. I believe the stimmy may be the beginning of a snowball effect this week. Who wants to confirm my bias?",UK ape checking in on US apes. HOW THAT STIMMY DO??,1.0,1615808389,Bibic-Jr
+89,m5it27,,Got in on the 🦍 action. Y’all are inspiring,0.5,1615808439,PurplePango
+90,m5it2s,"CEO of sndl didnt forget about us, the shareholders!! pre-earnings good news is always a good sign. SNDL TO THE MOON BABYY 🚀🚀🚀📈📈
+
+""Following early success with our internal capital investment program, we are pleased to announce this new partnership with SAF, as we continue to identify innovative ways to deliver on our commitment to shareholder value creation,"" said Zach George, Chief Executive Officer for Sundial. ""SunStream will enable Sundial to remain focused on our core operations, while leveraging the strength of SAF's private equity and credit investment expertise on a global scale. We look forward to working together to generate attractive returns for our stakeholders through broader capital deployment opportunities in the global cannabis market.""
+
+""Our joint venture with Sundial is a capital efficient way to bolster our participation in the fast-growing and attractive global cannabis industry,"" said Ryan Dunfield, Principal and Chief Executive Officer of SAF Group. ""This long-term partnership aligns us with a premier cannabis licensed producer, while bringing financial benefits to our investors.""",Join us !! Sundial is getting bashed constantly by wallstreet/motley fools. Apes strong together 📈🚀,1.0,1615808442,BaselessHorse112
+91,m5it7j,,Made my phone screen a constant reminder that paper hands will not fulfill my destiny,1.0,1615808456,Pathophile
+92,m5itpp,,AABB: It’s backed by actual GOLD! The wallet has just been completed and is now on your App Store! Do the DD folks. If this idea takes off..it will absolutely be a complete game changer!,1.0,1615808510,SitkaSound
+93,m5iu7f,,I SOLD AN OUNCE PACK AND INVESTED THE PROFITS🌹🌹,1.0,1615808564,Trapboipip
+94,m5iuoj,"CEO of sndl didnt forget about us, the shareholders!! pre-earnings good news is always a good sign. SNDL TO THE MOON BABYY 🚀🚀🚀📈📈
+
+""Following early success with our internal capital investment program, we are pleased to announce this new partnership with SAF, as we continue to identify innovative ways to deliver on our commitment to shareholder value creation,"" said Zach George, Chief Executive Officer for Sundial. ""SunStream will enable Sundial to remain focused on our core operations, while leveraging the strength of SAF's private equity and credit investment expertise on a global scale. We look forward to working together to generate attractive returns for our stakeholders through broader capital deployment opportunities in the global cannabis market.""
+
+""Our joint venture with Sundial is a capital efficient way to bolster our participation in the fast-growing and attractive global cannabis industry,"" said Ryan Dunfield, Principal and Chief Executive Officer of SAF Group. ""This long-term partnership aligns us with a premier cannabis licensed producer, while bringing financial benefits to our investors.""",Join us in SNDL !! Sundial is constantly getting bashed by wallstreet/motley fools.. apes strong together 🤪🚀📈🚀📈🚀📈,1.0,1615808611,BaselessHorse112
+95,m5iush,,#APESTRONG,1.0,1615808623,DavidJerome1776
+96,m5ivif,[removed],A little GME math for ya,1.0,1615808702,McRocket24
+97,m5ivrf,[removed],Prepare for lift off,1.0,1615808727,Electrical-Eggplant6
+98,m5ivtz,"$ACER is running for the top as rumors suggest the company will be taken over very soon. Here's what you need to know. [https://cnafinance.com/acer-stock-heres-why-acer-therapeutics-is-climbing/](https://cnafinance.com/acer-stock-heres-why-acer-therapeutics-is-climbing/)
+
+&amp;#x200B;
+
+https://preview.redd.it/4sr2ql8ej6n61.png?width=1365&amp;format=png&amp;auto=webp&amp;s=88c1126d4b978617b22cc60ab64ce11566e0950a",ACER Takeover Could Happen This Week,1.0,1615808735,CNAFinanceAuthor
+99,m5iw7j,,Ride or Fuckin Die BABY!! 🐒🚀,1.0,1615808777,Hoopes-there-it-is

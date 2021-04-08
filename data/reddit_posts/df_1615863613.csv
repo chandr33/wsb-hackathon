@@ -1,0 +1,487 @@
+,post_id,text,title,upvote_ratio,date,author
+0,m5zg5b,,Ape 🦍,1.0,1615863618,AbusedChungus
+1,m5zh75,[removed],What does a post-squeeze WSB look like?,1.0,1615863703,kurotenshi15
+2,m5zh9f,"By year-end of 2002, 1 of the 10 of Cramer’s favorite stock picks had already gone bankrupt, and a $10,000 investment spread equally across Cramer’s picks would have lost 94%, leaving you with a total of $597.44.
+
+Cramer is not worth following. Randomly flipping a coin will actually make you more money than following all of Cramer’s recommendations.",Friendly reminder that Jim Cramer’s favorite stock picks lost 94% in 2 years,1.0,1615863709,Illustrious_Welder94
+3,m5zhfp,[removed],WSB MOVIE SCRIPT,1.0,1615863725,thisatastyburger
+4,m5zhmu,,I Adopted Two Citadel Interns with my GME Tendies!!!,1.0,1615863743,NuccioAfrikanus
+5,m5zhte,[removed],Destroyer of all hedge funds...the LAST hedge fund,1.0,1615863756,clminc
+6,m5zhtw,[deleted],You call that a dip?,1.0,1615863758,[deleted]
+7,m5zhzo,"It is us; It has always been us.
+
+We are the last line of defense against the blatant disregard for humanity that is wallstreet (lowercase intentional, I don't care what your spellchecker says). Some of us, most of us, have been on the 'street', making what we can in the years past; we scrimp what we can while certain other types (you know) have made millions. We don't care on the outside, we don't even know when crayons are ripe, yet here we sit. Here we are on the precipice of greatness. We look out unto the sunrise and see defeat. What we do not understand is that even the angels look back upon us, seeing our defeat, and they wonder. What if. What if that that one string was pulled. That one string we all know of. The one string that would save our friends life. The string that would make our family whole. The string that even caniverous defeat would pull us to salvation. So we wonder. Is it possible. 
+
+That string. 
+
+That string, not only deserves, but also earns, a mighty pull.",We will never be the last.,1.0,1615863772,Love4Jada
+8,m5zi84," *Welcome back and it feels good to be writing up posts again. I was asked to write up the recent relation between ETF's and the GME dip's we've been witnessing in the last several trading days.* ***I have included a TLDR for the crayon eating apes with an attention span of a 2-month-old dog. Also due to wsb guidelines, i am unable to mention these etf tickers due to their market cap. Please bear with me (not the 🐻🌈)***
+
+Anyone questions? Feel free to DM and I'll respond in 10-15 working days (jk)
+
+Hedge Funds covering up $GME shorts through ETF cloaking
+
+*I would like to present a few common terminologies before starting this post which may aid in helping you apes comprehend this more clearly.*
+
+**Exchange-Traded Funds (ETF)-** An exchange-traded fund (ETF) is a type of security that tracks an index, sector, commodity, or another asset, but which can be purchased or sold on a stock exchange the same as a regular stock. An ETF can be structured to track anything from the price of an individual commodity to a large and diverse collection of securities. ETFs can even be structured to track specific investment strategies. You can consider them as a hybrid of mutual funds.
+
+**Short Selling-** Short selling is the process of selling shares that you don't own, but have instead borrowed, likely from a brokerage. Most people short sell shares for two reasons:
+
+1. They expect the share price to decline. Short-sellers hope to sell shares at a high price today and use the proceeds to buy back the borrowed shares at a lower price sometime in the future in a bid to profit.
+2. They want to hedge or offset a position held in another security. For example, if you have sold a [put option](https://www.investopedia.com/terms/p/put.asp), an offsetting position would be to short sell the underlying security.
+
+**Authorized Participants -** An authorized participant is an organization that has the right to create and redeem shares of an exchange-traded fund (ETF). They provide a large portion of the liquidity in the ETF market by obtaining the underlying assets required to create the shares of an ETF. When there is a shortage of ETF shares in the market, authorized participants create more. Likewise, as ETF borrow costs increase, APs are less likely to borrow shares to hedge their position, and more likely to fail-to-deliver.
+
+In a typical transaction, the borrower of a stock posts collateral of 102% to 105% of the shares' value in cash, government securities or a bank letter of credit. If the ETF needs to sell the stock, it can recall it from the borrower. But if the borrower for any reason isn't able to deliver the shares, the ETF is repaid through the collateral instead, although that can have adverse tax consequences for the ETF.
+
+**$GME relationship: Let's look at the past trend of an ETF with GME**
+
+Now I'm not claiming today's red day was entirely due to etf's being shorted or their shares being lent out, but there is significant evidence that leads me to believe this may be one of the key factors.
+
+&amp;#x200B;
+
+*Processing img lzp4tugl2bn61...*
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+*By law, a fund can have no more than one-third of its total assets in securities on loan. Few ETFs or other funds ever reach that ceiling, and ETFs are considered to be more conservative lenders than other funds. Market makers are continually creating new ETF shares (by presenting the fund with a basket of securities represented in the ETF) and redeeming others (and getting the underlying securities in return), so the number of ETF shares outstanding fluctuates. Because the supply isn't fixed, there really is no impact on performance when an ETF is net short, industry participants say. The prices of ETF shares typically stay very close to the value of the underlying holdings.*
+
+***ETF shares borrowed today saw significant lending. Suspicious, isn't it?***
+
+Credit to [u/hkzor](https://www.reddit.com/u/hkzor/) for providing these images:
+
+ETF 1: 6.5M available last week to 4M today
+
+&amp;#x200B;
+
+https://preview.redd.it/tnxvk14q2bn61.png?width=387&amp;format=png&amp;auto=webp&amp;s=e5bed7ece1e694641e9a067613b738867afd02e7
+
+ETF 2: 1.3M available last week to 850k today
+
+&amp;#x200B;
+
+https://preview.redd.it/z48xs7vq2bn61.png?width=388&amp;format=png&amp;auto=webp&amp;s=91b7e7cae8acaf80ff5617c441dbdbbdb9e2fa30
+
+ETF 3: 900k last week to 500k today
+
+&amp;#x200B;
+
+https://preview.redd.it/079uj5lr2bn61.png?width=434&amp;format=png&amp;auto=webp&amp;s=3521e0f07ddf87bd527a0dbc3bd83494ee6f9c44
+
+Just taking into account **Three** ETF lendings, **you could see 3.35 Million shares were borrowed in today's trading session.**
+
+Short Sellers effectively manipulate pricing by borrowing shares in a company in order to sell them with downward pressure, coupling it with High-Frequency Machines being used, the price of a security can significantly drop in a rapid succession as we've been witnessing for the past few trading days.
+
+**The HF's have most likely synthetically shorted GME via ETF's to drive its price down since then**. They can also legally disguise their short position via synthetic longs, and there's concrete evidence that they have done this on the various articles posted before.
+
+**When coupled with synthetic longs via options, gives the appearance of shorts covering when they haven't, takes GME off the threshold security list when it shouldn't be**, and provides the ability to naked short GME again. This was the missing piece of how GME could actually be shorted without appearing so. This solves the NYSE threshold securities issue and the ability to drive GME down outside of buying a put.
+
+**Ultimately they have to cover these shorts sometime or another, if the ETF's recall their shares back that would mean an absolute fuckery of melvin and citadel, given they are still paying massive SI without the numbers actually showing up the threshold index**.
+
+The Link Between Failure to Delivers and ETF's
+
+ETF's are a growing force in financial markets and constitute almost 25% of US equity trading volume, therefore please keep in mind that not all shares shorted with specific ETF's are directly linked to GME. The one's I used as evidence is either because $GME is a major part of their portfolio or the ETF is retail orientated.
+
+**Failure To Deliver -** A condition where two investors agree to the purchase/sale of a security at a given price but the seller fails to deliver the security in a timely manner.
+
+&amp;#x200B;
+
+[The daily volume of Faulure to deliver traded in the past](https://preview.redd.it/2atp919v2bn61.png?width=588&amp;format=png&amp;auto=webp&amp;s=6fe845d656e0115b47ec2ae5c614d1905c3a7e52)
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+*Processing img 61z7exlx2bn61...*
+
+&amp;#x200B;
+
+Comparing both charts depict how the recent increase in FTD has had a direct correlation with ETF volume being shorted. Point being? The finance industry has used ETF's as a way of covering up their FTD's way before $GME. **Bunch of snakes**
+
+**Authorized Participant Arbitrage Option: Operational Shorting**
+
+When faced with ""excessive buying"" pressure as we have witnessed with $GME, Authorized Participants and Market may sell shares as ""Naked"" and then locate or create the shares at a later time (up to T+6 for bona fide market making). However, delaying past T+3 results in a failure to deliver **but AP/Market Makers are allowed to fail past T+3 because they are ""making markets"" and have an additional three days to settle trades (a total of T+6). This choice of shorting can also lock in a profit if options are used to hedge their exposure but with less capital outlay.** I won't go too in-depth about options hedging in this post because I want to keep the topic on the point of ETF's. However, I see a lot of misconception regarding calls and delta hedging which leads to misinformation being spread.
+
+**TLDR**
+
+**Do NOT WORRY about the price decreasing, this is all synthetically created to kick down the eventual outcome down the road through lending ETF shares and recent data proves that**. **Over 3.5 million shares were lent out through etf's yesterday and their failure to deliver's are accumulating each and every day. It's like maxing your credit card to pay off the debt on your other credit card. Does it solve the issue? No. It only delays it and makes it worse. Secondly, there is no volume to back up the current dip and just goes on to show you how this is all synthetically created to spread FUD. People who cheer for GME being put on the Short list need to realise that has no significant impact as hedge funds have other ways or artificially decreasing the price.**
+
+**Can't stop, won't stop. Gamestop.🙌💎**
+
+As always,
+
+Lambos or Instant Noodles🚀🚗",$GME: How the Dip today was due to ETF shares being lent out (Over 3.5Million) DD,1.0,1615863794,CoastalHotDog835
+9,m5zidb,,You call that a dip?,1.0,1615863806,MollysTavern
+10,m5zinf,"Just a random thought. Why are hedge funds delaying and paying interest instead of covering the shares? Do you think they don't want to be labeled as not a going concern? I think they have to file to the SEC their audited annual reports. And if they were considered not a going concern that would mean they have reasonable doubt that the company would be able to continue as a business over about a year time. This is basically the kiss of death because no bank or any other institution would want to loan them capital and anyone they owe money to would want to collect before they goes out of business. I imagine their annual reports are due in April so this might be a potential motive for delaying. If they were successful in delaying they could manage to borrow enough capital to cover the shorts and still continue as a business. 
+
+Note: I am a small brained monkey. Please DD.",Annual report to SEC. Delay not being a going concern?,1.0,1615863833,Sweaty-Answer-8682
+11,m5zj2g,,AMC TO THE MOON! 🌙,1.0,1615863871,JimmyJoeJim1
+12,m5zjwd,,It’s all GME???,1.0,1615863949,NotOkButStill
+13,m5zjxt,[removed],What stocks to invest with $100?,1.0,1615863953,Huckleberry-Still
+14,m5zkjd,,Detailed briefing of final approach. 🚀🚀🚀,1.0,1615864007,_Byzantine_
+15,m5zkv2,,Apes saving apes Chimp Haven dot org,1.0,1615864036,no_fraternizing
+16,m5zkz7,Anyone have advice on a platform to use for trading. I STOP using Robinhood because of the limits they had set for GME.,Platforms,1.0,1615864047,Jay-R12386
+17,m5zl3s,,Detailed briefing of final approach 🚀🚀🚀 Buy the dip. Just the tip.,1.0,1615864059,_Byzantine_
+18,m5zlff,"I'm sure it's because of bot trading, I guess, but it would be pretty interesting if anyone could break that down... All I know is that trading can happen in decimals and mm can probably control that trading much more... ELIA if possible. Love the orange crayons",Can anyone explain why after hours trades look like a bad digital mullet?,1.0,1615864088,red_team_gone
+19,m5zlke,,Detailed briefing of final approach. 🚀🚀🚀 Buy the dip. Just the tip.,1.0,1615864100,_Byzantine_
+20,m5zllx,[removed],To the moon,1.0,1615864104,IronBig6991
+21,m5zlmk,,AMC 2000$ 93 till infinite ♾,1.0,1615864105,Ok_Cup_625
+22,m5zlp4,,"The hedgies when they've tried to throw everything against us, but it hasn't worked. GME &amp; AMC to the 🌖",1.0,1615864111,HomelessGurl
+23,m5zlr6,"Not to get too sappy but it has been a rough couple of years.  Single dad of 4 after mom bolted and covid on top has made it hard to find joy. This sub has kept me going and made me laugh out loud. I know i need better friends. 
+
+Truthfully, I look forward to reading the stupid irreverent humor of this sub daily. It makes me feel less like a loser or at least in good company. 
+
+I just ran my first call into the ground with gme so i feel like i fit in here. I’m learning the hard way how not to trade options but it was house money so I don’t feel too bad. 
+
+Anywhooo. Ape together strong means more to some of us. Love you beautiful retarded apes.",Thank you apes,1.0,1615864115,pudnocker57
+24,m5zm94,,"Detailed briefing of final approach. 🚀🚀🚀 Buy the dip, just the tip.",1.0,1615864158,_Byzantine_
+25,m5zmd5,,I’ve just finished my algorithm that automatically buys $GME.,1.0,1615864165,OneTrip7662
+26,m5zmkm,,"Detailed briefing of final approach. 🚀🚀🚀 Buy the dip, just the tip.",1.0,1615864182,_Byzantine_
+27,m5zmyx,"Just watched a documentary with this title on Hulu, done by ABC. Fun to watch I don’t think the game is stopped by any means. Fun to watch GME rise &amp; fall before it goes to Ludicrous Speed! #HODLGME",GameStopped…,1.0,1615864219,the1murdock
+28,m5zn58,[removed],"Detailed briefing of final approach. 🚀🚀🚀 Buy the dip, just the tip.",1.0,1615864234,_Byzantine_
+29,m5zn8n,,Alt Investments? Movies? Opening of the economy. Would young traders/investors be interested in diversifying into Movies? What would be important? Be involved?,1.0,1615864242,Expect2win-stocks
+30,m5znvv,,"If this ain’t a sign to hold, I don’t know what is! Off to $420.69!!!",1.0,1615864303,EasyInstruction4
+31,m5zoft,[removed],"We helped save the Gorilla’s, but let’s not forget our other Great Ape Brothers 🦧",1.0,1615864353,Puravida1904
+32,m5zooc,"I would like to form my own conclusion as to what GME stock price should realistically settle at, after all the dust settles.
+
+I'm calculating the expected market cap of a company (like Gamestop), post-pivot.
+
+Please let me know if I make any mistakes in calculating, that is why I am posting this, for feedback.
+
+# Here is my work so far...
+
+The expected size of the gaming industry toward the end of 2021: $**200B**
+
+IF GameStop manages to capture just 1-2% of this market, that's **$2** to **$4B earnings.**
+
+(In 2020, GameStop recorded 1.91B in profit)
+
+*(source:* [*https://www.macrotrends.net/stocks/charts/GME/gamestop/gross-profit*](https://www.macrotrends.net/stocks/charts/GME/gamestop/gross-profit)*)*
+
+# What PE would GameStop realistically trade at?
+
+Well, if we check related sector averages, we will find:
+
+\- Tech Sector average PE = **32.77 PE**
+
+\-Gaming Sector average PE = **27 PE**
+
+\-Computers/Peripherals = **40.61 PE**
+
+\-Online Retail =  **133.68 PE**
+
+AVERAGE \~ **58 PE**
+
+ *(source:*[*http://pages.stern.nyu.edu/\~adamodar/New\_Home\_Page/datafile/pedata.html*](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/pedata.html)*)*
+
+&amp;#x200B;
+
+Let's low-ball **this** average and go with **25 PE**, to be very safe.
+
+So..
+
+25 PE \* 2B = **50B** market cap, at a conservative low-end.
+
+25 PE \* 4B = **100B** market cap, at a conservative high-end.
+
+Currently, at $216/share, its sitting at roughly **14.5B** market cap.
+
+In order to reach the expected **market cap of 50-100B**, the share price would need to increase by 3.4x to 6.9x the current stock price, assuming the number of outstanding shares remains constant.
+
+for a conservative low-end, I get: 216.80 \* 3.4 = **$737**
+
+for a conservative high-end, I get: 216.80 \* 6.9 = **$1495**
+
+**Given the current situation and demand for GME shares, is it reasonable to assume the fair market value of a GME share is** ***at least*** **$700??**
+
+&amp;#x200B;
+
+**This is my legitimate attempt at finding a realistic share value.**
+
+Please let me know if I have made any mistakes,  I am fairly new to investing, so any advice would be appreciated. thanks.
+
+&amp;#x200B;
+
+ obligatory: 🦍🍌🙌💎🚀🚀🚀🚀🚀🌘🪐🌌",Please Help Me Calculate Fair GME Price (post-squeeze),1.0,1615864376,boy_wonder69
+33,m5zoos," 
+
+*Welcome back and it feels good to be writing up posts again. I was asked to write up the recent relation between ETF's and the GME dip's we've been witnessing in the last several trading days.* ***I have included a TLDR for the crayon eating apes with an attention span of a 2-month-old dog. Also due to wsb guidelines, i am unable to mention these etf tickers due to their market cap. Please bear with me (not the 🐻🌈)***
+
+Anyone questions? Feel free to DM and I'll respond in 10-15 working days (jk)
+
+Hedge Funds covering up $GME shorts through ETF cloaking
+
+*I would like to present a few common terminologies before starting this post which may aid in helping you apes comprehend this more clearly.*
+
+**Exchange-Traded Funds (ETF)-** An exchange-traded fund (ETF) is a type of security that tracks an index, sector, commodity, or another asset, but which can be purchased or sold on a stock exchange the same as a regular stock. An ETF can be structured to track anything from the price of an individual commodity to a large and diverse collection of securities. ETFs can even be structured to track specific investment strategies. You can consider them as a hybrid of mutual funds.
+
+**Short Selling-** Short selling is the process of selling shares that you don't own, but have instead borrowed, likely from a brokerage. Most people short sell shares for two reasons:
+
+1. They expect the share price to decline. Short-sellers hope to sell shares at a high price today and use the proceeds to buy back the borrowed shares at a lower price sometime in the future in a bid to profit.
+2. They want to hedge or offset a position held in another security. For example, if you have sold a [put option](https://www.investopedia.com/terms/p/put.asp), an offsetting position would be to short sell the underlying security.
+
+**Authorized Participants -** An authorized participant is an organization that has the right to create and redeem shares of an exchange-traded fund (ETF). They provide a large portion of the liquidity in the ETF market by obtaining the underlying assets required to create the shares of an ETF. When there is a shortage of ETF shares in the market, authorized participants create more. Likewise, as ETF borrow costs increase, APs are less likely to borrow shares to hedge their position, and more likely to fail-to-deliver.
+
+In a typical transaction, the borrower of a stock posts collateral of 102% to 105% of the shares' value in cash, government securities or a bank letter of credit. If the ETF needs to sell the stock, it can recall it from the borrower. But if the borrower for any reason isn't able to deliver the shares, the ETF is repaid through the collateral instead, although that can have adverse tax consequences for the ETF.
+
+**$GME relationship: Let's look at the past trend of an ETF with GME**
+
+Now I'm not claiming today's red day was entirely due to etf's being shorted or their shares being lent out, but there is significant evidence that leads me to believe this may be one of the key factors.
+
+&amp;#x200B;
+
+[Notice how the assets plummet suddenly after the first short squeeze?](https://preview.redd.it/ge6epulq4bn61.png?width=688&amp;format=png&amp;auto=webp&amp;s=2b84a08585e0d2b57f4cab485d2ae0b466c42605)
+
+&amp;#x200B;
+
+*By law, a fund can have no more than one-third of its total assets in securities on loan. Few ETFs or other funds ever reach that ceiling, and ETFs are considered to be more conservative lenders than other funds. Market makers are continually creating new ETF shares (by presenting the fund with a basket of securities represented in the ETF) and redeeming others (and getting the underlying securities in return), so the number of ETF shares outstanding fluctuates. Because the supply isn't fixed, there really is no impact on performance when an ETF is net short, industry participants say. The prices of ETF shares typically stay very close to the value of the underlying holdings.*
+
+***ETF shares borrowed today saw significant lending. Suspicious, isn't it?***
+
+Credit to [u/hkzor](https://www.reddit.com/u/hkzor/) for providing these images:
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+[ETF 1: 6.5M available last week to 4M today](https://preview.redd.it/0vkjixsk4bn61.png?width=387&amp;format=png&amp;auto=webp&amp;s=4160a26d935c7e32ceb0947872a9be36b42417b1)
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+[ETF 2: 1.3M available last week to 850k today](https://preview.redd.it/upqsjgpl4bn61.png?width=388&amp;format=png&amp;auto=webp&amp;s=7c94b5ed3dd2b2426dacbcd5a9564bd226dc48e8)
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+[ETF 3: 900k last week to 500k today](https://preview.redd.it/fxca18jm4bn61.png?width=434&amp;format=png&amp;auto=webp&amp;s=9052e6bba2197671977783472dde2f9e14388f9f)
+
+Just taking into account **Three** ETF lendings, **you could see 3.35 Million shares were borrowed in today's trading session.**
+
+Short Sellers effectively manipulate pricing by borrowing shares in a company in order to sell them with downward pressure, coupling it with High-Frequency Machines being used, the price of a security can significantly drop in a rapid succession as we've been witnessing for the past few trading days.
+
+**The HF's have most likely synthetically shorted GME via ETF's to drive its price down since then**. They can also legally disguise their short position via synthetic longs, and there's concrete evidence that they have done this on the various articles posted before.
+
+**When coupled with synthetic longs via options, gives the appearance of shorts covering when they haven't, takes GME off the threshold security list when it shouldn't be**, and provides the ability to naked short GME again. This was the missing piece of how GME could actually be shorted without appearing so. This solves the NYSE threshold securities issue and the ability to drive GME down outside of buying a put.
+
+**Ultimately they have to cover these shorts sometime or another, if the ETF's recall their shares back that would mean an absolute fuckery of melvin and citadel, given they are still paying massive SI without the numbers actually showing up the threshold index**.
+
+The Link Between Failure to Delivers and ETF's
+
+ETF's are a growing force in financial markets and constitute almost 25% of US equity trading volume, therefore please keep in mind that not all shares shorted with specific ETF's are directly linked to GME. The one's I used as evidence is either because $GME is a major part of their portfolio or the ETF is retail orientated.
+
+**Failure To Deliver -** A condition where two investors agree to the purchase/sale of a security at a given price but the seller fails to deliver the security in a timely manner.
+
+&amp;#x200B;
+
+[The daily volume of Failure to deliver traded in the past](https://preview.redd.it/h7263a5f4bn61.png?width=588&amp;format=png&amp;auto=webp&amp;s=f7576c75223e5ddf8959093fafaea48d12586046)
+
+&amp;#x200B;
+
+[ETF's being shorted in the past](https://preview.redd.it/kw9k81jg4bn61.png?width=801&amp;format=png&amp;auto=webp&amp;s=976a2e44cdd6327ed13ee81021e913ae02c6ad0f)
+
+&amp;#x200B;
+
+Comparing both charts depict how the recent increase in Failure to deliver has had a direct correlation with ETF volume being shorted. Point being? The finance industry has used ETF's as a way of covering up their Failure to deliver's way before $GME. 
+
+**Authorized Participant Arbitrage Option: Operational Shorting**
+
+When faced with ""excessive buying"" pressure as we have witnessed with $GME, Authorized Participants and Market may sell shares as ""Naked"" and then locate or create the shares at a later time (up to T+6 for bona fide market making). However, delaying past T+3 results in a failure to deliver **but AP/Market Makers are allowed to fail past T+3 because they are ""making markets"" and have an additional three days to settle trades (a total of T+6). This choice of shorting can also lock in a profit if options are used to hedge their exposure but with less capital outlay.** I won't go too in-depth about options hedging in this post because I want to keep the topic on the point of ETF's. However, I see a lot of misconception regarding calls and delta hedging which leads to misinformation being spread.
+
+**TLDR**
+
+**Do NOT WORRY about the price decreasing, this is all synthetically created to kick down the eventual outcome down the road through lending ETF shares and recent data proves that**. **Over 3.5 million shares were lent out through etf's yesterday and their failure to deliver's are accumulating each and every day. It's like maxing your credit card to pay off the debt on your other credit card. Does it solve the issue? No. It only delays it and makes it worse. Secondly, there is no volume to back up the current dip and just goes on to show you how this is all synthetically created to spread FUD. People who cheer for GME being put on the Shortlist need to realise that has no significant impact as hedge funds have other ways or artificially decreasing the price.**
+
+**Can't stop, won't stop. Gamestop.🙌💎**
+
+As always,
+
+Lambos or Instant Noodles🚀🚗",$GME: How the Dip today was due to ETF shares being lent out (Over 3.5Million) DD,1.0,1615864377,CoastalHotDog835
+34,m5zos8,,I like blue crayons,1.0,1615864386,xixNAVOCxix
+35,m5zp77,,"My current holdings, sorry I can't do more",1.0,1615864425,Disastrous_Lobster
+36,m5zp7p,"Does interactive brokers consider the value of a long put when calculating your minimum margin maintenance? For now, I'm just investigating reg T margin because portfolio margin seems so much more complicated and less predictable.
+
+&amp;#x200B;
+
+I'll clarify my question with an example:
+
+\-Say my account has 100 shares of SPY purchased at an even $400 ea = $40,000 in total assets
+
+\-This should then allow me to access up to $40,000 in margin, because $1 in asset = $1 in initial margin. Assume I use the margin to buy another 100 shares, again at $400 ea.
+
+\-The stock price should be able to drop up to 50% (down to $200) before they margin call / liquidate me, because the maintenance requirement is 50% of the initial.
+
+&amp;#x200B;
+
+To defend against the chance of liquidation, could you purchase 2 long put contracts with a strike price a little over the 50% price? In this example, that would be a strike at about $205 to $210.
+
+&amp;#x200B;
+
+**Would this strategy work to avoid all chances of liquidation?**",Interactive Brokers margin with puts,1.0,1615864426,thistlemissle5
+37,m5zpc8,,Noticed this today at my local dispensary 🚀🚀🪐🌚🦍📈💎🙌🏽💎let’s get HIGH af!!!,1.0,1615864439,wolvirine27
+38,m5zpmu,"2 hr chart   
+**Breakout in action**   
+
+
+ *Denison shares are trading higher after the company announced it will be included in the S&amp;P/TSX composite index.*   
+
+
+Perfect set up here. Breakout recently confirmed with increasing volume - ended the day with a bullish pennant.    
+
+
+**Target: 1.65** \- Aiming for the high of triangle.    
+Great news, beautiful pattern. Let's ride
+
+[2 hr chart](https://preview.redd.it/d47xvc745bn61.png?width=1880&amp;format=png&amp;auto=webp&amp;s=15f43aa9a64c90fba4cd71ff917d34aeba366a1e)",DNN Analysis: Breakout,1.0,1615864465,MoistBands
+39,m5zpv6,,Our recently adopted brethren just got 100 more trees to climb 🦍🦧🌴🌳,1.0,1615864489,unholyg0at
+40,m5zpyu,,HODL... 💎,1.0,1615864499,Regular_Profession73
+41,m5zpzq,,"While you narcissistic titfuckers adopted apes, I adopted these 304 yummy dippi babies",1.0,1615864501,dubaicurious
+42,m5zq7j,,What is this chart on CNVA?? Massive volatility over the past 4 months. I've never seen a triangle like that before. Does anyone know?,1.0,1615864517,Geaux
+43,m5zqah,[removed],"For the sake of curiosity; what will you do if GME, does go to the moon? I would pay off my student debts and further invest in my future (potentially buying a business) Melvin wants to save their yachts but we have a chance to build a life here so what will you do with your tendies?",1.0,1615864524,gnome_kiid
+44,m5zqdd,This is DD right?,"Had a dream I woke up to $9,694,200 in my investing account off of 64 shares. Might buy more now.",1.0,1615864534,CrosslegLuke
+45,m5zqf9,Anybody?,Pi Coin?,0.5,1615864539,MollyWater-
+46,m5zqgp,,Our recently adopted brethren just got 100 more trees to climb 🦍🦧🌴🌳,1.0,1615864543,unholyg0at
+47,m5zqs8,[removed],"WSB SHORT COVERING - $GME, $AMC, $PLTR, $RKT - “MEME-MANIA” - HEDGIES VS HODLERS” MARCH 16",1.0,1615864573,boolean__
+48,m5zqxp,,"Shills are amongst us! Don’t sell one to buy the other, just Hodl what you have and buy more of one or the other or both! Hodl both until it helps change all of our lives and the lives of our family and friends that we can help get back on their feet from years of Hedgie destruction!",1.0,1615864583,chadwickinvestments
+49,m5zr6r,,Just got this email from TDAmeritrade. With a super not-link-looking link to the document concealed at the end. Something is amiss here.,1.0,1615864608,SoPrettyBurning
+50,m5zray,"Brand new to trading stocks, what's a good mobile app to start on?",Best Mobile app to trade on,1.0,1615864618,WhatTheFox12
+51,m5zrbu,[removed],AMC GAMMA SQUEEZE ON 19TH MARCH - Calls to Puts Options at 26:1 for $14 strike price DD,1.0,1615864621,cknight2020
+52,m5zrlx,,"Shills are amongst us! Don’t sell one to buy the other, just Hodl what you have and buy more of one or the other or both! Hodl both until it helps change all of our lives and the lives of our family and friends that we can help get back on their feet from years of Hedgie destruction!",1.0,1615864645,chadwickinvestments
+53,m5zrnh,"GameStop, r/wallstreetbets and u/DeepFuckingValue aka “Roaring Kitty” have gained much momentum YTD over Reddit, Financial &amp; Social Media outlets around the world. Companies like Citadel, Melvin Capital, Robinhood, Muddy Waters, Citron Research and Point72 have become household names now and the target of many in the MEME society. The Planet of Apes or r/wallstreetbets have amassed over 9.5MM Degenerates as of the time of this DD.Some of you who were born in the 1970s and are part of Gen-X may remember The Battle of the Billionaires during WrestleMania 21 where Donald Trump shaves off all the hair of Mr. Mcmahon bald. Today, we have a similar TV show which I think should be dubbed MEME-MANIA where the HEDGIES battle the HODLERS. As guys like Carson Block, Ken Griffin, Steven A. Cohen and Gabe Plotkin and the gang all try to duck and cover and run away from the bear-hunting mob, everyone is trying to chase the next GameStop. Redditors in search of the Holy Grail or another stonk which has a high short interest.
+
+Another possible positive catalyst is the proposed DTCC liquidity rule. As hedge funds DO NOT KNOW when this rule will be implemented it is very likely we are seeing some aggressive covering for the smart players that do not want to be crowded out in the event of a surprise date.Ever since the GameStop craze (which is still going strong on r/wallstreetbets), many hedge funds have tried to stay out of the news and have gone into hiding, leaving many Redditors wondering and asking everyday “what is the short interest today” and “who’s shorting the stonk”. If I got a dollar for everytime a fellow Redditor asked this question, I may have enough money as RoaringKitty at some point this year, lol. Mind you, Redditors, Apes and Rocketeers aren’t alone who LIKE and/or HODL these stonks! There are deeper pockets than DeepFuckingValue out there, these whales are institutional investors who have the same vested interest and fiduciary responsibility to HODL the same stonks we LIKE for the long term and see their positions appreciate in value over the year and not just seconds, as many of these algorithmic high frequency market markets and hedgies do for a living. These are not cats, they are real-money institutional investors like Invesco, Blackrock, Vanguard and ARK and are also competing with hedge funds for investments. The bad wrap and losses the hedgies are taking is the perfect time to pounce. So let’s see who is SHORT-COVERING and who is BUYING AND HODL’ing! As an homage to r/wallstreetbets and u/DeepFuckingValue, I felt I should contribute some DD:
+
+Above are a few of the top heavily shorted stocks on WSB today and over the past month. The column highlighted in BLUE shows the Short Interest Weekly Change. Just from these numbers, it looks like shorts are covering fast in $GME by 33.98% in 1 week. Think of $GME as the big brother Ape here who has been eating all bananas. Well this Ape also has 3 other smaller siblings who also want to eat! It’s not surprising that $AMC followed today, up nearly 26% at Monday’s close 3/15. The short interest was down by -28.40% in 1 week. Then coming in the rear are $PLTR with short interest -17.54% in 1 week and $RKT with -13.26%. One could speculate that if you missed the banana boat on $GME and $AMC, $PLTR and $RKT have room to follow.
+
+Let’s look at the correlation between the price and short covering:
+
+$GME SHORT INTEREST
+
+*Processing img 6sr28jv9lan61...*
+
+$AMC SHORT INTEREST
+
+Another epicenter stonk, hedgies bet the house that no one would go back to a theatre in 2020 and that the company would go bankrupt as movie-goers were already making the switch to streaming even before the pandemic lockdown. AMC joined the broader rally as Reddit darlings and epicenter favorites bucked the tech sell-off. As the biggest cinema operator in the world, it is no surprise that AMC has seen the biggest fall in revenue over the past year. The cinema operator was heavily in debt and facing increasing competition from in-house entertainment options. The recent announcement that movie theaters will reopen in NYC and LA this month gave life to the stock. The returning interest from Reddit helped extend the rally since the reopening announcement. As short realized the reopening was a reality, they continued to cover today all year long (blue bars).
+
+$RKT SHORT INTEREST
+
+Rocket Companies, the tech-driven real estate, mortgage, auto loan and financial services business, already had shorts involved since the IPO in 2020. To make things worse, long term interest rates started to creep up fast and shorts double-downed on their bets in February-March as the 10 Year Treasury breached 1.50% and inflation fears sparked a pullback in the stonk market. Another Reddit driven rally caught on and $RKT shot up to $49 on March 2. This was based on a DD on share buyback and a special dividend. Shorts didn’t buy it so they didn’t cover. Instead numerous hedgies went on CNBC talking up interest rates and inflation fears, causing the entire stonk market to correct and take down interest rate sensitive stocks like RKT. They piled even more on to get the stonk back down to $23 on March 5.
+
+INSTITUTIONAL INVESTORS HODLing $GME, $PLTR, $RKT, $AMC:
+
+https://preview.redd.it/bt9b8cf1wan61.jpg?width=736&amp;format=pjpg&amp;auto=webp&amp;s=349c749aa0d299917982441b655bff96c50cab75
+
+​
+
+INSTITUTIONAL INVESTORS BUYING &amp; HODLing $RKT:
+
+The above table shows the Top 9 institutional investors doubling down on $RKT in between quarters. The newest HODLer of them all is West Coast Tech PE Firm Technology Crossover Management (#5) which also has their hands in Zillow, AirBnB. They only invest in companies in transforming industries by leveraging tech and are deeply engaged with founders and CEOS to make sure they become market leaders like Dan Gilbert and the rest of the insiders who all still own the majority of $RKT.
+
+HEDGE FUNDS SELLING $RKT:
+
+Any names look familiar above? Same hedgies involved in $GME are also selling $RKT.
+
+""RAMPAGE"" OFFICIAL TRAILER - Starring CITADEL
+
+Did you see this movie starring The Rock? Are you familiar with genetic social experiments? What happens when you try to suppress an Ape and take his bananas? Rockets fly and buildings come falling down. A few interesting Reddit DD that I had a chance to stumble upon today:
+
+“Citadel Has No Clothes” which as of today had 21K upvotes and hundreds of awards, and talks about how Citadel was fined 58 times for FINRA and SEC violations, increasing short positions 127% YOY and was managing $384,926,232,238 of market securities as on Dec 2020. “CITADEL NEEDS MONEY !! CHECK THIS OUT !! EVEN MORE MOON FOR US !!” which says even they need a bailout and additional funding to cover all these damn short positions they have on!! “Bloomberg news reporting Citadel portfolio manager Chris Wheeler leaves firm.” I also had a check on LinkedIn and saw so many other quants and analysts posting their profiles up and looking for new jobs. “Citadel Securities Says GSA Stole Data While Recruiting Trader” rumors are that Citadel folks are all looking for new jobs. They are so desperate they will actually do anything like this guy to get out seeking asylum. So is it fair to say that for Citadel, it looks like the GAME IS OVER soon like Melvin. I would not be surprised if Stevie Boy has to sell that stupid dead shark in his house to bail out Kennie boy once another Meme Stonk Rockets to the Moon in coming days and weeks!
+
+TL,DR and ELi5: I LIKE THE STONKS, BUY &amp; HODL $GME, $AMC, $PLTR, $RKT until they moon or Citadel goes bankrupt.
+
+DD done by u/FreakyPheobe","WSB SHORT COVERING - $GME, $AMC, $PLTR, $RKT - “MEME-MANIA” - HEDGIES VS HODLERS” MARCH 16",1.0,1615864649,boolean__
+54,m5zrpq,,Got this in Vegas so my fellow 🦍🦍🦍 will recognize me when they see me....oh and I bought more GameStop today. I just really like the stock 🙌💎💎🙌,1.0,1615864655,HotStove75
+55,m5zrsx,"**Everyone has been waiting for this stock to move up.. could this be it?**    
+
+
+After a nearly 2 month long downtrend, we are seeing an opportunity to breakout here.    
+Great movement today from AAPL, a strong green candle with no top wick is just what we needed to see to regain hope.    
+
+
+An entry will be made if we open tomorrow above the downtrend resistance line.     
+
+
+**First Target: 128.50**   
+**Second Target: 137.00**
+
+*Processing img xhfpcnwl5bn61...*",AAPL Analysis,1.0,1615864662,MoistBands
+56,m5zrud,[removed],AMC GAMMA SQUEEZE ON 19TH MARCH - Calls to Puts Options at 26:1 for $14 strike price DD,1.0,1615864666,cknight2020
+57,m5zs0t,,"Wile you narcissists adopted apes, I adopted 308 of these dippi babies",1.0,1615864686,dubaicurious
+58,m5zshj,,An interesting dilemma 🤔 🧐,1.0,1615864731,Yeremyahu
+59,m5zt1i,"Alright, fellow autists I've got a good one here! I am bullish as fuck on [$baba](https://twitter.com/search?q=%24baba&amp;src=cashtag_click). It found support and held today around that $230-$229 mark, they’re sitting on a boatload of cash and China wants them to unload some unprofitable business ventures like weibo and a newspaper. It is an E-commerce cash cow I bought calls here. Everything in the fucking world comes from them, including the crayons I am eating \* not financial advice I eat them\* ER is estimated to be May 28th. I bought calls for $255 Expiring in May and Diamond handing my 40 shares.  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀 
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+TLDR: China's bullshit is not affecting $BABA 's core business model or bottom line. BUY SHARES AND LONG CALLS  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀  🚀 
+
+&amp;#x200B;
+
+*Processing img dfcc1bbc5bn61...*
+
+*Processing img 8aolwdga5bn61...*
+
+[within the bottom bollinger](https://preview.redd.it/3kunke585bn61.png?width=314&amp;format=png&amp;auto=webp&amp;s=50b6ee75a1cfc29190aaa3853b8fcbe5dc1242cc)",$BABA TO THE MOON 🚀🚀 Don't Worry about Chinese government $48B in CASH,1.0,1615864783,gcedeno75
+60,m5zt86,,41% short float ... if they’re smart they’ll start covering now... they’re algos won’t save them forever,1.0,1615864799,MoneyNinja23
+61,m5ztwk,What do I invest in that I can have sit forever? I don’t know a lot about stocks but am trying to get into it.,What to invest 100$ in,1.0,1615864865,WasteDepartment6885
+62,m5zu8n,[removed],Penny stocks,1.0,1615864899,Marine01514087
+63,m5zuqa,"Robinhood sent out an email offering money for deposits. How much, you ask? Well let me tell you!
+
+A whopping 5% bonus of $10 if you deposit $200.
+
+Wow! Does it increase as you deposit more?
+
+I'm glad you asked, ape.
+
+No, fuck you, it doesn't.
+
+At $1,000, you get $25, or 2.5%. At $2,500 you get $50, or 2%. At $5,000, you get $100, or ALSO 2%.
+
+Fellow ape, you may ask, what if I'm a big spender and have lots of 🍌 to spend? Well, if you put in more than $15,000, you get a whopping $250, or 1.67%!
+
+Robinhood must be hurting if they're willing to stoop to such bullshit offerings. I could invest $50 in GME tomorrow and make more than $100.
+
+Fuck Robinhood, GME 🚀🚀🚀. This is not financial advice. I eat crayons.",Robinhood $ for Deposits - How Fuk R They?,1.0,1615864946,ButtCavernOfWarmth
+64,m5zv3n,,Silverback state of mind,1.0,1615864982,squashcollective
+65,m5zw6p,,"When paper hands says ""It's over, time to sell.""",1.0,1615865083,crimson3112
+66,m5zwd8,,Any donations will be spent strictly on GME stocks💪🏾📈📈📈📈,1.0,1615865101,SummerEarly
+67,m5zxmr,,GME is being shorted through XRT,1.0,1615865223,classacts99
+68,m5zy48,,This is not a drill. It looks like MoviePass has some life left in her. I repeat $HMNY not a drill.,1.0,1615865266,GBnews6
+69,m5zy4v,[removed],Potential $300MM 5 year contract extension foe Chen,1.0,1615865267,Money-Bull
+70,m5zy6s,"I am new in here, but have been a small casual day trader for a few years. And I have followed 'Musky' ever since he began investing in AI, outer space, and other tech that could quite literally change the world faster than the industrial revolution. Sadly, most of it is not public. Hyperloop just started, and I have read damned near all there is to read. Someone tell me if  and why I could be wrong, but ya'll---I'm telling you. This is the next biggie. And I mean, check out the price! 👀 ...Aecom (ACM) would be who to support for Elon. There is a much smaller endeavor through Adapt (JOANN)
+
+Let me know what ya'll think...",Elon Musk supporters...Hyperloop could immensley change the world! 🚀💎🙏,1.0,1615865273,xb_Levi_dx
+71,m5zyb2,,I adopted these little guys with my GME Tendies!!!,1.0,1615865285,NuccioAfrikanus
+72,m5zyg6,,Likelihood this causes a dip for TSLA and certain related tech companies?,1.0,1615865298,Significant-Floor800
+73,m5zytj,,KE Holdings (BEKE) posts strong fourth quarter financial’s,1.0,1615865332,JollyGreeneGiants
+74,m5zyxc,,"My resident witch made me a money spell jar in anticipation of the 3/19 Witching Day. Shake those 💎🙌 for the Money Tree, and manifest thy rightful Tendies!",1.0,1615865342,DifficultyPotato
+75,m5zz01,,Please someone figure out what the heck is going on? Biggest comeback in history? $HMNY,1.0,1615865351,GBnews6
+76,m5zz5s,,💎 🙌🏼,1.0,1615865365,Thorbeans
+77,m5zz6v,[removed],Boycot FTX! join hands against them,1.0,1615865368,saiman88
+78,m5zzdc,,AMC,1.0,1615865384,Parking_Nectarine537
+79,m5zzrg,[removed],What we buying boys got 1700$,1.0,1615865421,EmbarrassedCookie150
+80,m5zzvp,,Amazon of Gaming,1.0,1615865430,MaximumLeg4
+81,m60055,[removed],Check out the video,1.0,1615865458,jay54420
+82,m600cy,,KE Holdings (BEKE) Posts Strong Fourth Quarter Financials,1.0,1615865478,JollyGreeneGiants
+83,m600dw,AMC to the Moon.   Diamond Hands.  Stonks.,AMC,1.0,1615865479,Teaching-Chemical
+84,m600gd,,Thank you GME,1.0,1615865487,ryant7922
+85,m600hh,[removed],What company should I invest in ??,1.0,1615865489,Lultimbo
+86,m6014n,[removed],WE NEED ALL THE LEGENDARY GME DD BACK,1.0,1615865554,NeverBakedEnuf
+87,m601jy,,Trying to read all the DD after close hoping theres a smooth brain TLDR at the end.,1.0,1615865594,ILikeTortises
+88,m6025b,[removed],"$500,000 in student loan debt. Plan? buy GME",1.0,1615865647,HealthCareWorker88
+89,m602vy,,When the HF’s got took by WSB #AMC #GME,1.0,1615865714,tguidotti
+90,m603od,[removed],Is Inflation coming?,1.0,1615865796,Devils_doohickey
+91,m603uy,[removed],apes together! hold!,1.0,1615865812,apexmachina
+92,m6047n,"I’ve spent my entire life, 51 years, working my ass off just trying to support my family. Back in November I started reading a lot and found one stock I thought I could put what I had into it. What I had, is all I had. Although I’ve worked hard and done OK it takes money to raise a family and paycheck to paycheck is what we did. $KOSS @3.68, ~ $5k worth.  Sold all for just under 75K. Then moved to $GME, been in and out 3x. Sitting on just about 375K.  Never thought of actually retiring before. Thank you all so much for what you gave my family. When you have nothing to really lose, then the choice is easy.  Going back in tomorrow...ALL IN.",Potential Retirement,1.0,1615865848,FederalEducation7992
+93,m60499,,Me every time the bots stop me from posting!,1.0,1615865851,dhilowitz3
+94,m604c9,,GME,1.0,1615865859,Chrispy089
+95,m604k8,,"Hi all. I meet and exceed all karma requirements to be able to post and comment here, but all comments get immediately rejected by the bots for not having enough karma. How do I fix this?",1.0,1615865881,sliplife
+96,m604wa,[removed],“Isn’t that a daisy” AMC UP 26% today to the moon we go!! 🌙🚀🚀🚀,1.0,1615865914,tguidotti
+97,m605d6,,pardon me?,1.0,1615865959,MaximumLeg4
+98,m606c5,,Fellow Apes my wife was poppin tags today and brought this lamp home. Could it be a sign?,1.0,1615866056,Superchief440
+99,m606nk,,🦍,1.0,1615866086,Apprehensive_Oven726

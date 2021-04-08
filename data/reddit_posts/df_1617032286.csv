@@ -1,0 +1,288 @@
+,post_id,text,title,upvote_ratio,date,author
+0,mfs95m,"A few weeks ago I started to notice something suspicious for Transocean (RIG) in terms of spikes in certain options volume as well as spikes in volume in its bond pricing along with its bond swaps (Put Options for Bonds). As the weeks go by my suspicion came to fruition so I'd like to take this opportunity to share my observations with everyone and at the same time show a good example of a breakdown of how a typical hedge fund employs their shorting strategy against a traditional company, in this case Transocean (RIG).
+
+I will do my best to dumb everything down since I know some of our audience are still eating crayons and sniffing glue.
+
+**Industry and Company Background:**
+
+Without going into too much detail on who Transocean is and how they do business since most of that you can find that yourself on Google, but the abstract is Transocean is in the business of providing offshore oil drilling services for oil companies. Like most energy companies, they got hit pretty hard during the pandemic with oil falling to new lows due to covid lockdown measures and general overall fall in demand.
+
+As a result, almost all of Transocean's direct competitors have filed for bankruptcy so Transocean remains the 800 pound gorilla with currently the largest, newest, and most efficient fleet to service the offshore oil drilling industry. But unlike their competitors, Transocean's territory exposure is global so they are not concentrated on only one geographic location (eg. Gulf coast) and most importantly RIG has a $7.8 Billion work backlog with a 75% penalty for any cancellations (none of their competitors are in the same position). What this means is that RIG has currently more work then they can handle if any of their oil clients were to cancel their contract, the client would have to pay Transocean the cash penalty of 75% of the project's value to Transocean. This is why even with very little new contracts in middle 2020, the company still had a steady revenue stream until more new contracts showed up and were added into their backlog later in the year.
+
+Of course in early 2021 the demand for oil accelerated and Transocean is winning more new contracts around the world. Some analysts argue that some of the new contract day rates were lower as compared to before but if you look more closely at the trend of their day rates of the contracts, they are consistently rising over the past few months. So they probably gave some discounts in the initial recovery to build up their contract momentum which is expected and seems to be working.
+
+With the uptrending price recovery of oil for the past months due to Biden's tough stance on American oil companies affecting supply, OPEC+ continuing tightening of supply, and a continuous rise in demand for oil due to economies reopening around the world results in continuous price increases with many high profile analysts even expecting $100 a barrel by the end of the year.
+
+Out of that rise, offshore oil is still heavily demanded by oil companies. The reason for this is that offshore oil is extremely predictable as compared to other drilling methods when it comes to how much oil is in the well, the price to pull it out, and volumes on how much the company can consistently pull out. Like every major corporation, large oil corporations have to diversify their oil portfolios so that is why there will always be new contracts for offshore drilling of oil.
+
+Compared to shale fracking which is what most oil companies employ in the US, offshore oil is significantly cheaper and less volatile in cost and is less affected by regulations since there are offshore wells around the world with the most increase in South America and Norway in the past couple of months. The biggest problem with offshore oil drilling is that offshore wells take years to develop, this is why oil companies were still signing new contracts with Transocean in 2020 when oil prices were relatively low since they know it would pay off in the long run and who knows what the price of oil will be when the well is operational in 1-3 years.
+
+From a fundamental standpoint, Transocean is in a good position. It has enough cash to last years on top of their loan revolvers which they have not tapped. As per Yahoo finance, RIG's Book Value per share is $18.58 per share, well above the current stock price. Competitively, they are also in a great position as some of their competitors coming out of bankruptcy have low cash balances and lack of loan revolvers available to expand or develop their fleets.
+
+The biggest problem with the competitors coming out of bankruptcy which Transocean highlighted in one of their recent earnings calls is that it scares the clients, since the clients will be signing contracts that would last years, they would prefer to work with companies that offer more reliability and stability, and as mentioned Transocean is the only one. RIG's management is second to none, they kept their shareholders' interests a priority and even refused to do a reverse split when their stock was under $1 and consistently focused on reducing their debt levels and to take advantage of market opportunities. New contracts are consistently flowing in, business is getting better and that is why RIG has been gradually going back up over the past couple of months and supported as well by the continuous rise of oil.
+
+**The Hedge Fund Play:**
+
+In the middle of 2020, when oil was still trading relatively low, I noticed a large rise in volume of a series of Transocean Debt (Bonds) and also a spike in the volume of bond swaps which I assume was used by hedge funds to hedge their bets. At the same time, I noticed a steady and large rise in shorted Transocean stock, which means a hedge fund or hedge funds were hoping the company would go into bankruptcy like almost all of Transocean's peers in the industry. I know it was hedge funds because most institutional investment funds are not allowed to short due to how they are regulated.
+
+Based on the volume movement and price action of trading of Transocean debt and its swaps, it looks like a hedge fund was primarily concentrated in a strategy of bankruptcy restructure arbitrage which means if Transocean does go into bankruptcy they can make more money in the bankruptcy restructure since Transocean's secondary offerings were at the time, traded well under their true book value (Sort of like Gordon Gekko with Blue Star Airlines in the movie Wallstreet). The problem with this was Transocean's extremely competent management choosing to put up a fight.
+
+To take advantage of market conditions, Transocean hires Lazard Freres &amp; Co. to help them restructure a good amount of their debt without going into bankruptcy which they did. As a result, a Hedge Fund called White Box Advisors (WBA) revealed itself and rallied a couple of other bond holders and took Transocean to court claiming that Transocean technically went into default when it proceeded with the debt restructure. Lazard backed up Transocean to reassure that Transocean did not go into default and everything Transocean did was legal and well within the requirements for its shareholders.
+
+I was actually able to go over court transcripts and from the looks of it, it was primarily Transocean's lawyers arguing and going into details in court. WBA's lawyers were relatively quiet in comparison and from the outside, it is just too obvious that they didn't really have a real case. So this just looks like it was put on just for a show for the investors.
+
+Over the next few months, numerous short ladder attacks were conducted on Transocean stock back up by coordinated continuous random spike in numerous bear articles focusing on the lawsuit and repetitive same bear information from a number of freelance writers primarily on Seeking Alpha and others doing everything they can to drive the price of Transocean's stocks down.
+
+Keep in mind that whoever bought those bond swaps earlier essentially bought put options on Transocean's bonds. Most Bond prices do correlate well to the direction of its stock's prices, so whoever owned them was winning on the front of bearish investor sentiment with the lowest being October. Finally, market forces prevailed overlooking the BS and in December, the court officially ruled against WBA and then threw the case out of court. Astonishly the bearish articles on Seeking Alpha and other sites just suddenly disappeared as well which looked like the shorters exited their bear positions and stopped paying for the bear promotions.
+
+In the months that followed, Transocean stock has consistently been going up just following its natural course since the company is doing so well and the price of oil has been going up as well. What a way to end 2020 and start 2021.
+
+**Recently - New Play:**
+
+A couple of weeks ago ago, I started to notice a steady climb in shorted shares and also spikes in volume of bond swaps as per my Bloomberg terminal. There were also large spikes of large batches of Put options contracts purchased at mid day (They didn't even try to hide it). At first I thought it was because of the price of oil going back down due to lockdown measures which part of it was but after building several models analysing and comparing past oil price decline, the results didn't match up. When oil pricing started to go back last week due to the Suez Canal being blocked, it confirmed my theory as there was a rise in bear positions but it wasn't primarily because of the fall in oil prices.
+
+My research did conclude that someone big was starting to short the stock again. And then late last week, I discovered that White Box Advisors just refiled their suit against Transocean again in Appeals Court claiming this time that the Judge who ruled against them ""used a legal standard that wasn't applicable."" Most legal and industry analysts have already examined the appeal and agree the appeal is BS. Could it be a coincidence that spiking short positions on Transocean and WBA's involvement conveniently looked like the appeal was announced after a hedge fund secured those bear positions and it worked because when the news came out Transocean stock started to go down again. What a play.
+
+The goal of this post is to create awareness and showcase the manipulation by hedge funds. Time and time again hedge funds have employed the same strategies to try to beat good companies down for their own profit and there is no indication that their practice is pulling back. If the hedge fund who shorted Transocean is the same one from back in 2020 and attempts to use the same strategy to try to push Transocean stock down, we should start to see an uprising in bear articles against Transocean soon especially highlighting the appeal and different bear articles especially from Seeking Alpha repeating the same bear content from different third-tier writers since this as we know is in the hedgies arsenal.
+
+This time around it is going to be harder for that hedge fund to do it on RIG for the simple fact that oil prices will start to go up since economies are opening around that world and systematic risk is now playing against them. Only time will tell what happens next, all I know is I can't wait to see the next official Short interest report for Transocean and perhaps a good bullish opportunity is in sights.",Transocean (RIG) an Insight into Hedge Fund Manipulation,1.0,1617032305,Eljefe2800
+1,mfs9g8,"Hello everyone still somewhat of a novice to futures trading. Has anyone had success with I-Systems trading? Or if you have had any success in any other algorithmic programs?
+
+They work with well known brokers such as Ninja Trader and AMP.
+
+&amp;#x200B;
+
+[https://www.isystems.com/](https://www.isystems.com/)
+
+&amp;#x200B;
+
+Thank you in advance. I value your thoughts and opinions.",Algorithmic Trading,1.0,1617032330,Financialtrader
+2,mfs9ki,,BREAKING: Cathie Wood’s ARKX Space ETF leaks DD for $NFLX,1.0,1617032339,ManicBJT
+3,mfsbag,What app do you recommend to buy stocks and why? I started using robinhood but I am not convinced,Where to buy stocks,1.0,1617032473,Seahobbs
+4,mfsc3d,[removed],There’s always I N O,1.0,1617032539,Holding_1
+5,mfscaj,,[PENN] When a company is added to the S&amp;P 500 institutions are forced to buy up shares for their index funds causing the stock price to rise,1.0,1617032555,tangibletom
+6,mfscyz,[removed],Best free paper trading site or app,1.0,1617032609,Careyn91
+7,mfsd7f,"Hey so i just got an idea... so we want to go to the moon but hedge funds want to short it to death. So what if there was a world for both us apes and the hedgefunds. What if we sell, the let the hedgefunds short it and when it's low we all buy, then it goes up because of the hype and we sell high. Then we let the hedgefunds short it again and repeat... I hope this isn't market manipulation since i'd go to jail and my wife's boyfriend would marry her",I might've went full retard on this one,1.0,1617032626,TarKhod_Was_Taken
+8,mfse1q,,To the 🌝,1.0,1617032693,Stock-Possibility893
+9,mfse4b,[removed],Nokia...,1.0,1617032700,tamarty
+10,mfse8c,Lets go up,RKT,1.0,1617032708,Lookingforlaverdad
+11,mfsf1k,,🦍🦍🦍🦍🍌🍌🍌🍌🚀🚀🚀🚀,1.0,1617032775,Lanky-Brick-9892
+12,mfsf4m,"Don't get me wrong I am 100% on the apes side, but seeing all this money that WSB collectively has invested into GME worries me because, as the events of the last few days have even further cemented into reality, it's a rigged game! I don't believe the wall Street elite will let you get away with it. I believe they would rather tank the entire market than to let the retards win. All of this money could turn into actual fortunes if placed into a certain decentralized market. I mean Visa just processed it's first crypt keeper payment today nothing to see here folks",You guys are playing a rigged game,1.0,1617032781,BonerChamp_69
+13,mfsg61,[removed],"Mar 29, 2021 | Today's Top 25 WSB Tickers",1.0,1617032861,Great_Start_2240
+14,mfsgd4,[removed],Robocop 1987,1.0,1617032876,Megatron_overlord
+15,mfsgf7," A couple of weeks ago I started to notice something suspicious for Transocean (RIG) in terms of spikes in certain options volume as well as spikes in volume in its bond pricing along with its bond swaps (Put Options for Bonds). As the weeks go by my suspicion came to fruition so I'd like to take this opportunity to share my observations with everyone and at the same time show a good example of a breakdown of how a typical hedge fund employs their shorting strategy against a traditional company, in this case Transocean (RIG).
+
+I will do my best to dumb everything down since I know some of our audience are still eating crayons and sniffing glue.
+
+**The Hedge Fund Play:**
+
+In the middle of 2020, when oil was still trading relatively low, I noticed a large rise in volume of a series of Transocean Debt (Bonds) and also a spike in the volume of bond swaps which I assume was used by hedge funds to hedge their bets. At the same time, I noticed a steady and large rise in shorted Transocean stock, which means a hedge fund or hedge funds were hoping the company would go into bankruptcy like almost all of Transocean's peers in the industry. I know it was hedge funds because most institutional investment funds are not allowed to short due to how they are regulated.
+
+Based on the volume movement and price action of trading of Transocean debt and its swaps, it looks like a hedge fund was primarily concentrated in a strategy of bankruptcy restructure arbitrage which means if Transocean does go into bankruptcy they can make more money in the bankruptcy restructure since Transocean's secondary offerings were at the time, traded well under their true book value (Sort of like Gordon Gekko with Blue Star Airlines in the movie Wallstreet). The problem with this was Transocean's extremely competent management choosing to put up a fight.
+
+To take advantage of market conditions, Transocean hires Lazard Freres &amp; Co. to help them restructure a good amount of their debt without going into bankruptcy which they did. As a result, a Hedge Fund called White Box Advisors (WBA) revealed itself and rallied a couple of other bond holders and took Transocean to court claiming that Transocean technically went into default when it proceeded with the debt restructure. Lazard backed up Transocean to reassure that Transocean did not go into default and everything Transocean did was legal and well within the requirements for its shareholders.
+
+I was actually able to go over court transcripts and from the looks of it, it was primarily Transocean's lawyers arguing and going into details in court. WBA's lawyers were relatively quiet in comparison and from the outside, it is just too obvious that they didn't really have a real case. So this just looks like it was put on just for a show for the investors.
+
+Over the next few months, numerous short ladder attacks were conducted on Transocean stock back up by coordinated continuous random spike in numerous bear articles focusing on the lawsuit and repetitive same bear information from a number of freelance writers primarily on Seeking Alpha and others doing everything they can to drive the price of Transocean's stocks down.
+
+Keep in mind that whoever bought those bond swaps earlier essentially bought put options on Transocean's bonds. Most Bond prices do correlate well to the direction of its stock's prices, so whoever owned them was winning on the front of bearish investor sentiment with the lowest being October. Finally, market forces prevailed overlooking the BS and in December, the court officially ruled against WBA and then threw the case out of court. Astonishly the bearish articles on Seeking Alpha and other sites just suddenly disappeared as well which looked like the shorters exited their bear positions and stopped paying for the bear promotions.
+
+In the months that followed, Transocean stock has consistently been going up just following its natural course since the company is doing so well and the price of oil has been going up as well. What a way to end 2020 and start 2021.
+
+&amp;#x200B;
+
+[RIG](https://preview.redd.it/eghbkjl3nzp61.png?width=1000&amp;format=png&amp;auto=webp&amp;s=e84565866abc86314337836e1206d4000161a934)
+
+**Industry and Company Background:**
+
+Without going into too much detail on who Transocean is and how they do business since most of that you can find that yourself on Google, but the abstract is Transocean is in the business of providing offshore oil drilling services for oil companies. Like most energy companies, they got hit pretty hard during the pandemic with oil falling to new lows due to covid lockdown measures and general overall fall in demand.
+
+As a result, almost all of Transocean's direct competitors have filed for bankruptcy so Transocean remains the 800 pound gorilla with currently the largest, newest, and most efficient fleet to service the offshore oil drilling industry. But unlike their competitors, Transocean's territory exposure is global so they are not concentrated on only one geographic location (eg. Gulf coast) and most importantly RIG has a $7.8 Billion work backlog with a 75% penalty for any cancellations (none of their competitors are in the same position). What this means is that RIG has currently more work then they can handle if any of their oil clients were to cancel their contract, the client would have to pay Transocean the cash penalty of 75% of the project's value to Transocean. This is why even with very little new contracts in middle 2020, the company still had a steady revenue stream until more new contracts showed up and were added into their backlog later in the year.
+
+Of course in early 2021 the demand for oil accelerated and Transocean is winning more new contracts around the world. Some analysts argue that some of the new contract day rates were lower as compared to before but if you look more closely at the trend of their day rates of the contracts, they are consistently rising over the past few months. So they probably gave some discounts in the initial recovery to build up their contract momentum which is expected and seems to be working.
+
+With the uptrending price recovery of oil for the past months due to Biden's tough stance on American oil companies affecting supply, OPEC+ continuing tightening of supply, and a continuous rise in demand for oil due to economies reopening around the world results in continuous price increases with many high profile analysts even expecting $100 a barrel by the end of the year.
+
+Out of that rise, offshore oil is still heavily demanded by oil companies. The reason for this is that offshore oil is extremely predictable as compared to other drilling methods when it comes to how much oil is in the well, the price to pull it out, and volumes on how much the company can consistently pull out. Like every major corporation, large oil corporations have to diversify their oil portfolios so that is why there will always be new contracts for offshore drilling of oil.
+
+Compared to shale fracking which is what most oil companies employ in the US, offshore oil is significantly cheaper and less volatile in cost and is less affected by regulations since there are offshore wells around the world with the most increase in South America and Norway in the past couple of months. The biggest problem with offshore oil drilling is that offshore wells take years to develop, this is why oil companies were still signing new contracts with Transocean in 2020 when oil prices were relatively low since they know it would pay off in the long run and who knows what the price of oil will be when the well is operational in 1-3 years.
+
+From a fundamental standpoint, Transocean is in a good position. It has enough cash to last years on top of their loan revolvers which they have not tapped. As per Yahoo finance, RIG's Book Value per share is $18.58 per share, well above the current stock price. Competitively, they are also in a great position as some of their competitors coming out of bankruptcy have low cash balances and lack of loan revolvers available to expand or develop their fleets.
+
+The biggest problem with the competitors coming out of bankruptcy which Transocean highlighted in one of their recent earnings calls is that it scares the clients, since the clients will be signing contracts that would last years, they would prefer to work with companies that offer more reliability and stability, and as mentioned Transocean is the only one. RIG's management is second to none, they kept their shareholders' interests a priority and even refused to do a reverse split when their stock was under $1 and consistently focused on reducing their debt levels and to take advantage of market opportunities. New contracts are consistently flowing in, business is getting better and that is why RIG has been gradually going back up over the past couple of months and supported as well by the continuous rise of oil.
+
+**Recently - New Play:**
+
+A couple of weeks ago ago, I started to notice a steady climb in shorted shares and also spikes in volume of bond swaps as per my Bloomberg terminal. There were also large spikes of large batches of Put options contracts purchased at mid day (They didn't even try to hide it). At first I thought it was because of the price of oil going back down due to lockdown measures which part of it was but after building several models analysing and comparing past oil price decline, the results didn't match up. When oil pricing started to go back last week due to the Suez Canal being blocked, it confirmed my theory as there was a rise in bear positions but it wasn't primarily because of the fall in oil prices.
+
+My research did conclude that someone big was starting to short the stock again. And then late last week, I discovered that White Box Advisors just refiled their suit against Transocean again in Appeals Court claiming this time that the Judge who ruled against them ""used a legal standard that wasn't applicable."" Most legal and industry analysts have already examined the appeal and agree the appeal is BS. Could it be a coincidence that spiking short positions on Transocean and WBA's involvement conveniently looked like the appeal was announced after a hedge fund secured those bear positions and it worked because when the news came out Transocean stock started to go down again. What a play.
+
+The goal of this post is to create awareness and showcase the manipulation by hedge funds. Time and time again hedge funds have employed the same strategies to try to beat good companies down for their own profit and there is no indication that their practice is pulling back. If the hedge fund who shorted Transocean is the same one from back in 2020 and attempts to use the same strategy to try to push Transocean stock down, we should start to see an uprising in bear articles against Transocean soon especially highlighting the appeal and different bear articles especially from Seeking Alpha repeating the same bear content from different third-tier writers since this as we know is in the hedgies arsenal even against GME and AMC stock.
+
+This time around it is going to be harder for that hedge fund to do it on RIG for the simple fact that oil prices will start to go up since economies are opening around that world and systematic risk is now playing against them. Only time will tell what happens next, all I know is I can't wait to see the next official Short interest report for Transocean and perhaps a good bullish opportunity is in sights.",Transocean's Hedge Fund Historical Manipulation and What is in Progress,1.0,1617032880,Eljefe2800
+16,mfsgvo,"I'm taking the day off.
+
+[https://www.holidayscalendar.com/event/national-crayon-day/#:\~:text=Observed%20annually%20on%20March%2031st,and%20the%20joy%20of%20coloring](https://www.holidayscalendar.com/event/national-crayon-day/#:~:text=Observed%20annually%20on%20March%2031st,and%20the%20joy%20of%20coloring).",BIG day coming up - March 31st (National Crayon Day),1.0,1617032917,RasputinModelNewbie
+17,mfsgw4,,"GME have a new COO, Chief Operating Orangutan. Apes together strong. 🦧",1.0,1617032917,Eros-Flame
+18,mfshfs,What you guys think will happen to invivo therapeutics?,Nviv,1.0,1617032959,Significant-Price-96
+19,mfsibh,,"GME have a new COO, Chief Operating Orangutan, Apes Together Strong 🦧",1.0,1617033026,maximumfunpriv
+20,mfsig4,,"It’s been a long first 3 years of investing, but I finally went green. What a journey. Ever since I joined WSB in late 2019 I have learned so much. Thank you Retards. Couldn’t have got here without you.",1.0,1617033037,hawnray
+21,mfsk2w,Discuss.,"There are no new games in economics, just new suckers.",1.0,1617033160,Difficult_Unit_8651
+22,mfsk37,,Scrabble is in on it. 🚀,1.0,1617033161,MegaDarthCreeper
+23,mfskfq,,What Ya'll think of EGLX?,1.0,1617033187,FirmTooth1304
+24,mfsksp,[removed],Its a sign!,1.0,1617033217,sbalaban
+25,mfskxz,,[PENN] When a company is added to the S&amp;P 500 institutions are forced to buy up shares for their index funds causing the stock price to rise,1.0,1617033229,tangibletom
+26,mfslh9,[removed],LMT,1.0,1617033274,EdwardBear1812
+27,mfslt0,,"Good enough to snapshot, good enough to sell. RKT puts once again print before lunch.",1.0,1617033300,wiserone29
+28,mfsm3j,"&amp;#x200B;
+
+https://preview.redd.it/u0lj6nbqozp61.png?width=1076&amp;format=png&amp;auto=webp&amp;s=3db2dad634a8b2b4446d31e493c8b0751455bc56",BIG day coming up - March 31st (National Crayon Day),1.0,1617033323,RasputinModelNewbie
+29,mfsm44,,"The irony isn’t lost upon anyone, except maybe CNBC",1.0,1617033324,MIA4real
+30,mfsmgt,,Scrabble is in on it. 🚀,1.0,1617033352,MegaDarthCreeper
+31,mfsmkg,"Hold or to fold on this shit show? Or buy the dip?! 
+What are your thoughts?",Credit Suisse $CSGN.SW $CS,1.0,1617033361,EireLCH
+32,mfsnpt,"Anyone holding:
+
+- Desktop Metal
+- Opendoor
+- Palantir
+- VOOV
+- Mohawk Group
+- NET
+- ARKK
+- ICLN
+
+Bought mid-Feb. Trying to DCA, how long till we sit a support level? 
+
+For those holding these positions, what is your mental strategy?","Hold, just hold?",1.0,1617033450,woodyshum
+33,mfsnqi,"Was an F rating all up until today, Is this a sign?","GME was upgraded to a D class rating by charles schwab, up from F. Interesting",1.0,1617033452,richmoney46
+34,mfsnqo,Thoughts on TLTFF,Thoughts on TLTFF,1.0,1617033452,shambamtymaammm
+35,mfsnz4,,[PENN] When a company is added to the S&amp;P 500 institutions are forced to buy up shares for their index funds causing the stock price to rise,1.0,1617033469,tangibletom
+36,mfso4v,,"Hey DFV, you’ve made millions, just sell already",1.0,1617033482,Brazda25
+37,mfsoor,[removed],Help,1.0,1617033532,Astraset
+38,mfsqi5,"Archegos- the definition"" one that takes the lead in any thing and thus affords an example, a predecessor in a matter, pioneer.
+
+Hedge Fund liquidation - a pioneer, a first in what is coming.",Archegos,1.0,1617033656,LakeInvestment
+39,mfsqim,,SKLZ YOLO May 21st @$30,1.0,1617033658,SirFinkleBottom
+40,mfss5p," **L.B. Foster Company** (FSTR) is a company that makes railroad equipment. Infrastructure stocks have been booming, and this baby is starting to recover from a dip after all time highs. Some cool tidbits below!
+
+\-RAIL (company that makes freight cars) has been on a rip lately.
+
+\-CLF (company that produces steel) has also been on a rip. 
+
+\-Biden will announce his infrastructure bill on Wednesday in Pittsburgh. (FSTR is located in Pittsburgh. (Don't actually think it has any relevance, but cool coincidence.)
+
+\- Chart looks spicy. Last week it had volume above 2 standard deviations for 3 days in a row. (Someone is accumulating). Picture below. The bottom bar chart is the standard deviation chart I am talking about. 
+
+(TIP FOR THE DAY) For those who do not know what the fuck a standard deviation is (this is for the smooth brains) basically the stock volume is trading at 95% above what the average volume is normally. Means someone with fat wads of cash is buying. Please for the love of god if you do not know what standard deviation is look it up. Learning is good for apes.
+
+&amp;#x200B;
+
+https://preview.redd.it/3i78vansozp61.png?width=1898&amp;format=png&amp;auto=webp&amp;s=2431f97119fc815b8a4f100e68bb875a9acc652f",The DD on L.B Foster Company (FSTR),1.0,1617033772,knuckles2344
+41,mfss6m,,Looks like Hedge Funds are in trouble !,1.0,1617033774,rabidgunter3456
+42,mfsscg,,Hi guys!,1.0,1617033786,Ok_Cobbler_4711
+43,mfsspx,,"Team $PLTR, Team Cathie",1.0,1617033813,LuciusTheBruce
+44,mfsta8,,Feeling bullish on BJs 😂,1.0,1617033857,Psychoknights
+45,mfsu5d,"#FUBO  
+#CEI
+#WKHS
+#RIDE",Lets push these up.,1.0,1617033922,Melianawoody2021
+46,mfsvlt,,Doing it for Spongebob (VIAC),1.0,1617034025,RonArouseme
+47,mfsw5e,[removed],lady investor looking forward to contributing!!,1.0,1617034063,lfermanis
+48,mfsw9k, https://www.nasdaq.com/articles/6-words-from-pfizers-ceo-that-mean-trouble-for-moderna-and-biontech-2021-03-27,"HELLO PFIZER, GOODBYE MODERNA!",1.0,1617034071,withthepeople
+49,mfswz3,,"I dip, you dip, we dip...",1.0,1617034123,UM222
+50,mfsx5g,,Trading halted again?,1.0,1617034135,IhaveTP4Bunghole
+51,mfsx64,,Maverick Capital just invested $87.7M in $GME,1.0,1617034137,ChestyBro
+52,mfsym2,[removed],Undervalued digital media agency valued by stupid algos like a dying newsPAPER company,1.0,1617034240,wussel1978
+53,mfsyta,"XL Fleet, such a cheap EV stock! Actual product and revenue",XL Fleet,1.0,1617034255,Alextullman
+54,mfsz5d,,FUN EASTER COLORING PACK for kids,1.0,1617034280,StoreReasonable6282
+55,mfsza5,,We making this GME part 2?,1.0,1617034291,ItsBobandy
+56,mfszab,I feel like some of you are forgetting that this isn’t over. A lot of you are cheering and counting your chickens before they hatch. Just remember all we have to do is BUY AND HOLD. BUY AND HOLD PEOPLE TO THE MOON BABY 💎🙌🚀🚀,BUY AND HOLD💎🙌,1.0,1617034292,Rammer95420
+57,mfsznm,,$2 billion? We call that a margin small...,1.0,1617034318,Covdoge
+58,mfszxd,,We making this GME part 2?,1.0,1617034337,ItsBobandy
+59,mft00r,HQGE jump coming?,HQGE next moon launch?,1.0,1617034344,B_S_invest
+60,mft057,[https://www.marketwatch.com/story/bluebird-bio-upgraded-to-buy-from-hold-at-stifel-nicolaus-2020-03-27](https://www.marketwatch.com/story/bluebird-bio-upgraded-to-buy-from-hold-at-stifel-nicolaus-2020-03-27),$BLUE - Bluebird Bio - Upgraded to Buy. FDA Approval and Pipeline Full,1.0,1617034353,Irish_Luck_1
+61,mft0a4,"I have noticed that there is a very strong resistance at 110 which corresponds to an almost exact 30% correction from its peak.
+
+I have see the price always defending itself at 110 as if someone is delebrately trying not to let it fall more than 30% from peak.
+
+Especially considering it is a fund containing many stocks, it looks like ""someone"" wants to ensure the ""correction"" in ARKK doesn't exceed 30% lest it creates a panic in leading to more selloff.",Notice anything strange on ARKK?,1.0,1617034363,DoomComing
+62,mft0ij,,They finally opened a retail store for options,1.0,1617034382,Buildintotrains
+63,mft0pt,,No offense 😜,1.0,1617034397,BGoupil603
+64,mft1y2,"Here is another one that Short sellers are making money on by shorting! A short seller has been raising doubts about the viability of the hydrogen economy in general. That has scared off a lot of investors. PLUG stock has created a buying opportunity for those who believe,Naysayers and Short Sellers Cast Doubt on Hydrogen",Short sellers!,1.0,1617034484,Water4ski
+65,mft28f,,What the fuck is this keeping me from selling!?,1.0,1617034505,Spankyjnco
+66,mft2ly,,Space SPACs Soar as Cathie Wood’s ARK Invest Expected To Launch the ARK Space Exploration ETF (ARKX) This Week,1.0,1617034533,MrULTRALONG
+67,mft359,Anyone know what is going on? ACB is halted,ACB Halted,1.0,1617034577,Missseeingstars
+68,mft3ds,,All in a day’s work. Not worried though. $KBNT,1.0,1617034597,hodlingcompany
+69,mft3wp,,AMC DD,1.0,1617034635,mcpr11
+70,mft4no,,So what do you guys think of this? 216% is this even legal ???,1.0,1617034690,Parking-Many7898
+71,mft4vn,,AMC DD,1.0,1617034706,mcpr11
+72,mft51y,,GSX is way oversold look at rsi + macd + support line I don’t care if it’s a Chinese company the graph looks solid for next week,1.0,1617034718,WallStreetOutlet
+73,mft555,"This is not financial advice, this is my opinion, don't listen to me.
+
+IF YOU WANT GME TO MOON SOONER THAN LATER, IT IS IMPERATIVE YOU STOP BUYING OTM CALLS. You are literally just giving free money to shitadel, for the love of god, STOP BUYING OTM CALLS.",GME and Call options,1.0,1617034725,Headshots_Only
+74,mft5dj,,ARKX- Top 10 Holdings Revealed,1.0,1617034743,Misofire
+75,mft5ys,"HBAR has started to pump and with a little help from the WSB Team it can be GME!  
+
+Check out their governing council = $$$$$
+
+Exodus + Bittrex 
+
+$0.41 —&gt; Moon",HEDERA HBAR to GME,1.0,1617034788,Dvolk9
+76,mft5zh,"The recent HF explosions prompted an important question I think we all need to understand. Liquidation preference, aka who will get the money at the end. It's a similar question people ask during government bailout. Who gets pay first?
+
+Looking at the current Archegos Capital event, let's assumed that they are shorting Gamestop and got squeezed, and got liquidated. (no evidence indicating they are at this point, let's make that clear) 
+
+Right now, it looks like Goldman Sachs, Nomura, Credit Suisse, the banks will get the money first, nothing left for whatever people they supposed to pay for their crime. 
+
+Am I missing something here?
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+[LP](https://preview.redd.it/sug5zp92tzp61.png?width=1200&amp;format=png&amp;auto=webp&amp;s=5c59b079c28125e509bd45d41528491110c509c7)",Liquidation Preferences??? Who Gets the Money When Hedge Funds Bankrupted,1.0,1617034790,tianababy
+77,mft69h,can someone smarter than me explain how this is even possible?! Over 200% of shares are being shorted!,$SOS crazy % shares shorted?!?,1.0,1617034809,RawCheese4me
+78,mft6e2,But as the fight continues against gme are there any planned rally’s against digital assets ? I feel like that’s a whole move to clap with if it can be organized educate me pls,Unpopular opinion,1.0,1617034819,encryptedkraken
+79,mft6nr,,"Serious question for the retarded, non- financial advisors out there. Are you buying Robinhood IPO?",1.0,1617034841,Hon-Doward
+80,mft6qq,,$26.5k Yolo for $ASO Earnings report,1.0,1617034849,Lcarn2949
+81,mft7ma,what do you guys think of QBAN stock,QBAN,1.0,1617034918,Alarming-Bite-1186
+82,mft8cg,C'mon people we need to start buying gnus and pltr and pushing these stocks to the moon.  Two great companies that we can all get behind and make some money. GME and AMC days are done.,Buy,1.0,1617034972,darrenwlewandowski
+83,mft8ie,,Can you autistic mongloids make NIO fly. My dog needs a surgery . I'll even let you nail my GF,1.0,1617034984,IntroductionSpare287
+84,mft8l6,"Ark Invest's space exploration ETF to begin trading on Tuesday
+
+https://www.cnbc.com/2021/03/29/ark-invests-arkx-space-exploration-etf-to-begin-trading-on-tuesday.html?__source=androidappshare",🚀🚀🚀 Space ETF taking off tomorrow... All aboard?????,1.0,1617034989,WeakEnthusiasm2257
+85,mft8s3,"Ark Invest's space exploration ETF to begin trading on Tuesday
+
+https://www.cnbc.com/2021/03/29/ark-invests-arkx-space-exploration-etf-to-begin-trading-on-tuesday.html?__source=androidappshare",🚀🚀🚀 Space ETF taking off tomorrow... All aboard?????,1.0,1617035002,WeakEnthusiasm2257
+86,mft92r,"&amp;#x200B;
+
+![video](50x6cv2gtzp61)","GME meets The Crazies - My first, was hard, please love",1.0,1617035024,BeelzebubNatlPark
+87,mft9eq,,Banks tumble after U.S. fund wilts,1.0,1617035050,kinkdong
+88,mftajo,[removed],r/NIO is a BUY,1.0,1617035142,Familiar_Carob470
+89,mftb90,,Any moment now..,1.0,1617035200,0RabidPanda0
+90,mftbok,[removed],$ATNF buy and hold,1.0,1617035230,Less-Cardiologist266
+91,mftc07," Six Flag stakes its claim as the world's largest regional theme park operator and North America's largest water park operator based on number of parks. With 23 of its 26 properties in the U.S., its operations rely on domestic authorities lifting stay-at-home orders and the economy improving. Of the company's other three theme parks, two are in Mexico and the other in Montreal. So with a limited international presence, it cannot rely on the international business to prop up weak results at home. Granted, the company's attendance numbers are expected to drastically improve as states begin to reopen.",6 FLAGS STOCKS TO SKYROCKET,1.0,1617035254,MarkBohner
+92,mftcd2,[removed],Where to buy stocks,1.0,1617035280,Seahobbs
+93,mftcgi,"So gents, how can we profit from what's going on in Egypt? There's got to be some certain stocks that will provide a good gain from this.",Sue Canal,1.0,1617035287,Jdtukua
+94,mftci3,,Theyre watching how we move ;),1.0,1617035290,Unlucky_Weekend
+95,mftd1s,,Made these yesterday! Just killing time till the market opens!,1.0,1617035335,Zealousideal-Cut-142
+96,mftdeu,"The world is constantly changing at a rapid pace and we have all witnessed major events across the globe such as natural disasters, economic crises, wars between countries and Covid-19 is the most recent one. These events have directly or partly impacted the global economy and changed the way we live.
+
+For this reason, whether you are considered a beginning investor or a long term trader. You need to continue to expand your knowledge horizon by reading more books, and learn great tips and proven practical advice from successful investors in books- it will help you to weather through the most volatile market.
+
+[Best modern investing book: Financial Autonomy.](https://millennialmoney.page/2021/03/the-5-best-investing-books-for-a-beginner-of-2021/)
+
+[The New York-Time Best selling book : Unshakeable](https://millennialmoney.page/2021/03/the-5-best-investing-books-for-a-beginner-of-2021/?swcfpc=1).
+
+[Value investing book: Intelligent Investor.](https://millennialmoney.page/2021/03/the-5-best-investing-books-for-a-beginner-of-2021/)
+
+Ri[ch Dad and Poor D](https://millennialmoney.page/2021/03/the-5-best-investing-books-for-a-beginner-of-2021/?swcfpc=1)ad.
+
+[One Up On Wall Stre](https://millennialmoney.page/2021/03/the-5-best-investing-books-for-a-beginner-of-2021/?swcfpc=1)et.
+
+Based on my personal experience and honest review about those books, and I hope you guys will find it's helpful for your investing.",The 5 Best Investing Books For a Beginner in 2021.,1.0,1617035362,duyquang111
+97,mftdpb,[removed],"GME shitpost: poem, rap, whatever you want to call it that literally no one asked for. Mods, shitpost flair wasn't available.",1.0,1617035385,cindy-tron
+98,mfteev,[removed],"My friend asked me to join IM Academy, is this company legit? It seems like an MLM but I’m not sure",1.0,1617035436,NadxCH
+99,mftf2e,,Yolo GME??,1.0,1617035487,Steeley0831

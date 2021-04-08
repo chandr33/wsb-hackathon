@@ -1,0 +1,171 @@
+,post_id,text,title,upvote_ratio,date,author
+0,lx0jg5,[removed],Just wondering: I'm fairly new to the group. What is the best/easiest way to determine what stocks are trending on here before they take off? Any help and suggestions would be appreciated.,0.5,1614795470,MITJason
+1,lx0jkg,,An important lesson in WSB P U M P and dumps,1.0,1614795478,[deleted]
+2,lx0jpb,,Full send for upcoming dividend,0.44,1614795488,FuckingRockets
+3,lx0jtz,[removed],LEG,1.0,1614795497,Rich_1967
+4,lx0jul,[removed],RKT Still potential for $40 today,0.36,1614795498,SnimmaSnimSnim
+5,lx0jxw,,F*ck Hedge Funds,0.67,1614795505,BillionaireKJ
+6,lx0k02,[deleted],rkt losses,1.0,1614795508,[deleted]
+7,lx0k3u,[removed],SOS,1.0,1614795515,Careful-Abrocoma9156
+8,lx0k40,,Did you noticed Michael’s today? $MIK,0.5,1614795515,FAAR71
+9,lx0k4d,[removed],Solar stocks,1.0,1614795516,mantypas11
+10,lx0k5q,,Im not fucking scare I like to buy more deep GME &amp; AMC,0.8,1614795518,RevolutionaryPoet676
+11,lx0kmi,[deleted],A sign🚀🚀🚀🚀🚀🚀,1.0,1614795547,[deleted]
+12,lx0kmj,,Heavily Shorted and RH is keeping it hush. Now up 30% today AND STILL CLIMBING!! $SOS,1.0,1614795547,OptionAdventurous746
+13,lx0kos,[removed],Ex banker on Cocaine,1.0,1614795552,drmsmkr
+14,lx0kx9,[removed],Navya to the moon 🚀🚀🚀,1.0,1614795568,Olivier2b911
+15,lx0l2h,,SOS HUGE SHORT SQUEEZE POTENTIALLY INCOMING + GOOD PLAY REGARDLESS! 🚀🚀🚀🚀,0.25,1614795578,[deleted]
+16,lx0l6v,[removed],I bought an 1 year old ape,1.0,1614795586,_Scrogglez
+17,lx0l7p,,MY YOLO INTO SLGG,0.6,1614795588,Springboknommer10
+18,lx0l8r,[deleted],"Won $2000 from a scratch off ticket recently. NVDA, pls continue the magic",1.0,1614795590,[deleted]
+19,lx0la5,,I drew this in crayon. Then ate the crayons,1.0,1614795593,JDog2k4
+20,lx0ljt,,Time and sales,1.0,1614795612,terrance843
+21,lx0lp1,[removed],New and looking to start.,1.0,1614795622,Burritorama
+22,lx0lrv,,UWMC being added to an ETF most likely,1.0,1614795628,letsgocaps17
+23,lx0ls8,"EDIT: Based on the fact that a number of comments seem to have been made without reading beyond the first 9 words of the title, and the fact that this is sitting at 60% upvoted, I'd encourage you to at least read to the TLDR.
+
+I usually stick to providing raw data, but this post has a little bit of added analysis. I don’t own $GME or $RKT (I don't actively invest to avoid accusations of bias in my data) and don’t like either stock over the other. I do like WSB though and don’t like baseless conspiracy theories, and I have seen a lot of conspiracy theories flying around WSB recently without much evidence to accompany them. Most recently, I got flooded by comments like this on my data post yesterday.
+
+[Comments](https://preview.redd.it/baa7ritypuk61.png?width=1432&amp;format=png&amp;auto=webp&amp;s=d6b8eab6ff5519aac82a87a06e742d52aa74440e)
+
+&amp;#x200B;
+
+The goal of this post was to look at one of those theories and see if I can provide a base for it. The theory in question is “$RKT discussion is being artificially pushed to distract from $GME”. A TLDR of my analysis is:
+
+**A) Both $RKT and $GME are being discussed by a lot of accounts that are new to posting on WSB.**
+
+**B) Accounts discussing $GME are actually newer to WSB on average than accounts discussing $RKT**
+
+**C) There are a small, but non-zero, number of people trying to artificially manipulate discussion to get others to sell $GME. However, this is done with no relation to $RKT.**
+
+**D) Accounts mentioning $GME and $RKT behave similarly in promoting the respective stocks.**
+
+Through my analysis I wasn’t able to find any solid evidence of $RKT being artificially pushed as a distraction from $GME. While it’s easy to complain about u/zjz's iron-fisted bot army, I think it deserves a lot of credit for curbing attempts at manipulation.
+
+Now I will provide the data backing up these conclusions, and call out one account I did find attempting to artificially manipulate discussion.
+
+&amp;#x200B;
+
+**Both $RKT and $GME are being discussed by a lot of accounts that are new to posting on WSB. Accounts discussing $GME are actually newer to WSB on average than accounts discussing $RKT.**
+
+I don’t think I need to patronize you with a bunch of facts and figures showing how much attention has been drawn to wsb recently. Obviously this attention came with a lot of new posters, and that’s fully on display when we look at when accounts talking about $GME and $RKT first joined the wsb community. The motive behind looking at these numbers was to determine whether there were a bunch of new accounts who joined the community with the sole purpose of distracting from $GME.
+
+The average $RKT poster first posted on wsb on December 10th, 2020. This is pretty shockingly young, but the average $GME poster is even newer to the community with an average date of December 22nd, 2020.
+
+Here are histograms showing when the accounts mentioning both stocks first joined the community, by year:
+
+[RKT Histogram](https://preview.redd.it/qp652yp7quk61.png?width=1726&amp;format=png&amp;auto=webp&amp;s=2cc3b954aea59a00e2a3f0e570b825e614c0cec0)
+
+[GME Histogram](https://preview.redd.it/d79kdzu8quk61.png?width=1726&amp;format=png&amp;auto=webp&amp;s=95408f675b12f97cbd9231e71fa96aac0c43b1d8)
+
+&amp;#x200B;
+
+**There is a non-zero number of people trying to manipulate discussion to get others to sell $GME, but not enough to have a significant effect.**
+
+One other thing I examined was how much different accounts were shilling $GME and $RKT. For the most part, there wasn’t too much spam of either ticker by individual accounts with a few notable exceptions. Below are scatter plots showing accounts with the date they joined WSB on the x-axis and the number of times they have mentioned $GME/$RKT in the last 5 days on the y-axis.
+
+[$GME date joined vs. mentions](https://preview.redd.it/g9vgmq6gquk61.png?width=1852&amp;format=png&amp;auto=webp&amp;s=73571b1836771fc0c8fa3c80eebd738d13bd5d9b)
+
+[$RKT date joined vs. mentions](https://preview.redd.it/0a8xwqlkquk61.png?width=1752&amp;format=png&amp;auto=webp&amp;s=a7e79bb797abbdf49eb43b4c7fd94c4541c6d58b)
+
+There are 3 prominent outliers that I will examine, one of which I think probably deserves some sort of moderator action. On the $GME graph we have /u/char1101g way out in the upper right. He just started posting on here yesterday, and has been just absolutely spamming anti-GME shit since. Although posts like ""SELL YOU GME STOCK"" seem to match the grammar and speech patterns expected of a short-only investor, I don't really see this single example as solid evidence of a larger artificial anti-GME push.
+
+On the $RKT side of things we have two accounts that are pretty clearly tied to real people, so I don’t want to call them out by username. While I’d say they’re pretty clearly innocent of being hedge fund accounts (old accounts, lots of personal info, lots of non-wsb posts), they’re absolutely guilty of living in the discussion threads, with dozens of comments already today. You could probably make an argument that someone commenting about $RKT all day long is having some impact on the overall discussion, but given that it’s just two random dudes I kind of doubt it has much of an effect in the grand scheme of things.
+
+**Accounts mentioning $GME and $RKT behave similarly in promoting the respective stocks.**
+
+The last thing I wanted to look at was how accounts behaved in promoting $GME and $RKT. In particular, I wanted to see if accounts mentioning either stock were more likely to mention it repeatedly. I ended up not finding much of a significant difference. Below is a table where $GME/$RKT accounts are defined as accounts mentioning each respective stock.
+
+&amp;#x200B;
+
+|Mentions of $RKT/$GME over last 5 days|$RKT accounts|$GME accounts|
+|:-|:-|:-|
+|\&gt;1|.806|.801|
+|\&gt;2|.653|.657|
+|\&gt;5|.454|.433|
+|\&gt;10|.331|.310|
+
+&amp;#x200B;
+
+There's a pretty small overlap (34%) between people talking about $GME and people talking about $RKT, likely leading to some of the conflict that we have seen, but from my research I wasn't able to find any solid evidence of $RKT being artificially pushed as a distraction from $GME.  That being said, I'm happy to hear criticisms on my work, let me know below if you have any thoughts.","""RKT is being pushed as a distraction from GME"": a quantitative analysis",0.82,1614795628,pdwp90
+24,lx0lxh,[removed],$FSR. buy now during the dip. USPS contract to build EV fleets. This stock has been growing. Get in now and HOLD!!,1.0,1614795640,Severe-Key-2196
+25,lx0m1a,[removed],$DISCA,0.4,1614795648,alexshim
+26,lx0m40,,"Blaring Quiet Part aloud , GOP Lawyer Admits to Supreme Court That Easier Voting Puts Republicans at 'Competitive Disadvantage'",0.17,1614795653,xzcvzcvdfg
+27,lx0m4p,[removed],Does anyone know anything about TDAmeritrade?,0.5,1614795654,DrewRQ86
+28,lx0m61,[removed],"What are your opinions about RKT, AMC and GME?",0.45,1614795657,saampieee
+29,lx0m9u,,Bought early today need that rise 💪💪💪🍌🍌🍌🦧🦧🦧🦧,0.5,1614795664,batmansroach420
+30,lx0mem,[removed],SOS 🚀🚀🚀🚀🚀,0.47,1614795674,jdjdjemhh
+31,lx0mer,,Wtf am I looking at,1.0,1614795674,dj_ordje
+32,lx0mm7,[deleted],"They will not divide us. Apes together strong. RKT, GME friends. 💎🙌",0.62,1614795689,[deleted]
+33,lx0mp9,,"ITMSF to the Moon!!! Company is making all the right moves, and gearing up for growth. Hello global warming and Diamond Joe Six-Pack. Let’s crack one open, it’s getting hot in here.",0.2,1614795695,Fit-Shower-1162
+34,lx0myk,,I just listed my first NFT on Foundation!,0.33,1614795711,TheMindMuseum
+35,lx0n7e,,Ocugen Stock Is Preparing to Move Far Past Its All-Time High covaxin 81% efficacy preliminary results full results in week,0.71,1614795728,Westcacique
+36,lx0n8j,[removed],This is why $SOS is going to the moon,0.65,1614795731,hermandahl
+37,lx0nad,[removed],Rocket man,0.38,1614795735,Robio1315
+38,lx0ncf,[removed],discussion on Puts for RKT ?,0.5,1614795738,Trendy10Ds
+39,lx0ng2,[removed],WKHS baby!!!,0.38,1614795745,pkdiablo77
+40,lx0nie,,HAHAHAHAHA LOOK @ THIS FUCKING SCAM😂😂 DON’T BUY RKT! GME IS THE ONLY WINNER🚀🚀🦍✊🏼💎,0.56,1614795749,Happyvalborg
+41,lx0njb,[removed],GME AND AMC TO THE FREAKING MOON!!!!!!!!!!,1.0,1614795751,Admirable_Sense6017
+42,lx0nlv,[deleted],What’s the general consensus between everyone people? Hold for the moon or sell this shit and bounce elsewhere?,1.0,1614795755,[deleted]
+43,lx0o1v,[removed],$CLVS?,0.4,1614795785,_churd
+44,lx0oin,,You really want to fuck the banks? Listen to this,0.87,1614795817,[deleted]
+45,lx0olf,,Warning ⛔️ Did some 📡👽 the aliens for Egod Tzu to come back? With a sky ladder 🪜 🚀🍿 150 more... so many options. This is not financial advice I collect 🌙 bananas for the aliens,0.42,1614795822,trendmoney
+46,lx0ox7,[removed],UWMC gonna pop just like RKT yesterday,0.64,1614795848,Throwaway-TrashBaby
+47,lx0p0e,[deleted],"In Georgia, there's a stray dog who has made it his job to protect this kindergarten class so they can cross the street safely. He shows up every single day, even barking at cars that don't stop.",1.0,1614795855,[deleted]
+48,lx0p0h,,I love wallstreetbets,0.7,1614795855,KeithCooper1584
+49,lx0p1s,"I never understood the double standard of overvalued vs undervalued (in the common sense yes I get it), but a lot of people use that for justification to explain the shortest time frame / example: tech is too fed that’s why it’s falling today / tech is a huge reason why we even had any social life, ability to still trade as retail investors, beat our dicks&amp; y’all are still entertaining news lines on tech that try to pit us against each other. If someone is YOLO’n on a tech it’s because odds are in 2-3 years that shit will mean something, if we all know MMs fuk us with ladder attacks and what not, you literally give them the ultimate scape goat when you call a fellow autist dumb on a stock that you know justifiably will be big one day. I’ve had someone tell me AMD is a boomer stock, homie you def just bought Ryzen chips for your new trading setup, I don’t wanna hear that. People are getting too comfortable trolling each other instead of actually trying their best to pretend they’re in the stock market to learn. Now I’m not saying that’s not the culture, but I’m also saying do your part &amp; don’t become the downtrend instead: challenge people’s comments with stats, analytics, past DD you’ve heard. I haven’t been here longer than most but when I first came in there were things people did that just helped us all grow. Sharing links, articles to potential catalyst in the news, updates on news events (love you champu), tweets, I love the memes but it went from the occasional meme of meme stonks losing or winning now it’s just memes on just motivating people to keep pushing memes. It’s funny... but getting old 
+
+
+TLDR;  keep in mind how the news/ media outlets focus on certain aspects of us that have become caricatures within WSB now and then notice how the aspects of us they don’t cover that really make WSB different from all other subreddits, those aspects have gone down in frequency 
+
+This ain’t a ploy for bring the old WSB back, but just a reminder to not let them use you (us) as a means to discourage other investors or push us towards a culture that will dilute itself - where people start joining other discord’s / false Reddit’s &amp; twitters because they all replicate WSB but we’re still the best so let’s keep it that way 🚀🚀🚀🚀",Double Standard of Undervalued or Overvalue on Tech needs to chilll “tranquiloooo” 💎💎,0.5,1614795858,kamikazejesus
+50,lx0p4b,,SKT TO THE MOOOOOON 🌕,0.74,1614795863,adognamedwalter
+51,lx0pff,[removed],"SOS Megathread for March 03, 2021",0.73,1614795886,Specialist_Ear_9971
+52,lx0pix,[removed],$HEMP,0.5,1614795891,TrumpOversight
+53,lx0pj3,,CPIX Bull Cross,1.0,1614795892,33yearstocktrader
+54,lx0pl6,,Another reminder of the dangers of WSB P U M P and dumps,0.4,1614795896,[deleted]
+55,lx0pm9,[removed],who to open an account with,0.5,1614795898,RedKnight326
+56,lx0ptk,[removed],VRTV 🚀🚀🚀🚀,1.0,1614795912,wallstreetboss1
+57,lx0pvm,[removed],STILL HOLDING RKT,0.56,1614795916,CrankLee
+58,lx0q41,,#UWMC does this count? 46 contracts,0.92,1614795932,Dry_Material_5555
+59,lx0q74,,It ain’t much but honest holding!,0.74,1614795937,KLMintheskies
+60,lx0q8r,[removed],Now they are saying we almost crashed the market... Jesus what a sensitive bs market if a bunch of degenerates who eat crayons can crash the market.,0.92,1614795940,Tradingglocks2345
+61,lx0qen,,Wallstreetbets us,0.56,1614795953,KeithCooper1584
+62,lx0qhe,,DIAMOND HANDS !! Clov going to $20 in months !,0.72,1614795958,CapriSingh89
+63,lx0qmw,[removed],QD is not a Rocket. Let s make it arockwt,1.0,1614795971,RowPutrid
+64,lx0r2m,,What if we could buy $GME at $5 right NOW. Hear me out... 🐸🍦,0.5,1614796005,[deleted]
+65,lx0rbr,,Wallstreetbets love it..,0.38,1614796025,KeithCooper1584
+66,lx0rjv,,Can any of the smarter retards here let us know if SGMD will 🚀🚀🚀?,0.6,1614796041,Gschein_18
+67,lx0rlv,,"UNFI YOLO Pre-Earnings Update - March 3, 2021 Diamond hands to $1M",0.87,1614796045,gpech
+68,lx0rn6,[removed],Looks like RBLX Gang is getting started early,1.0,1614796047,AnThonYMojO
+69,lx0rq3,[removed],$UWMC$ is the move 🚀🚀🚀,1.0,1614796052,fwil99
+70,lx0rvv,,SOS🚀🚀🚀,0.88,1614796064,bassrumble9
+71,lx0rwt,[removed],Holding SNDL BAGS,0.5,1614796066,Competitive_Life_673
+72,lx0rz0,[removed],"$ATWT 22million sale in emergency/life saving industry, “first of many to come over the next three months”. They will name the customer soon. .08 is bargain basement given market cap v revenue. I am not a financial adviser, I did sleep at a holiday inn express last night.",1.0,1614796071,b1milehigh
+73,lx0rz9,[removed],Sorry guys i let you all down 😬,0.4,1614796072,spoleyyy
+74,lx0s0r,,$SOS Short squeeze in progress! up 30%!!!,0.87,1614796075,OptionAdventurous746
+75,lx0s1h,[removed],Hiring day traders.,0.22,1614796076,thatnewaccnt
+76,lx0s30,[removed],Don’t miss take off!!!! LEG to the fucking moon,0.75,1614796080,Adept_Golf_1158
+77,lx0sil,[removed],DFV tweeted this. WHAT DOES THIS MEAN? 🚀🚀🚀💎💎💎,0.55,1614796112,phenomenalplatypus
+78,lx0sk6,[removed],FORD?!?!,1.0,1614796115,HoldinForTheMoon
+79,lx0skk,[removed],"Anyone following Cloud Nine (CSE: CNI), (OTC: CLGUF)?",1.0,1614796116,baystreetclub
+80,lx0soi,,UWMC DD. BASED ON EVERYTHING IVE EVER LEARNED THIS STOCK IS GOING TO SKYROCKET ON THE NEXT FULL MOON WHEN ALL MY INDICATORS ALIGN. IF YOU MISSED GME AND RKT GET IN WHILE YOU STILL CAN,1.0,1614796124,o0KingKaan0o
+81,lx0syu,[deleted],You really want to fuck the banks? Listen to this,0.42,1614796146,[deleted]
+82,lx0szx,,Roaring Kitty on Twitter,1.0,1614796148,phenomenalplatypus
+83,lx0t2m,[removed],UWMC To 100$ please ;),0.88,1614796153,AllSeeingEye7
+84,lx0t39,[deleted],"Maybe Wall Street isn’t hearing us? 🗣🗣 Allow me to introduce you all to $EAR a small, fast growing business that makes hearing aids 🚀🚀🚀",1.0,1614796155,[deleted]
+85,lx0t7e,,I have a position in GME I just thought this was funny,1.0,1614796164,Cimejies
+86,lx0t8c,[deleted],"How the hell is this still low, the moon won't wait for long🚀🚀🚀",1.0,1614796167,[deleted]
+87,lx0t8e,[deleted],SAMP (OTC) is a sale rnnnnnn🚀🚀🚀🚀,0.5,1614796167,[deleted]
+88,lx0ta1,[removed],Roblox,0.6,1614796169,rand0mus3r1
+89,lx0tea,[removed],"RKT IS NOT SNDL !!!!... OBVIOUSLY IT WAS GONNA DIP TODAY ALL THE SHORTS HAD TO SELL OfF WHAT THEY BOUGHT ON WAY UP AND NOW THERE OUT at A PRICE OF 28.00.. now what should go back up they have to cover by friday!!! All who dumped at a loss, they are lauphing at you!!!! Good investors scalped today...",0.57,1614796179,jopoole84
+90,lx0thu,,UWMC DD. BASED ON EVERYTHING IVE EVER LEARNED THIS STOCK IS GOING TO SKYROCKET ON THE NEXT FULL MOON WHEN ALL MY INDICATORS ALIGN. IF YOU MISSED GME AND RKT GET IN WHILE YOU STILL CAN,0.77,1614796187,o0KingKaan0o
+91,lx0tjg,[removed],AMC Virgin,1.0,1614796190,unixdog
+92,lx0tn8,[removed],GME,0.23,1614796198,Limp_Candle2056
+93,lx0tq5,[removed],UWMC🚀,0.6,1614796203,Slight_Anywhere_1963
+94,lx0tui,[removed],"Still Sleeping on SPH? Come on baby, light my fire!",0.33,1614796211,DrNiloc
+95,lx0tzg,[deleted],19 shares into UWMC. I’m doing my part 👾🛸💎🙌,1.0,1614796221,[deleted]
+96,lx0u2d,[removed],Who should I use for trading my bananas???,0.25,1614796227,tedrow42
+97,lx0u36,[removed],SANP (OTC) is a sale rnnnnnn!!🚀🚀🚀🚀,0.29,1614796229,CarlBeyer3
+98,lx0ubh,,$NVOS,0.17,1614796245,[deleted]
+99,lx0ucl,[deleted],Love Short Squeezes but missed out on $RKT and $GME...$SOS could be the next.,0.43,1614796248,[deleted]

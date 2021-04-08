@@ -1,0 +1,303 @@
+,post_id,text,title,upvote_ratio,date,author
+0,m1j32k," 
+
+Everything right now is too perfect. Please be aware of this.
+
+If I were a hedge fund right now I would be co-coordinating a fake squeeze. This is the only sure fire and likely way to cause most retail investors to exit their positions. This is also the easiest way for them to join in their fight against us longs and diamond hands. I am certain this will happen soon.
+
+What will happen?
+
+Hedges will continue to allow the price to rise, 300, 400, 500. By this time the whole world will be back into buying GME and it will potentially go to $900/1000 a share on momentum alone. At this point half of Wallstreet bets (the new paper hands) and potentially this sub WILL sell half, if not all their shares. I don't like this idea anymore than you do but this is likely to happen. Most people have lives and bills to pay and $1000 a share is too attractive.
+
+From here, the hedgies, along with the sell off with mass attack the price down easily to probably pre 100 numbers. Much like a month ago, then we will be back to another long wait. This is their only way out. They will be able to buy back shares and would possibly even start shorting again. Sure the main squeeze won't have arrived but this will have put so many shares back into circulation for them. Meaning we will have to wait much longer for the real thing.
+
+How do we counter this?
+
+We acknowledge this is coming and stop looking at the share price as a number. We will 💎🙌 forever and come together knowing this is the only way. If we don't all do this, we will be countered again just like in Jan. You have to be the strongest psychologically you've ever been for an ape. I believe in you all. Good luck to us.
+
+💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌 💎🙌
+
+TLDR: The share price probably won't shoot to 100k a share without another huge hedge attack to drive most people to exit their position with a more attractive exit price than the first gamma squeeze.",Beware the most likely hedge fund tactic coming soon - the fake squeeze,1.0,1615331481,FireRngesus
+1,m1j34r,"I'm just a retard, bought my first 3 shares @ 311 and got fucked. I can't imagine those that are heavily invested in RH. Please be careful.","If you still have GME shares invested in Robinhood, please be wary and don't get fucked over a second time",1.0,1615331485,JiggaJazz
+2,m1j37f,,HOLD GME,1.0,1615331490,Boring-Classroom8170
+3,m1j3d0,,S3 Partners' Rankings for Short Crowding and Squeezes,1.0,1615331503,Jumpy_Run_4766
+4,m1j3ep,,If we all take our $GME and $AMC tendies... Could we make more space cars??? 🚀🚀🚀,1.0,1615331507,Sdmoto
+5,m1j3lo,[removed],Questions about GME,1.0,1615331523,Spiritual_Ferret_423
+6,m1j3pi,,Finally turned green...cool color 💎🤲🚀,1.0,1615331531,dexefx
+7,m1j3q5,"This will be a long one for my fellow autists out there. I thought about short interest rates and trade volumes for a while. Mainly because I wanted to find a value that is harder to manipulate then the most other trading values. Of course you can manipulate trading volume by playing stock ping pong, but that would be expensive over a long period of time. So I decided that would be a good base value to spend some time on.
+
+First of all I spend some time on daily short trading volumes, reported by Finra:
+
+[http://regsho.finra.org/regsho-Index.html](http://regsho.finra.org/regsho-Index.html)
+
+and filtered for GME. Here is a chart of daily trading volumes including short sales and a daily short interest line based on that. Starting on Jan. 4. (dates are written in Europoor style DD.MM.YYYY):
+
+&amp;#x200B;
+
+[Daily short trading volumes  ](https://preview.redd.it/0icmss2b43m61.png?width=896&amp;format=png&amp;auto=webp&amp;s=bfe593963525da81e8181da1c458a74a0a0ad09c)
+
+This data set represents aggregated volumes traded on the NASDAQ, NYSE and OTC that has been reported to Finra. And can also be found here:
+
+[https://www.shortvolume.com/?t=GME](https://www.shortvolume.com/?t=GME)
+
+When you compare the daily trading volumes to the published numbers by MW:
+
+[https://www.marketwatch.com/investing/stock/gme](https://www.marketwatch.com/investing/stock/gme),
+
+the Finra daily short volume data represents \~ 50% of the daily trading volumes. So it should be quite representative. Now, if you think about it, what does a daily short interest of 0.5 (50%) mean? Imagine a market that is only traded by daily short selling and (re-)covering. Example:
+
+*Short seller sells 100 shares short into the market and buys them back later that day. Resulting in an aggregated short selling volume of 100 and trading volume of 200, therefore resulting in 50% daily short interest.*
+
+However this would completely neglect any other trading activities by other market participants! So according to different sources 10% - 25% of the market are driven by non institutional participants:
+
+[https://www.usnews.com/news/top-news/articles/2021-01-29/factbox-the-us-retail-trading-frenzy-in-numbers](https://www.usnews.com/news/top-news/articles/2021-01-29/factbox-the-us-retail-trading-frenzy-in-numbers)
+
+[https://markets.businessinsider.com/news/stocks/retail-investors-quarter-of-stock-market-coronavirus-volatility-trading-citadel-2020-7-1029382035](https://markets.businessinsider.com/news/stocks/retail-investors-quarter-of-stock-market-coronavirus-volatility-trading-citadel-2020-7-1029382035)
+
+Since HFs are heavy trading GME, I decided to go for a low approach of 3% of retail trading and an additional up to 12% depending on market width and uptrend of the stock, because these are factors that would attract day traders and long buying retail. For the period of Jan 28 – Feb 8., I decided to set it to 0% because of the trading limitations at the time, also if many traders weren’t affected. I hope you can see what I’m doing here... I try to keep the numbers as low as possible in short sellers favor!
+
+That means depending on the market conditions the threshold line in the picture above moves a little up and down. The interesting part are the areas in between those two lines. If the daily interest rate is above the threshold line that results in a net increasing of shorts that day and in the opposite case the opportunity to cover, if it is below.
+
+But we also have pre- and after- markets which are not represented in the data and are likely used to cover daily short positions. Therefore I had a look at borrow rates from: [https://iborrowdesk.com/report/GME](https://iborrowdesk.com/report/GME). Of course that’s only an fraction of the available shares to borrow, but it gives a good impression of the daily market sentiment regarding tendencies to cover. So I assumed if there were new shorts issued one day and on the next day, there were more shares available to borrow, the previous short positions were likely covered in the pre- or after- market.
+
+So, I also took that into account and extrapolated the results on the total trading volumes. I used the Jan. 4 short interest rates of Finra (260.91 % SI of 46,89 mil shares float) to start my calculations because I expected the whole “covering” by options (“synthetic longs” and such; also described in this paper by the SEC: [https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf](https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf)) to happen after this point in time.
+
+This leads me to the following chart of short interests which I use for a while now to get an impression of short interest rates:
+
+&amp;#x200B;
+
+[Modeled short interest rates](https://preview.redd.it/sf4n1v8r23m61.png?width=890&amp;format=png&amp;auto=webp&amp;s=d2b3ab27f6a3d0bbde92d2e77cfc0b39c498d574)
+
+I don’t claim this to be 100% accurate but it maybe gives an idea what SI rates could be like. Probably is needs to be shifted a little down to at least fit the first 3 red columns. But trends in SI rates should be derivable.  
+
+BTW if I increase the percentages of non short selling and covering related volumes, the corresponding SI rates increase rapidly...
+
+One can observe, that at the market stall on Jan. 28 short sellers began to recapture their positions. While they were really covering the days before. After that, a detachment of calculated and reported values occurs. Maybe because the models fails? Maybe because of the more creative ways to “cover” and abilities to dilute the float described in the paper mentioned above? 
+
+You could argue, that short sellers could cover by selling ITM puts or buying calls. But wouldn’t it be cheaper to buy stocks directly? Besides that, if someone sells covered calls or sells shares by exercising puts, the majority of these shares are likely to be purchased within the period under review and therefore already embedded in the model.
+
+&amp;#x200B;
+
+Disclaimer: This is no financial advice. I'm not a financial advisor. I prefer red crayons for breakfast!",A volume based model for $GME SI.,1.0,1615331533,nov81
+8,m1j3rj,,Blue collar stonk porn. I'm just a poor boy almost up 3 hundo. Missed the 40 dollar on-board fee.,1.0,1615331535,HappyFayeDay
+9,m1j3st,,UWMC Holding to the 🌙,1.0,1615331537,Party-Friend-7388
+10,m1j49v,,Can’t stop won’t stop! $GME to the moon baby!!!! 💎🙌🏻🚀🌙,1.0,1615331571,iOSh4cktiV8or
+11,m1j4jt,"I just got into all this cuz the memes. I have amc, gme, and bb. What are the other meme stocks I’m missing?",BABY MONKEY NEED GUIDANCE 🍌,1.0,1615331590,Lazy-Bit-4492
+12,m1j4t7,,Can’t stop won’t stop! $GME to the moon baby!!!! 💎🙌🏻🚀🌙,1.0,1615331609,iOSh4cktiV8or
+13,m1j4ya,,Well I did it boys! Could only buy 103k today but I will be buying another 103 tomorrow morning. I guess I’m a day trader in Schwab’s opinion...🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🤑🦍🤑🦍🤑🦍🎊🔥🔥🔥,1.0,1615331620,FiberSplicerBoss
+14,m1j53a,,121 Moon Tickets,1.0,1615331631,Rick_Sanchez_C359
+15,m1j53d,,BlackBerry Teams Up With Desay To Create A Smart Driving Experience! To the moon🚀🚀🚀,1.0,1615331631,katkk
+16,m1j57y,"Check out ECOMI coin, has a chance of being bigger than Top Shot. It’s only on BitForex and Bitmax now but going to Uniswap at the end of the month. They should be getting an NFL license and other big deals. Whether or not you think spending money on NFTs is dumb (I do), these and the AR stuff that they’re doing is going to be huge whether you’re in on it or not. Omillionaire gang",Congrats on the hodls,1.0,1615331641,Fresh-Worldliness-17
+17,m1j584,,It does look nice,1.0,1615331642,Mr80percentright
+18,m1j5ac,,121 Moon Tickets,1.0,1615331646,Rick_Sanchez_C359
+19,m1j5e1,,Lets make $NIO to the moon! 🚀🌒🪐,1.0,1615331654,Substantial-Cycle977
+20,m1j61w,"NOT FOR CAPITALISM. probably gme is gonna be the cause of THE BIGGEST WEALTH TRANSFER IN HISTORY ! 
+
+&amp;#x200B;
+
+[https://www.forbes.com/sites/johnmauldin/2020/11/30/a-great-reset-is-coming-but-not-for-capitalism/?sh=6e12ec7d4a3f](https://www.forbes.com/sites/johnmauldin/2020/11/30/a-great-reset-is-coming-but-not-for-capitalism/?sh=6e12ec7d4a3f)",THE GREAT RESET,1.0,1615331705,YaThinkSo88
+21,m1j65j,,I am so proud to be an Ape! Death to the hedgehog! 🦔🔫🦍​,1.0,1615331713,Own-Veterinarian-901
+22,m1j6dk,[removed],March 19th,1.0,1615331731,Ilovebostonterr1er
+23,m1j6hu,,"WSB, the greatest casino chat room on earth.",1.0,1615331742,Glum_Obligation_48
+24,m1j6r8,,NYSE: QD on Radar - China FinTech Play,1.0,1615331764,STFUand420
+25,m1j6xb,,I'm in and I won't sell until those Heggies pay for my Tendies!,1.0,1615331776,Millencolinm3
+26,m1j6yi,,"If they wont stop, we wont stop. What's an exit strategy?",1.0,1615331779,llamakingXD
+27,m1j73g,"Figured I post this since the most recent one was a little while ago. I put $100 in since it was only at .033
+I’m thinking it’s a good long term investment. Anyone’s thoughts?",GAXY stock talk/opinions/thoughts,1.0,1615331789,Heavy_Dragonfruit390
+28,m1j7e9,"Do you guys think the future of investments would be in Bitcoi mining stocks since bitcoi like Mara riot hive bitf
+-
+But what does this subreddit think? Gme can’t run for ever",SO WHEN GME IS DONE WHATS NEXT FOR keith gale and this subreddit?,1.0,1615331812,ricktoenail
+29,m1j7o5,"&amp;#x200B;
+
+https://preview.redd.it/gi915zta53m61.jpg?width=480&amp;format=pjpg&amp;auto=webp&amp;s=72e315b537f413262b9b0efe089f08ac9c7aca46",Meme stock no. 357,1.0,1615331834,_ramos_
+30,m1j7u0,,How It feels being on the Rocket for 48 hours,1.0,1615331847,tbobs04
+31,m1j80v,Somebody 13k March 12th calls today. Open interest 942. Seems ripe for a big move up. $55 calls 1.45 ask at the close. Im going yolo tomorrow,QS short squeeze tomorrow,1.0,1615331862,kleinercabron
+32,m1j86f,,Meme stock no. 357,1.0,1615331875,_ramos_
+33,m1j8a2,,"Feb vs Now......We will be coming back stronger then ever, al the bois who bought at 300+ worry not. We are on our way. Being diamond handed is so worth it . Love yall",1.0,1615331883,drkrab2010
+34,m1j8bc,,Literally printing tendies,1.0,1615331885,mahalovalhalla
+35,m1j8hj,,WE LIKE THE STOCK,1.0,1615331899,Then-Impact7170
+36,m1j8pu,"&amp;#x200B;
+
+*Processing img aptdyzoj53m61...*",I solved the GME riddle.,1.0,1615331919,DeverusX
+37,m1j8pw,,Can someone explain wtf this dip is?,1.0,1615331919,J2g7d1
+38,m1j8wg,"&amp;#x200B;
+
+https://preview.redd.it/99ze4h6n53m61.jpg?width=480&amp;format=pjpg&amp;auto=webp&amp;s=bbad6cf7544a59ec4014cb3932e084ba15ce2688",Meme stock no.357,1.0,1615331933,_ramos_
+39,m1j8xy,,💎💎💎💎💎💎💎 DO NOT SELL!,1.0,1615331936,Annual-Season-627
+40,m1j93m,,Government doesn’t care if it’s us beating hedge fund companies,1.0,1615331949,Joel22222
+41,m1j9nj,"Currently, GameStop's market cap is 1/2 the size of Chewy. At 1000, it will be equal.
+
+Gaming &gt; Dog Food
+
+I'm not fucking selling at 1000.",IM NOT SELLING AT 1000,1.0,1615331991,sillyorganism
+42,m1j9rb,[removed],Amc tomorrow bets?,1.0,1615331999,RuinedXJosh1
+43,m1j9rq,,It's not as much as the rest of you retards but is still some quality gains to me.,1.0,1615332000,Gadrilor
+44,m1ja1o,"Hi, I wanted some advices from some Apes here. Should I hold AMC for their earnings report or should I sell. Not sure what to do.",AMC going UP OR DOWN TOMORROW?,1.0,1615332021,Quiicker-
+45,m1ja4t,,Finally came in.,1.0,1615332027,LargeHotdog
+46,m1ja85,"I’m tempted but I’m not a bad ape🦍  but I am a poor ape, bought 4 shares at 150$, moon landing was faked, but us retarded apes that don’t know how to fly are going to make it to the moon!🚀🦍🌚",I’m not selling!,1.0,1615332035,MrEcdrake
+47,m1jaa1,,Correct me if I am wrong...short squeeze tomorrow?,1.0,1615332040,TraderRaz117
+48,m1jaai,"NOT FOT CAPITALISM. GME will be the cause of THE BIGGEST WEALTH TRANSFER IN HISTORY ! 
+
+https://preview.redd.it/9l4etozx53m61.png?width=1508&amp;format=png&amp;auto=webp&amp;s=b68cd6459b4761c6a2b82a7a523e8819846895bf
+
+[https://www.forbes.com/sites/johnmauldin/2020/11/30/a-great-reset-is-coming-but-not-for-capitalism/?sh=34e6f45e4a3f](https://www.forbes.com/sites/johnmauldin/2020/11/30/a-great-reset-is-coming-but-not-for-capitalism/?sh=34e6f45e4a3f)",THE GREAT RESET,1.0,1615332041,YaThinkSo88
+49,m1jadn,I'd like to invest in companies looking after the rights of consumers that actually let you own what digital goods you buy instead of this BS leasing system that can be revoked at any time. I think this is going to be a major uphill fight and I'd like to support those companies doing the right thing.,What companies champion real digital goods ownership?,1.0,1615332048,Nubinobicon
+50,m1jb1y,,Fucking Legend,1.0,1615332101,TimHack
+51,m1jb2h,"First and foremost I would like to state, I am retarded so you are going to get some basic retarded numbers.
+
+For those of you that do not know, Roblox is a fucking horrible game, with horrendous graphics, shitty hitboxes, and autism-inducing repetitive tasks that lead to nowhere. In Roblox there is no storyline or main characters, it's basically shitty-looking legos, the games are user-made (there are currently over 18 million user-made maps to choose from, perfect for our spazed out ADD riddled children)
+
+Ok, now that you have a solid understanding of what the game is, now let's talk about how the game makes money. Remember those repetitive tasks?  In each game, there are items that make those tasks easier, and as with all Gotcha games these items cost ($) ROBUX, 2,000 Robux equals 25 dollars... there are items in these games that cost 20,000 Robux... and kids are buying them. 
+
+In 2020 $1.24 Billion dollars worth of Robux was purchased.
+
+&amp;#x200B;
+
+Roblox was founded in 2004 by David Baszucki
+
+**User Statistics:**
+
+Roblox currently has 36.5 million daily users with over 30 Billion engaged hours in 2020
+
+**Monthly Users**
+
+* January 2012     -   7 Million
+* March 2017        -  48 Million
+* April 2019           -  90 million
+* August 2019       - 100 million
+* February 2020  - 115 million
+* July 2020             - 150 million
+* November 2020 - 170 million
+
+**Roblox Anual Revenue**
+
+* 2017  -  $45.7M
+* 2018  -  $335M
+* 2019  -  $435M
+* 2020  -  $924M
+
+**Global Player Spending** 
+
+* May 2019  -  $37.5M
+* December 2019  -  $79.3M
+* January 2020  -  $65.2M
+* April 2020  -  $93.2M
+* May 2020  -  $102.9M
+
+From what I am seeing, how can this Stonk not go up? They have been doubling and tripling their growth consistently over the last 3 years. Serious question though, aren't Roblox financials amazing? 
+
+I mean my ape brain sees the company doing well, so stock should follow, right?",$RBLX The Numbers,1.0,1615332102,Diplodocus47
+52,m1jbcc,,Thanks GME for the tendies. Still have $34k more to buy 🚀 🌝,1.0,1615332123,FehTacticool
+53,m1jbdg,"We’re coming for you, and then were coming for all they said we couldn’t have!",No Apes Left Behind,1.0,1615332125,Phoenix0872
+54,m1jbny,,it ain’t much but it’s honest work (hope to break the 5-digit club tomorrow!),1.0,1615332146,jarofmy
+55,m1jby4,,How are we not talking about IVR?? 8.51% dividend.. what's 8.5% x 500% growth potential?? I'm bad at math and even worse at stocks; but this one seems like a slam dunk to me...,1.0,1615332166,tickly0
+56,m1jby9,,My life for the past 2 days straight. GME to the MOON 🚀🚀🚀🚀🚀,1.0,1615332167,jakerbreaker
+57,m1jbya,[removed],So proud,1.0,1615332167,GiveMeBass1
+58,m1jc04,,S3 Partners' Rankings for Short Crowding and Squeezes,1.0,1615332171,Jumpy_Run_4766
+59,m1jc36,,We like the stock,1.0,1615332178,pinkcatsonacid
+60,m1jc5g,,HODLINGS diversity,1.0,1615332183,Pearshire
+61,m1jci8,,"First 6-Figure Day! It was meant to be, going to AMC now to celebrate with some more tendies/soda/candy to keep this rocket goin!",1.0,1615332209,JRskatr
+62,m1jcio,,Finally came in.,1.0,1615332209,LargeHotdog
+63,m1jckw,,Taxes just came in and webull account pending approval. My first paper trade ever. I feel like i belong here hehe; so is webull legit to start with a just a few hundies? 💎🙌🚀yolo yall,1.0,1615332214,concubine7
+64,m1jcrh,"Look how suddenly all those boots start posting and telling us to sell AMC before earnings, and all stories about how AMC is not GME but, don’t listen them, they know AMC will go up, like it did today, they know they will lose more money like they lost on GME. Look at borrowdesk, AMC % is going crazy up!!!! Why, because it is in their best interest to short AMC and there o lot of them who wants it go down!!!
+But we hold and buy more!!!!!
+Not a financial advice. Don’t even know what stonks are. [aMC](https://iborrowdesk.com/report/amc)",They afraid of AMC,1.0,1615332228,Tajik2021
+65,m1jda8,,Can someone explain how this happens?,1.0,1615332270,J2g7d1
+66,m1jdc9,"Hi guys, I'm creating this post by using the phone's dictation feature, sorry if there are mistakes.
+Unfortunately I have some serious problem in my life and it will never change and it causes problems and ""accidents"" for me... I can't read. So I was just checking this stock market app and unfortunately I couldn't understand anything written on the screen and accidentally managed to buy GME stocks. 
+I don't know how much it was cause I was confused by all the numbers and texts on the screen, but it was a long number so I guess it was a lot of money.
+I hope it's not gonna be a problem, if I did something wrong, please tell me and help!",I hope I did it right,1.0,1615332274,iRicsi15
+67,m1jddg,,Only had enough for one. Hodl,1.0,1615332277,IndustrialMechanic3
+68,m1jdla,[removed],uwmc short squeeze Real 200$ soon,1.0,1615332294,Sea-Analyst4576
+69,m1jdrk,,I made a meme! Enjoy,1.0,1615332309,shrimpstar123
+70,m1jduz,"All I have to my name is about $3,000 atm. I really wanna buy more shares of GME, but the question is. Should I? 🤔",You guys are insane,0.99,1615332315,No_Contract463
+71,m1je1j,,"My beautiful autistic ape family, your wives’ boyfriends will let you watch if we get to $500 by Friday 🙌💎",1.0,1615332329,dan_adman
+72,m1je6t,,I'm still in!!! To the moon!!!,1.0,1615332340,nero37089
+73,m1jey5,,Wow isn’t this fun🤷‍♂️😅🚀,1.0,1615332401,Chance-Poet-4919
+74,m1jeys,"Today Massachusetts passed a law to require solar panels on roofs of all new homes and commercial buildings. This is the second state after California to do this. A pretty good bet is that more and more states will follow suit. Why does this retarded solar shit even matter? Because when you finally sell your Gamestonk for $42,690 a share you will want to build a nice new mansion to go with your wife boyfriend’s lambo collection. And plain solar panels that your stupid state is forcing you to install on the roof are just plain fucking ugly. So you go look for an alternative and find that Tesla, your second most favorite stonk, makes decent looking solar [shingles](https://www.tesla.com/solarroof). So you jump at the opportunity to support papa Elon one more time and buy them solar shingles. 
+
+There are some competitive solar shingles out there, but Tesla’s solar roof is way ahead of the competition in terms of looks and number of installations. Tesla also makes and installs regular looking solar panels as the ones you would fine on commercial buildings, or homes that do not care about the aesthetics. Now, imagine that soon every new construction (commercial and residential) will require roof solar panels and good chunk of that market will be captured by Tesla.
+
+TLDR: States are passing laws to require new construction to include solar panels on the roofs. Tesla not only makes solar panels for the roofs but also solar shingles. TSLA = rockets.","Massachusetts passes solar roof law, TSLA to the rescue.",1.0,1615332402,meatlamma
+75,m1jezd,.,AMC will b in the stars soon . What u think !,1.0,1615332403,DixinCid
+76,m1jf6s,,"I don’t typically gamble outside of a casino, but when I do it’s you know who!",1.0,1615332420,highestinther0om
+77,m1jfam,[removed],The Systematic Risk to the Financial System that GME Revealed,1.0,1615332429,ASoftEngStudent
+78,m1jfge,,420/69,1.0,1615332442,Gangsternigg26-13-6
+79,m1jfno,,me and my wife and her boyfriend are expecting a baby and we are calling it $GME$AMC,1.0,1615332458,davidgersch
+80,m1jfot,,"It's coming, lads. 💎🙌",1.0,1615332460,Polevata
+81,m1jfpb,,People that have YOLOed and made over 100k what have you done with the money?,1.0,1615332461,No_Parsley_9397
+82,m1jfqv,,ATOS up 35% in after hours! 🚀🚀🚀🚀,1.0,1615332465,knownunknown69
+83,m1jfu0,,I am Batman!!,1.0,1615332472,techware151
+84,m1jfv9,,Just hold it,1.0,1615332474,IndustrialMechanic3
+85,m1jg2p,,I made some changes to their logos. I hope you guys all enjoy,1.0,1615332490,TheRealRickyLafleur
+86,m1jg58,"Probably because everyone is focused on GME, which I think is great. On the other hand, this sub gained so many new users that flood the DD flair with stupid shit that is either related to GME or to other stocks. 
+
+I used to love reading good DD before the first GameStop price jump in late January. I always searched by new to stay updated with your thoughts on stocks but nowadays it just disappoints me to search by new. It is no wonder that new DD posts barely get more than 50 upvotes. I would love to read DD by people who know what they are talking about, that are experienced traders. 
+
+I know, technically I am a very new user as well and I am aware of that, but I’m here for long enough to have witnessed this decrease of quality and I hope the quality increases again soon. I would be very happy if you could just stop posting stupid shit as DD. 
+
+PS: I am also tired of reading about short ladder attacks in the GME megathread every time the price drops 2% after gaining more than 100% this week. After a whale picked up a couple hundred thousands of shares and the price increased by 5-10% it is just fucking normal that people sell some shares to take profits. The sell side just overweights after the whale stopped purchasing and the price decreases. It‘s just simple supply and demand. 
+
+PPS: When Iborrowdesk shows, that there are less shares to borrow, it doesn’t mean that 100-1000 retards have to spam it into the megathread. That literally has no meaning. It could mean that they shorted that amount of shares shortly afterwards. It could mean they borrowed the shares to sell them in a couple of weeks or days or months. It literally has no meaning for us. We believe the price is still undervalued. We hold. It doesn’t matter if people borrowed shares a few minutes ago. Stop looking at 1min candles, take a walk, cook some food, customize your Lambo, stop spamming the thread with stupid shit, enjoy your tendies.
+
+Obligatory: this is no financial advice, nevertheless I like the stock and I like this community, also I am definitely not a cat",DD‘s have lost quality in this sub,1.0,1615332497,jordan_belfort_jr
+87,m1jgbb,DILDO CANDLE TODAY JUST CONFIRMED ATH GAY BULL MARKET FULL STEAM AHEAD 🌈 🐂 ATTACK!!!,Macho Mega Overlord Golem Demon Erection Hard-On Cumshot Dildo Bullish Move to ATH. $SPY $QQQ,1.0,1615332509,TheGodofTheStonks
+88,m1jgbj,,"Please don’t ban, just a baby diamond hand having fun, good luck everyone.",1.0,1615332509,Advanced_Ad_5958
+89,m1jgkk,,"Just so everyone knows I wasn’t playing. Wife isn’t pissed, just called me retarded.",1.0,1615332531,Glum_Obligation_48
+90,m1jgsp,,Sort of a dumb article...but mentions a point I have been making here. Institutions who lost on growth stocks are piling cash into the most volatile thing around...$GME. Institutional money is what is pumping it right now to however how it plans to go.,1.0,1615332549,WallStreetWarrants
+91,m1jgva,[removed],Thank you all,1.0,1615332556,Silly_Ambassador6134
+92,m1jgwe,,🤷‍♂️🚀 doesn’t feel like Kansas anymore,1.0,1615332558,Chance-Poet-4919
+93,m1jgyr,,All of us rn..,1.0,1615332562,TheRealRickyLafleur
+94,m1jgyx,,APE GO SUPER SAYIAN,1.0,1615332563,Litecoinrevengepump2
+95,m1jh0d,,Billionaire or bust. IM NOT FUCKING SELLING,1.0,1615332566,felibrown2
+96,m1jh1n,Any suggestions on buying Roblox tomorrow or is it better to hold off before buying?,Roblox,1.0,1615332568,Arubamann31E
+97,m1jh6a,"$TSLA
+
+THE ROCKETTTTTT
+
+ 🚀🚀🚀🚀",TSLA - THE ROCKET,1.0,1615332579,mateace
+98,m1jhf0,"Viacom has just been climbing over the course of months,it's price is real cheap compared to disney,and with Oprah doing interviews for them.I like the stock","Viacom may be great play,looking at competitor and there stock pretty low",1.0,1615332597,Da_WallstreetBeast
+99,m1jhfc,"This is a continuation of a DDDD I wrote a few weeks ago about [how GME could cause a stock market crash](https://www.reddit.com/r/wallstreetbets/comments/l9sh9e/dddd_why_gme_might_next_week_and_how_it_could/) through mass de-grossing from short/long Hedge Funds. However, that was just one side of the story, and there was an even more troubling 2008-style flaw in the system the GME has revealed in our financial system; something that first interested me when Thomas Peterffy, the founder and chairman of Interactive Brokers mentioned it on CNBC.
+
+*Disclaimer - This is not financial advice, and a lot of the content below is my personal opinion and for ENTERTAINMENT PURPOSES ONLY. In fact, the numbers, facts, or explanations presented below could be wrong and be made up and with some satire thrown in. Don't buy random options because some person on the internet says so. Do your own research and come to your own conclusions on what you should do with your own money, and how levered you want to be based on your personal risk tolerance.*
+
+First, let’s go on a history lesson about the 2008 Financial Crisis and one of the main factors in it - Counterparty Risk.
+
+# What is Counterparty Risk?
+
+Counterparty Risk is the likelihood that the counterparty (i.e. entity on the other side) of the transaction might default on an obligation. To put it simply, imagine Bob sells Alice one GME call with a $10 strike price. Unfortunately for Bob, some 🦍🦍🦍 in an obscure subreddit sent GME 🚀🌝 so when those calls expire, GME is at $410, meaning Bob now owes Alice $40K. However, Bob’s entire portfolio is worth only $10K and is unable to fulfil his financial obligation when he wrote those GME calls, defaulting on it.
+
+# Counterparty Risk in 2008 &amp; the “Solution”
+
+This is exactly what happened in the 2008 Financial Crisis when AIG sold Credit Default Swaps (basically, puts on the housing market) and defaulted on their financial obligations when the housing market collapsed. It made everything worse, because other funds were using these CDS to hedge their own positions in the housing market, so when those CDS turned out to be worthless because the other side was bankrupt, it endangered the financial soundness of firms like Goldman Sachs, Morgan Stanley, BoA and Marril Lynch who bought these swaps. This suddenly created a counterparty risk to anyone on the other sides of all the trades they have made, and has a domino effect that ends up with basically every financial institution collapsing if AIG collapses; in other words, AIG was too big to fail.
+
+Title VII of Dodd Frank, which was the law passed by Congress as a response to the Financial Crisis to prevent this from ever happening again, mandates that all securities and derivatives be cleared in clearing houses such as DTCC and post collateral they deem to be sufficient to manage counterparty risk to them. These clearing houses would then be responsible for ensuring a transaction is fulfilled on both sides, and if one of the parties in the transactions fail to meet their obligation, they are responsible for honoring it.
+
+# Why this doesn’t really work
+
+What this solution has effectively created is one monolithic central counterparty in the form of the DTCC. According to their [2019 annual report](https://www.dtcc.com/annuals/2019/financial-performance/), they processed $2.15 quadrillion worth of securities in 2019, or 24 times the global GDP of $24T and 6 times the total net worth of the world of $360T. Basically, they’re way too big to fail. So to make sure this never happens, they have pretty broad authority to unilaterally decide how much collateral each participant based on their outstanding trades using an unknown and obscure formula.
+
+This is how Robinhood got fucked over by them - their collateral requirements for the DTCC suddenly increased ten-fold on them, and they had a liquidity crisis (which they tried really hard not to admit, because this is the brokerage equivalent of your bank saying they're running out of cash and you might not get your deposits back) because they didn’t have enough cash to cover it. What happens if a participant can’t meet their collateral requirements? Similar to a degenerate options gambler who can’t meet their margin call (aka your average [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) 🦍), their entire portfolio gets liquidated.
+
+See, DTCC not only is a central clearing house that guarantees most settlements; technically that’s the NSCC, which is a subsidiary / service provided by the DTCC. Their main operations are the equivalent of a central bank for brokerages - the broker of brokers, responsible for holding the physical shares that the brokerages own; hence their name Depository Trust Clearing Corporation.
+
+So what does it take to bring the DTCC down? Most recently, GME. For those who haven’t seen it yet, this interview with the Chairman of Interactive Brokers (apparently post gets auto-deleted if I put a YouTube link, but should be easy to find) on why they halted buying of GME outlines the issue pretty clearly. For those with too short of an attention span to click the link, he basically says
+
+* The most important reason why he halted GME purchases was to protect the integrity of the financial system and clearing houses
+* There were ALOT of options that suddenly became in the money, and whoever held them suddenly were owed a bucket of tendies; he mentioned $10-15B losses in one expiry date alone.
+* These tendies need to come from somewhere. Anyone who was net short GME got absolutely fucked and might defaulting on their short position or call option write.
+* If they default, the broker is on the hook to pay out those losses. If the broker cannot pay for it, they go under and clearing house (DTCC) is on the hook
+
+# Tin Foil Hat Time
+
+Now here’s where I’ll start speculating on what exactly happened on the other side of the trade and DTCC. So, who’s on the other side of all these GME calls, or in other words, who wrote all these calls and suddenly owes fuck ton of money when GME 🚀🌝? Probably Citadel, which is involved in [over 99% of all options trading volume](https://www.citadelsecurities.com/products/equities-and-options/). Now in theory, Market Makers are not in the business of taking a position and should be delta-neutral in all positions they take.
+
+However, delta and gamma hedging is a tricky art and probably not possible to perfect, especially in situations where a ticker suddenly becomes irrationally volatile, has large gaps between sessions (i.e. the opening price is significantly above or below the previous closing) and when the underlying is illiquid relative to the notional exposure value. I’m too lazy to actually research this data, although I’m almost certain this is true (someone pls fact check me), but it’s extremely likely that at a certain point, the amount of shares Citadel needed to buy to remain fully delta hedged on all the options they wrote exceeded the available float, and became literally impossible to do.
+
+This is because a large portion of the options they wrote were out-of-the-money, meaning that although they don’t need to buy a lot of GME shares when they first sell the contract to be delta-hedged, they would need to drastically purchase more and more shares if GME goes up, causing it to go up even more and becoming a vicious cycle (i.e. gamma squeeze). Usually, market makers might use other strategies like buying similar tickers or ETFs holding GME to try to remain delta neutral, but there’s so much volatility that it’s possible that Citadel was in fact net delta-negative on GME - on in other words, they lost money if GME goes up.
+
+Okay, so let’s make a logical jump (with no evidence) to speculate an idea - what if **Citadel’s financial soundness came into question?** In other words, what if they were at risk of bankruptcy and ended up defaulting on their financial obligations? Well, they’re involved with over 99% of all options trades, and if they default then the DTCC is suddenly on the hook for unwinding their massive portfolio and ensuring that all of Citadel’s financial obligations, including paying out all those GME calls, are met.
+
+Obviously, DTCC does not want this to happen, and as a private corporation, they are allowed to do whatever is in their best financial interest to preserve their own financial soundness to ensure their business is not at risk that is allowed within the financial regulatory framework they operate in - including raising GME margin requirements.
+
+*TLDR; DTCC is definitely too big to fail, so they get broad sweeping powers by financial regulation to make sure they don't fail. Citadel is probably too big to fail in DTCC's eyes because they don't want to be responsible for honoring 99% of all options transactions.*",The Systematic Risk in the Financial System GME Revealed,1.0,1615332598,ASoftEngStudent

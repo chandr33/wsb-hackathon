@@ -1,0 +1,153 @@
+,post_id,text,title,upvote_ratio,date,author
+0,m4k6hq,[deleted],$CUM all the way to the moon,1.0,1615683806,[deleted]
+1,m4k6uq,[removed],The taco bell is ringing,0.38,1615683834,ColonizeMurcury
+2,m4k6y9,[deleted],He likes the stock,1.0,1615683843,[deleted]
+3,m4k7e7,,Valens Company ALERT,1.0,1615683880,Agile-Planet
+4,m4k80x,[removed],Merry early Christmas,1.0,1615683931,boyerkin
+5,m4k81l,[removed],Contrafect,0.5,1615683933,lol8743
+6,m4k87d,,Monkey see Monkey do! Get yours before sold out. See round 🦍 🍌🚀👍,1.0,1615683946,Fun_Pin5982
+7,m4k8fh,,Guys look at this MDMP stock? Outstanding Shares to Market Cap? What do you guys think? Let’s send this one to the moon!!! 🚀🚀🚀,1.0,1615683961,StockChaser-
+8,m4k8wi,[removed],"I am CRYING!!! Actual tears! If there's a movement I can get behind, it's animal rescue. What a freakin amazing community. I love you.",1.0,1615683995,Berrybunny00
+9,m4k979,,APES TOGETHER STRONK,1.0,1615684019,zenubyte
+10,m4k9ej,[removed],Asking the real questions here. Are you guys man enough to push Roblox to the moon?,1.0,1615684036,evman50
+11,m4k9mu,[deleted],"Stimmy in, apes together strong. This week we kill the bear",1.0,1615684054,[deleted]
+12,m4ka0u,[deleted],Apes. Apes Everywhere.,1.0,1615684082,[deleted]
+13,m4ka1a,,AMOUNT DUE IS A SIGN GME APES,1.0,1615684083,greazyE
+14,m4kaci,,"When GAMESTOP🚨 is not trading during the weekends, putting money in Decentraland and YOLOed and woke up to it doubled over night. I think this is the that we should all eat. Let’s all eat at the round table 🦍DIAMOND HANDS you fucks! 💎 🙌🏻 overnight millionaires 💯",0.61,1615684106,ZealousidealDoor8497
+15,m4kam9,"I don't normally like these ""options for dummies"" kinds of posts and absolutely don't like seeing them but I keep seeing people try to make a stupid person's guide to how options work and being **really irresponsible** about explaining theta. I have a few points I want to make about theta then hopefully we can put this to rest. I'm not going to talk about Delta or IV that's a different conversation and motherfuckers need to read.
+
+Real quick:
+
+* Not a pro
+* Not investment advice
+* Advice about how you need to actually learn shit
+
+If you're too retarded to understand basic math or you're too lazy to try to actually better yourself then click the back button now. For the retards that stick around I'll include pictures and a fun little story.
+
+Okay about 3% of you should be left so let's dive in.
+
+# Theta
+
+ The term theta refers to the rate of decline in the [value](https://www.investopedia.com/terms/v/value.asp) of an option due to the passage of time. It can also be referred to as the [time decay](https://www.investopedia.com/terms/t/timedecay.asp) of an option. This means an option loses value as time moves closer to its [maturity](https://www.investopedia.com/terms/m/maturitydate.asp), **as long as everything is held constant**. Theta is generally expressed as a negative number and can be thought of as the amount by which an option's value declines every day. 
+
+Theta is an estimate of value decay. It's a rate that's continuously adjusted. Every second that passes makes your option worth less and less. The biggest misconception is the one I want to focus on the most. We talk about it it terms expressed in decay on a day I think for our simple brains but it's not that simple just like days aren't really exactly 24 hours and there's complex reasons why.
+
+# THETA. IS. NOT. LINEAR.
+
+You dickheads remember y=mx+b from middle school? that's linear. Here's theta on an option graphed for a 1yr contract.
+
+&amp;#x200B;
+
+[https:\/\/www.optiontradingtips.com\/greeks\/theta.html](https://preview.redd.it/k3zpzuyfzvm61.png?width=474&amp;format=png&amp;auto=webp&amp;s=359ec39cb38f082a8ca2fe69f7f562cf2ec441da)
+
+ Theta is exponential. the theta decay on your option accelerates over time. Look at that last little sliver of the chart. See how sharp it goes down? That's 'FD' range. That's when all the value of the option evaporates nearly instantly like your wife's interest in you when she met her boyfriend.
+
+&amp;#x200B;
+
+[https:\/\/www.optiontradingtips.com\/greeks\/theta.html](https://preview.redd.it/br6wnmc31wm61.png?width=713&amp;format=png&amp;auto=webp&amp;s=63e4ca62032511a0b8e3ee2e43feed83b645def8)
+
+# Theta will eat your lunch
+
+Last week I had a C250 FD on GME that I had to close on a loss even though it was ITM. WHY? Because the rate of decay on the option was so fast that GME **wasn't rising fast enough to increase the value of the option and make up the difference**. Buying OTM and going ITM is good but it's important to understand that even IF you are ITM it still won't save you from theta and sometimes it's smarter to take profit rather than waiting. **You COULD even take the profit and buy the underlying**...
+
+# Retard/Ape edition incase you're somehow still here
+
+You live in Loserville and want to move to TendieTown. The distance is 1000 miles. You have 1 work week to get there( 5 days). So first thing you realize is that you can travel 200 miles per day and you'll get there on time. Great. Say you take Monday off. Suddenly you need to travel 250 miles per day. Not impossible but okay that's not a fun speed to move at. Take note it's a 25% increase. Let's say again on the second day there's no 'movement'. Now you need to cover the same 1000 miles in 3 days. Okay now you're looking at 333.3 miles. That's a 33.33% increase from the previous day. Holy shit now you need to fucking move and move fast. But let's say for one reason or another you, ""**G**ary **M**ichael **Edward**"" can't get out of bed on Wednesday. Still have 1000 miles to travel. Now you need to cover that distance in 2 days with an average velocity toward your goal at 500 miles per day. That's a 50% increase from the previous day. And on the last day you need to do all 1000, which is a 100% increase from the previous day.
+
+This is a gross over simplification but it at least gets point across.
+
+Do you guys get it now? Every day without progress makes the goal much more unlikely because the burden just shifts and grows exponentially to the remainder of time. As the likelihood of the open hitting ITM increases and time passes, theta acts as a decaying agent on the price bringing it into balance.
+
+* Please stop reading option tutorials from plumbers / dog walkers / high school teachers
+* Please read about these concepts on actual investing websites and not the worlds Instagram of trading addiction or watch video from actual professional investors
+* If someone tells you they're not a pro/ are retarded think twice about letting them explain shit to you.
+* Read a book motherfucker
+
+FD's made this casino notorious because people who were here well before I was started posting crazy yolo FD's -  who knew how acidic theta was and still bought and occasionally made disgusting returns.  
+
+
+Good luck everyone. I know all you are going to pump FD's with your stimmy so I guess just have fun and please try to learn how to read.",Theta: God of Time and Death,0.98,1615684128,TheUltraViolence
+16,m4kap9,,GME PROJECTED AT $800 BY NEXT WEEK!! THIS IS INSANE!! GME IS NOT DEAD!!,1.0,1615684134,ToTheMoon10101010
+17,m4kapa,[removed],"I am in PLTR camp. I love this sub, and I love monkey ... and this is the most beautiful idea I've seen in a long time! 🦍❤️",1.0,1615684134,improve-x
+18,m4kaqh,[removed],WSB’s donations and adoptions of literal apes is more than Melvin has every contributed to the less fortunate,1.0,1615684138,Isaac_reburth
+19,m4kbim,,Snapshot of the Sub Today,1.0,1615684201,Darminian
+20,m4kbkg,[removed],"As a new Ape, This is how I feel with most DD posts",1.0,1615684205,tenaciousdna
+21,m4kbr4,,"These people laugh but all I thought was, ""Soon...""",1.0,1615684221,jlaw224
+22,m4kcv9,[removed],Realistic AMC price prediction,1.0,1615684326,Ok_Entertainment385
+23,m4kcyc,,Amc,1.0,1615684334,allenr661
+24,m4kdcv,[removed],can we blow up TGOD next,1.0,1615684371,orange_angel
+25,m4kdis,,My daughters PJs have an interesting message,1.0,1615684387,O_A_W_B_F_N_R_F_U_R
+26,m4kdzu,[removed],Thoughts on FINV?,1.0,1615684429,New-Row8208
+27,m4ke3u,[removed],Anyone want a 1000 Card lot bundle for 40$,1.0,1615684439,Donothegoat23
+28,m4ke59,,Always educate the foolish.,1.0,1615684444,BenjaminOgBezy
+29,m4kefp,,SLOWLY ADDING MORE AND MORE AND MORE 😂,1.0,1615684472,JoeyTradez
+30,m4kejn,,Be careful just saw this news Wanda the #1 amc shareholder is offloading amc...worry about them not shorters,1.0,1615684483,UltimateTraders
+31,m4keot,,From the “Planned Giving” page on the Dian Fossey Gorilla Fund website 👀,1.0,1615684497,PTA_is_bae
+32,m4keu0,[deleted],First week of trading options. Been a wild ride so far.,1.0,1615684511,[deleted]
+33,m4keyt,,I WILL PAY FOR A GME BLIMP / HOT AIR BALLOON IF WE BREACH $5K THIS WEEK 🚀🚀🚀🙌🏻💎🎈🎈,1.0,1615684524,[deleted]
+34,m4kfi8,[removed],"I'm jumping into the stock market, any tips?",1.0,1615684568,Nothealed
+35,m4kfnf,[removed],The idea that this sub could just pool all the final gains into a gorilla conservation fund delights me,1.0,1615684583,theddR
+36,m4kg0p,[removed],"GME Investing, looking realistically into the future",0.2,1615684619,fabioh2
+37,m4kgdj,,Fellow retard ape here sharing some memes I made to support my fellow apetards! 💎🙌🚀🌑💎,0.75,1615684651,incindious
+38,m4kgmv,[removed],$14 hundy arriving this week...,1.0,1615684676,Heywood_Jablomydic
+39,m4khap,,Just a little reminder to all you 🦍 that someone bought $23M in GME put options that expire on 4/16 with a $560 strike price back on Feb. 3,1.0,1615684742,McCallywood
+40,m4khg4,[removed],GME MEME help,1.0,1615684757,Puzzleheaded_Deal784
+41,m4khj4,,GXY.ASX,1.0,1615684764,Boston_Hedge_Killer
+42,m4khvd,,Adopted a momma and her baby on behalf of you guys! Thank you u/Pakistani_in_MURICA for the inspiration!,1.0,1615684795,[deleted]
+43,m4ki4n,,Shitpost,1.0,1615684817,TheUn5een
+44,m4ki9f,,Need 420.69,1.0,1615684826,TrueChargeSlash
+45,m4kiij,[deleted],The prophecy is true,1.0,1615684848,[deleted]
+46,m4kipr,[removed],EVERY ONE OF YOU HEROS WHO ADOPTED A GORILLA OR ORANGUTANG. I can do nothing but bow!,1.0,1615684867,Mumbles1912
+47,m4kjx4,,Here to save the 🦍 and 400 🦍,1.0,1615684971,dbroncosb
+48,m4kjxv,,Adopted Ishimwe and HODL'ing strong!!,0.98,1615684973,beameduplikescotty
+49,m4kk9x,[removed],"Richest investors on this sub, how'd you do it?",1.0,1615685004,burpNoodle
+50,m4kkj0,,We made it to their twitter fellow apes 🦍 to the moon 🚀,1.0,1615685024,Thetagamer
+51,m4kkme,[removed],$HOGE,1.0,1615685033,naimisiert
+52,m4kknl,,Peep it GME fokl,1.0,1615685036,05bcrowl
+53,m4kl21,[removed],"Reminder: If you want to deposit in time for the market on Monday, you have the option with most brokerages. Wire Transfers from your bank to a brokerage account clear the same day (even on weekends if sub-$10,000).",1.0,1615685075,unloud
+54,m4kl85,,Together we can change the world !,1.0,1615685092,akmiked
+55,m4klzx,[deleted],WHEN ME AND MY BROTHER WHO ARE APES OPEN FORTUNE COOKIES,1.0,1615685167,[deleted]
+56,m4km9t,[deleted],Two new members to the WSB family,1.0,1615685191,[deleted]
+57,m4kmba,[removed],"How GME will really end and also how it can realistically hit $50,000",0.64,1615685195,Tigster6466
+58,m4kmm6,[removed],Snapchat spotlight money round,1.0,1615685223,Gloomy-Key9542
+59,m4kmqz,,WHEN ME AND MY BROTHER WHO ARE BOTH APES OPEN FORTUNE COOKIES,1.0,1615685236,Puzzleheaded_Goal670
+60,m4kn0f,,Didn’t want to get FOMO again so I adopted this cute guy! (Still waiting for the certificate),1.0,1615685260,whoa_dude_fangtooth
+61,m4kn2f,[removed],And so it begins,0.4,1615685264,redxnova
+62,m4kn2m,,Guess which stock makes up my portfolio?,1.0,1615685265,fattireipa
+63,m4kn4a,[removed],My First YOLO,1.0,1615685268,Prestigious_Seesaw68
+64,m4knew,,Did I do the thing,1.0,1615685293,RheaTheBipolar2
+65,m4knkf,,How could I resist? See you on the moon Urungano!,0.97,1615685303,InoQl8er
+66,m4kokg,,I know where my stimmy is going. 💎🙌🏽🚀🦍🦍 APES TOGETHER STONG,1.0,1615685385,Twisted-Design
+67,m4koks,,"Indian in MURICA here, also adopted a gorilla. LOVE LIVE THE APES!",0.99,1615685386,everybodysaysso
+68,m4konh,,Lazy method of checking for media bearishness,1.0,1615685392,Alpacaroon
+69,m4kov2,,We should squeeze riot harder than any other squeeze in the history of squeezes,0.6,1615685408,[deleted]
+70,m4kozc,,Another ape picked up and put on a rocket to the moon.,0.97,1615685418,SwearImNotACat
+71,m4kpf7,[removed],NNDM Short Interest,1.0,1615685461,Daegoba
+72,m4kpp3,[removed],Incoming Short Squeeze?!?,0.5,1615685486,xX_MLG_Ling_Ling_Xx
+73,m4kpyp,,"Monke see good, monke do good",1.0,1615685507,TheTangoFox
+74,m4kq7s,[removed],Any good resources to learn about options?,1.0,1615685529,suprankles
+75,m4kqe2,,Where top gme holders go,0.7,1615685545,spicymrsenpai
+76,m4kqpy,,Instructions unclear to ape. Buying more GME on Monday 🚀,1.0,1615685575,YaBoiJJ8
+77,m4kqw7,,I see your Orangutan and raise you Teco the Bonobo at the Ape Initiative!,0.94,1615685587,HS_Kakapo
+78,m4kre2,[removed],Am I allowed to post about $dogec?,1.0,1615685628,TheDogecfather1
+79,m4krpi,[removed],The story of poor monkey.,0.67,1615685652,Stevennchi
+80,m4krqm,,Bought an elephant from my GME + Stimmy tendies to grow our wsb army,0.98,1615685655,GeometryThrowaway777
+81,m4krr8,[removed],"My dad bought puts, i bought calls, I’m up 18k he’s down 5, love you fuckers, thank you for giving me bragging rights in the house for this time, 🙌💎",1.0,1615685657,SwordfishVegetable96
+82,m4ksf9,[removed],what about silver?,0.17,1615685718,Mokokomokoko
+83,m4kstw,[removed],Hearing whispers that AMC. Making moves,0.83,1615685756,Aguilar20
+84,m4ksx1,,Moderators taking post down not on GME must be bots from hedgees 💎 🙌🏽 2 🌙,0.8,1615685766,behealthylivewealthy
+85,m4kt20,,"Saved the apes. Now save the horses. Horsemanship out in Spain have been a year without income, I’ve donated what I can, any support from the apes is appreciated kindly.",1.0,1615685779,Kipnip
+86,m4kt31,[deleted],I might just be restarted but it goes down but I keep buying. To The Moon Primates!!🚀🚀🚀💎,1.0,1615685782,[deleted]
+87,m4kt5m,,"Did I do this right? Without bears, we'd have to find someone else to laugh at. #CrossSpeciesLove",0.97,1615685789,BrazenRaizen
+88,m4kto6,[removed],$HEPA for next week. Everyone is talking about this.,1.0,1615685839,Murky_Delay8634
+89,m4ku3f,,"Cmon guys, so close.",1.0,1615685879,Tickle-Me-Raw
+90,m4ku3x,,"Long time lurker, first time poster",1.0,1615685880,R0gu3_L3ad3r
+91,m4ku6a,,I might be Retarded but it goes down and I keep buying. To The Moon Primates💎🚀🚀🚀,1.0,1615685887,midgettatertot
+92,m4ku8h,,Just a few more retarded memes this mindless stock loving ape been working on to inspire all us retards! Hope you like the stock!,0.89,1615685894,incindious
+93,m4kubz,,HOLD,1.0,1615685903,PilkingtonLuck
+94,m4kugg,,Google keyboard has a monkey holding a diamond sticker. 💎🙌🐒💎,1.0,1615685914,lilbear10
+95,m4kujc,,Giving credit where credit is due...Ape is taken care of because of you,0.96,1615685922,pakwlf
+96,m4kv1x,,Made $14mm in 1 year. Finally hit $14 MILLION Friday! (Had 125k May 2019),1.0,1615685970,Onboarding92
+97,m4kv2g,,A message to WSB from the Director of the Dian Fossey Gorilla Fund!,1.0,1615685971,Onboarding92
+98,m4kvqi,[deleted],To questions when you google “wallstreetbets” Haha 😂,1.0,1615686032,[deleted]
+99,m4kw2m,,This is why I bought $RBLX and I know I'm not alone.,1.0,1615686064,broomdark69

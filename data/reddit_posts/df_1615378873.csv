@@ -1,0 +1,321 @@
+,post_id,text,title,upvote_ratio,date,author
+0,m1wah1,,"Silver again, huh? Reddit ads going full retard in concert with the recent green dildo-ing",1.0,1615378900,burglin
+1,m1walb,Buy buy buy hold hold hold that's its.  GME to Pluto or 1k. Just bought 1k more shares of bought GME and AMC. LFGGGG let's do it 1k f the hedges it's our world now and they're living in it and they want it back.,GME AMC,1.0,1615378912,Revolutionary-Luck21
+2,m1waof,"REPOST because I accidently included a relevant YouTube link in an edit (about a DRYS short squeeze) and this caused the automoderator to delete it). Sorry!
+
+Also, since I got feedback I didn't include enough Emojis, here's a rectification:
+
+ 
+
+# 🚀🚀🚀🚀🚀🦍🦍🦍🌙💎👐
+
+First, let's look at the players involved here.
+
+# The shorts
+
+On the short side, we have some hedge funds (most notably Melvin and Citadel) who aimed to make money by shorting gamestop, which they saw as a failing brick and mortar store chain.
+
+# The Market Makers (may have some overlap with the shorts)
+
+Marker makers write options (contracts to be allowed to buy (call) or sell (put) shares for a specific price at or before the expiry date). They collect a fee for selling those contracts, but they make the best profit if the contracts expiry worthless, because then they get to keep their fee, and don't need to keep their contract because it wasn't in the money. How does this work? Well, for example when GME was trading around $40, they sold contracts for $800 for the next month or so, never expecting the price of GME to even reach anywhere near $800, so the ""fools"" who bought the options to buy $800 calls for march 12th and march 19 will be left with worthless calls, or so they thought. (More on this later).
+
+# The longs
+
+On the long side, we have you glorious apes  🦍 🦍 🦍, Cohen, and competing hedge funds who are smelling blood and do not hesitate to pull the trigger on Melvin and other shorts, especially if they can make some money while doing so.
+
+Now let's look at the actions that have led up to this.
+
+It all started when the shorts were getting greedy, and with Covid19 thought they could pull the plug on gamestop, which they saw as a failing brick and mortar game store that would go the way of blockbuster. They did not expect gamestop would survive covid, and they did everything in their power to make it so. Shorting the company to the ground, with the goal being to drive the price to $0 for maximum and tax-free profit. It's important to point out that they COULD have covered at $3\~$4 but DID NOT. If they did not cover at $3 or $4, what makes you think they covered at $40\~$400? Hint: they didn't. In fact, they even admitted during the congress hearing to not covering by saying that the last peak to $400+ was just a gamma squeeze. In other words they have not even begun to cover yet.
+
+[Then some people liked the stock](https://www.reddit.com/r/wallstreetbets/comments/m1p4up/a_refresher_on_what_the_is_going_on_with_gme/)
+
+[Some people have calculated that the real short interest in somewhere between 250% and 967%](https://www.reddit.com/r/wallstreetbets/comments/m19sa7/true_short_interest_in_gee_em_ee_could_be/). (something like 200 million to 500 million shares short). Some people may think this is insane, but if you do the math, you will see that no matter what FINRA says, it's impossible for short interest to be below 200%, and it's more likely to be around 500\~600%. It's hard to find reliable data, but if you just look at the volume and price action, it's obvious that the shorts have only INCREASED since January 28th, not decreased. It is mathematically IMPOSSABLE for the shorts to have covered. It simply doesn't add up.
+
+# How the Gamma squeeze will trigger the short squeeze
+
+Some people doubt this could reach $10k or even $100k, just as people doubted it could reach $1000s. But here is why those numbers are not only likely, but MATHEMATICALLY INEVITABLE. (I'm not an expert to so take it FWIW, feel free to call me an idiot, but if I'm right, I'll expect apologies).
+
+First, let's look at the option interest (source: [https://www.nasdaq.com/market-activity/stocks/gme/option-chain](https://www.nasdaq.com/market-activity/stocks/gme/option-chain))
+
+&amp;#x200B;
+
+|Strike|Open interest March 12th|Open interest 19th|Shares (combined 12+19)|Shares (combined 12+19 cummulative)|
+|:-|:-|:-|:-|:-|
+|250|3231|2842|607,300|607,300|
+|255|563|0|56,300|663,300|
+|260|1047|542|158,900|822,500|
+|265|303|0|30,300|852,800|
+|270|788|748|153,600|1,006,400|
+|275|1386|0|138,600|1,145,000|
+|280|595|319|91,400|1,236,400|
+|285|303|0|30,300|1,266,700|
+|290|268|299|56,700|1,323,400|
+|295|323|0|32,300|1,355,700|
+|297.5|475|0|47,500|1,403,200|
+|300|7,011|5,389|1,240,000|2,643,200|
+|302.5|131|0|13,100|2,643,200|
+|305|276|0|27,600|2,683,900|
+|307.5|77|0|7,700|2,691,600|
+|310|660|307|96,700|2,788,300|
+|312.5|106|0|10,600|2,798,900|
+|315|683|0|68,300|2,867,200|
+|320|406|908|131,400|2,998,600|
+|325|313|0|31,300|3,029,900|
+|330|374|264|63,800|3,093,700|
+|332.5|130|0|13,000|3,106,700|
+|335|124|0|12,400|3,119,100|
+|337.5|48|0|4,800|3,123,900|
+|340|587|244|83,100|3,207,000|
+|345|622|0|62,200|3,269,200|
+|350|1876|2426|430,200|3,699,400|
+|355|122|0|12,200|3,711,600|
+|360|1151|344|149,500|3,861,100|
+|365|78|0|7,800|3,868,900|
+|370|103|351|45,400|3,914,300|
+|375|106|0|10,600|3,924,900|
+|380|290|396|68,600|3,993,500|
+|385|112|0|11,200|4,004,700|
+|390|354|508|86,200|4,090,900|
+|395|223|0|22,300|4,113,200|
+|400|3527|5156|868,300|4,981,500|
+|405|189|0|18,900|5,000,400|
+|410|173|258|43,100|5,0043,500|
+|🌿⚗️|605|1246|185,100|5,228,600|
+|430|211|130|34,100|5,262,700|
+|440|176|176|35,200|5,297,900|
+|450|558|604|116,200|5,414,100|
+|460|276|129|40,500|5,454,600|
+|470|215|210|42,500|5,497,100|
+|480|156|323|47,900|5,545,000|
+|490|166|314|48,000|5,593,000|
+|500|3,149|7,122|1,027,100|6,620,100|
+|510|259|496|75,500|6,695,600|
+|520|393|714|110,700|6,806,300|
+|530|252|168|42,000|6,848,300|
+|540|129|161|29,000|6,877,300|
+|550|490|1557|204,700|7,082,000|
+|560|198|218|41,600|7,123,600|
+|570|305|194|49,900|7,173,500|
+|580|94|615|70,900|7,244,400|
+|590|87|272|35,900|7,280,300|
+|600|1715|2065|378,000|7,658,300|
+|610|99|180|27,900|7,686,200|
+|620|117|153|27,000|7,713,200|
+|630|98|112|21,000|7,713,200|
+|640|326|250|57,600|7,791,800|
+|650|464|456|92,000|7,883,800|
+|660|320|147|46,700|7,930,500|
+|680|198|289|48,700|7,979,200|
+|700|1189|1264|245,300|8,224,500|
+|720|210|299|50,900|8,224,500|
+|740|307|239|54,600|8,330,000|
+|760|659|358|101,700|8,431,700|
+|780|1936|1060|299,600|8,731,300|
+|800|22,244|27,686|4,993,000|13,724,000|
+
+Now, it's important to mention that the MMs will try to stay delta-neutral. In other words, they will start buying BEFORE the price hits strike price. When the MMs sold $800 strike options while the price was at $40, they calculated it would be a 1 in a million chance or something really low that GME would hit $800 by march 12th. However, now, that chance is approaching 1% and climbing. The MMs still don't need to cover fully, but they are starting to consider the CHANCE of it happening is becoming more and more likely. So for each option (remember each option is 100 shares) they may be already buying 1 share per option for the 1% chance of it happening. But this very act may CAUSE it to happen.
+
+At some point, this is a self-fulfilling prophecy. Because MMs are 'insuring' their bets by buying shares just in case the price goes up, the price actually goes up, which means they need to insure even more, which creates a snowball effect. All the way up to, or beyond, the last option, which is at strike price $800.
+
+Similarly, the MMs probably considered it about maybe 5% likely that GME would hit 300 this week, but now it's more like 95% like, which means for each option contract with STRIKE 300, they will be buying 90 shares BEFORE the price hits 300 (which means about a million shares bought, which may actually cause the price to reach 300 in the first place!) They do this because they will be worse off when they have to buy in AFTER the price reached PAST 300 (then they will DEFINITLY make a loss). At least if they buy in BEFORE the price reaches $300, they can still make a profit or at least cut their losses.
+
+Remember, all parties are TRYING to make money, but not all of them succeed. So MMs are the ones driving the rally you have seen for the past few days, and looking at the above table, this will likely push the price towards, and likely over $800 either this week, or next week.
+
+You can also see in some particular numbers there's a LOT of shares that need to be covered, expect a lot of action when we APPROACH those numbers (for example, $300, $350, $400, $420, $500 and of course $800) as you can see, some of those numbers are close, and a gamma squeeze looks inevitable at this point.
+
+# This is only the GAMMA SQUEEZE. Now what about the short squeeze?
+
+Some people ask: ""Why don't the shorts just wait for the rally to be over, and buy when the price drops back to normal levels?"" Simple answer: they can't. Melvin was already down 53% the last time and they didn't even cover (that was just a gamma squeeze, by their own words). When a hedge fund has a short position, they can keep that position, as long as they have enough other assets to cover themselves. If the price of the asset they are short increases drastically (like in the event of a gamma squeeze), they will be FORCED to buy. As an example, let's say Hedge Fund M has $100 billion worth of assets, and shorts Company G for $1 billion at $10 per share. Now the price goes to $1000 per share, so they need to cover $100 billion for their shorts. This is an unacceptable risk, as their shorts are now losing more money than their entire portfolio can cover. So they will be forced to liquidate their assets and buy the shares they shorted. However, this very act will drive up the price (if you want to know how, read up on order books and slippage, this post is getting long enough as it is).
+
+In fact, this would usually happen long before they reach the point of bankruptcy, but seeing as Melvin managed to lose 53% and still didn't cover, it seems likely Melvin is too stubborn to cut their losses, and will ACTUALLY go bankrupt. This will leave the responsibility to cover with the clearing houses. The clearing houses are sure as hell not going to gamble (I'm pretty sure that's illegal). So the clearing houses would cover IMMEDIATLY, regardless of costs. Even if the feds literally has to print the money out of thin air. So TL;DR, it's a short squeeze because the shorts are FORCED to buy back their shorts, one way or another. Since they need to buy back hundreds of millions of shares (while only about 50 million or fewer are available) this will be ""name your price"" kind of prices. This is where $100k is NOT a meme.
+
+# IMPORTANT LAST POINT:
+
+**Don't lose hope when the squeeze does not happen this week or the next, there are still lots of other triggers that can happen in the near future. Remember, it doesn't cost us anything to HODL, but it does cost them a lot to SHORT. Every day they are losing MILLIONS. Every day we keep the price above $0 is a WIN for us.**
+
+Edit: those who still doubt $100k because it would make the market cap too high, DRYS went to $1.5 BILLION PER SHARE during a short squeeze. Let that sink in.","This is why GAMESTOP won't STOP, and why $100k is NOT A MEME. (REPOSTED)",1.0,1615378921,zimmah
+3,m1wau7,This ape wonders where Paper Portnoy is and when we will hear from him crying about being a paper-handed bitch! 🚀🚀🚀 GME 🚀🚀🚀,Where is Paperhands Portnoy?,1.0,1615378940,Stockimoto
+4,m1wavc,Premarket is UP... Get ready!,AMC... Squeeze is coming!,1.0,1615378944,Superb_Hat_9616
+5,m1wb17,,"""GmE iS dOwN 2.7 pOiNtS iN pAsT mOnTh""",1.0,1615378960,gullwings
+6,m1wb69,,Me trying to calculate how much money I've made on GME,1.0,1615378974,SorryLifeguard7
+7,m1wbc4,[removed],Is this a Tenbagger early stage?👇Thoughts?,1.0,1615378988,TheEraofMiners
+8,m1wbh2,,"Fellow autists, shoul I buy GE stocks wait for it to grow a bit a today and then sell it to buy more GME or should I just buy GME from the get go?",1.0,1615379004,val90y
+9,m1wbjv,,I don't post often... I've come back to my familly of APES. APES TOGETHER STRONG.,1.0,1615379012,yachtornah
+10,m1wbnx,"&amp;#x200B;
+
+https://preview.redd.it/hfym5j3n17m61.png?width=740&amp;format=png&amp;auto=webp&amp;s=cc9945cbbc0b83d16fa8d5b3a1e04bf65254ae4c",Deep Fucking Value,1.0,1615379023,astron190411
+11,m1wbta,,Thought I was Diamond Hands but reality set in and I am nothing but a paper hands retard. happy for everyone else who held. enjoy the show!!! stick it to the hedge funds!,1.0,1615379040,jammingnslammin
+12,m1wc1z,[removed],RKT 🚀🚀🚀,1.0,1615379065,funkygianchi
+13,m1wc2u,WHAT THE FUCK ARE SOME GOOD TATTOO STOCKS I CAN GET INTO. JESUS CHRIST WE ARE GONNA CORNER THE MARKET ON INK. SMOOTH BRAIN APE WANT MORE TENDIES.,So with GME hitting new levels...,1.0,1615379069,FMABrendan
+14,m1wc84,,All the DD I needed when I woke up this morning,1.0,1615379084,BlackMoldComics
+15,m1wcex," 
+
+This was posted on [r/stocks](https://www.reddit.com/r/stocks/) credit to [u/Tepllhcgftwhdg](https://www.reddit.com/user/Tepllhcgftwhdg/)
+
+I just wanted to post it here as it gives a very good explanation of naked short selling. Sorry in advance if this is not allowed.
+
+I've made a PDF of all 10 parts in case you want to print it out and read it: [https://drive.google.com/file/d/17kt0\_LZtZ0eB2ngkIXVKWaGrUc\_04HKz/view?usp=sharing](https://drive.google.com/file/d/17kt0_LZtZ0eB2ngkIXVKWaGrUc_04HKz/view?usp=sharing)
+
+\-----------------------------------------------------------------------------------------------------------------------------------------
+
+A 10 part series that will clearly explain what is going on with Naked Shorting in Stock Market
+
+[**Resources**](https://www.reddit.com/r/stocks/search?q=flair_name%3A%22Resources%22&amp;restrict_sr=1)
+
+Get your tinfoil hat out, its time to see what you think you want to see but don't really want to. This is perfect for any newbie trying to understand what is going on and how the system has ended up the way it has.
+
+Tl;Dr at end.
+
+There are many great DD's that clearly explain Naked Shorting in 3-4 sentences that we can all agree are great. **However while looking around for DTCC ownership** and after having found [The Oil Drum](http://theoildrum.com/special/archives) (a great archive of oil related information/discussion btw), **Cede and co** which was brought to my attention a month ago. I dismissed it as a conspiracy theory until I saw the post a couple days ago **(credit:** [u/bEAc0n](https://www.reddit.com/u/bEAc0n/)) bringing them up again and I took it seriously for once, which then led me to try and find a website like The Oil Drum but for Shorting.
+
+This website is run by a **dude called Larry with 40 years of WS experience, ex-Goldman Sachs EVP, Board Member, Director of Equities+Income** and so on, he clearly brings up and explains the implications of everything to do with Naked Shorting and how it plays out in the market. You can look around his website but all he really talks about other than the Shorting is Pharmaceuticals/Bio-tech.
+
+I sent him an email and this was his response
+
+&gt;Thanks for the kind words.  
+No problem with your request. Here is the link you should give them.  
+[https://smithonstocks.com/?s=illegal+naked+shorting](https://smithonstocks.com/?s=illegal+naked+shorting) (This is Part 10)  
+If there is any movement formed to take on illegal naked shorting, I would be happy to contribute. I have been consistently frustrated in trying to get media or politicians interested.
+
+**Read part 8 if you want to hear about CEDE and how once a counterfeit share is created it is forever viewed as a legitimate share unless if the company bring all shares back into itself to verify them (basically once counterfeited it exists forever, as a shareholder meet only verifies the shares owned by the ppl who will vote iirc)**
+
+[**Part 1**](https://smithonstocks.com/part-1-in-a-series-of-reports-on-blatant-widespread-stock-manipulation-that-is-enabled-by-illegal-naked-shorting/)**,** [**Part 2**](https://smithonstocks.com/part-2-in-series-on-illegal-naked-shortings-role-in-stock-manipulation-conventional-wisdom-on-how-illegal-short-sales-are-executed/)**,** [**Part 3**](https://smithonstocks.com/part-3-in-series-on-illegal-naked-shortings-role-in-stock-manipulation-prime-brokers-and-the-dtcc-have-a-troubling-monopoly-on-clearing-and-settling-stock-trades/)**,** [**Part 4**](https://smithonstocks.com/part-4-in-series-on-illegal-naked-shortings-role-in-stock-manipulation-who-are-the-key-players/)**,** [**Part 5**](https://smithonstocks.com/part-5-in-series-on-illegal-naked-shortings-role-in-stock-manipulation-traditional-shorting-compared-to-naked-shorting-both-legal-and-illegal/)**,** [**Part 6**](https://smithonstocks.com/part-6-illegal-naked-shorting-the-secs-regulation-sho-is-intended-to-prevent-illegal-naked-shorting-but-is-ineffective/)**,** [**Part 7**](https://smithonstocks.com/part-7-illegal-naked-shorting-dtcc-continuous-net-settlement-and-stock-borrowing-programs-have-loopholes-that-facilitate-illegal-naked-shorting/)**,** [**Part 8**](https://smithonstocks.com/part-8-illegal-naked-shorting-series-who-or-what-is-cede-and-what-role-does-cede-play-in-the-trading-of-stocks/)**,** [**Part 9**](https://smithonstocks.com/part-10-of-illegal-naked-shorting-series-the-risk-reward-of-shorting-versus-buying-stocks-is-extremely-unfavorable/)**,** [**Part 10**](https://smithonstocks.com/part-10-of-illegal-naked-shorting-series-legal-shorting-of-stocks-is-a-losers-game-but-illegal-naked-shorting-transforms-it-into-a-winners-game/)
+
+This is the important part: a quote from Part 8 if you dont want to read the whole series
+
+&gt;**While you may think you are buying registered stock, you are actually buying a financial derivative related to that stock.** **Effectively, you are buying a financial derivative from brokers of a financial derivative they hold from Cede that is just a digital entry in your DTC account.**  
+Cede is at the center of the current, paperless electronic trading system that enables lightning fast trading of large blocks of stock by institutional investors and computers. Unfortunately, the intention  in designing it was to provide liquidity and reduce settlement risk. There is virtually no transparency in the system. Disturbingly, there are loopholes which allow for the counterfeiting of shares by market makers on a massive scale through illegal naked shorting and other measures. **At present, there is no way for an outsider or even the securities industry’s regulator, the SEC, to meaningfully detect and track these counterfeit shares. Once created counterfeit shares go on to be treated the same as legitimate street name shares**
+
+**TL;DR: until the people at the top (aka CEDE and co) are brought into court/subpoenad we will never ever have a truly free financial system, they control everything and it is up to them to decide how and where the stock market goes. Their company valuation is somewhere in the region of $34T as of 2019 IIRC yet it is a private firm??? This means some very big people and organisations are playing a very big game that we are not a part of.**
+
+Edit: apparently people cant bother to even type ""Cede and co"" into the internet. [https://en.wikipedia.org/wiki/Cede\_and\_Company](https://en.wikipedia.org/wiki/Cede_and_Company)",A 10 part series that will clearly explain what is going on with Naked Shorting in Stock Market - Found this on r/stocks and didn't see it posted here.,1.0,1615379104,bradzal
+16,m1wck1,"Noticing Big premarket movement on Express.. what’s going on? Obviously gme crushing too.
+
+Best wishes to ALL Reddit users!  Remember why we all originally came here.. to lift each other’s accounts over the suits..
+
+Together we stronger.  Those in charge need to conquer and divide like they do with race, money, and politics as they get richer and more powerful off our backs..
+
+Don’t let some money and greed change you into them.. prove your not like them. 🚀",Rising tide lifts all boats..,1.0,1615379116,FitClimate2260
+17,m1wct9,,Investing BOSS right here! Yep...that's right...I made over 5 bucks so far.,1.0,1615379143,Psychological_Sir878
+18,m1wcvd,,"GME Up 15% in the Pre-Market, 2 Days In A Row 🚀🚀",1.0,1615379150,GrahamCarey1
+19,m1wd32,,Was cleaning out my toilet and needed a bag so I pull the first bag I can grab and...🚀🚀🚀,1.0,1615379173,Snazzy-_-
+20,m1wd96,[removed],DIAMOND HANDS RETARDED APES TO MOON!!!,1.0,1615379192,jumpall44
+21,m1wdrb,[removed],I'm going to short GME you f***king ret**ds. But I'm down to hear some ideas for other stuff to buy.,1.0,1615379243,oj47dG
+22,m1wdrk,,HUMANITY RESTORED,1.0,1615379244,4623897
+23,m1we8b,,Soon apes,1.0,1615379292,Blazeitbro69420
+24,m1we9w,[removed],RKT??,1.0,1615379297,crickinyourneck
+25,m1wef7,,HUMANITY RESTORED,1.0,1615379313,4623897
+26,m1wei6,,🐒🚀📝🎯,1.0,1615379317,GME_Zodiac
+27,m1wei9,[removed],$GME 300 PRE?,1.0,1615379318,highfrequencymustard
+28,m1wek9,,HUMANITY RESTORED,1.0,1615379321,4623897
+29,m1wen6,,POV: you're a hedge fund stuck underneath GME as it lifts off,1.0,1615379329,whoareyouletmein
+30,m1wepi,,"If he’s still in, I’m still in",1.0,1615379336,StygianFuhrer
+31,m1wf0u,,I DON'T POST OFTEN BUT I HAVE COME TO SHOW MY SUPPORT. APES TOGETHER STRONG.,1.0,1615379367,yachtornah
+32,m1wfro,,Oxy stock how you fill about it looks like to go🚀🚀🚀🚀🚀🚀🚀🚀,1.0,1615379442,Infamous-Wrangler-51
+33,m1wg93,,Mom wants to be an ape like us 🤲🏻💎🦍🚀 welcome aboard!!! *i hope someone brought some extra crayons for her*,1.0,1615379492,WhoFroDatHamAtMe
+34,m1wg9j,,Too late to jump in?,1.0,1615379493,OtherwiseTutor1857
+35,m1wgc8,"RBLX opens today..if you have kids or own kids..
+
+This shit is going to hit the fan!",ROBLOX,1.0,1615379499,3-Diamond-Hands
+36,m1wgp2,,Exxon Mobil Corp (NYSE: XOM) Securities Fraud Cass Action Lawsuit Publication,1.0,1615379535,Wsbs_2215
+37,m1wgsz,,HUMANITY RESTORED,1.0,1615379546,4623897
+38,m1wgtx,,In a way we’re all like Forrest and soon we won’t have to worry about money no more,1.0,1615379549,Blazeitbro69420
+39,m1wgxo,,Just some small ape pxrn for us small apes,1.0,1615379561,Kingvonte18
+40,m1wgyr,"Im not very long in trading. WSB for the win I think? What do you think of my portfolio?
+
+https://preview.redd.it/qhpvwce537m61.png?width=968&amp;format=png&amp;auto=webp&amp;s=97e20e85caa255682216610c94b202c03e30e19c",Gains Porn,1.0,1615379564,rCjss
+41,m1wh40,,🚀🚀🚀$$exela 🚀🚀🚀 easy £500 in pre market 🔥🔥🔥 straight in to game. Bought in to game @260 many moons ago and holdddd thanks for coming back for me ape cunts! TO THE 🌒🌒🌒🌙🌒 from England,1.0,1615379582,Any-Toe-9683
+42,m1whfe,,2.6 MILLION more option shares (in black) just went ITM in pre-trade. but take a look at 300... 🤯,1.0,1615379614,ermwhatsmyname
+43,m1whnj,,Oxy up or down what do you think about it ??🚀🚀🚀💰🚀🚀🚀,1.0,1615379639,Infamous-Wrangler-51
+44,m1whq7,,Spanish cryptocoin 2gt live today and a lot of people losing their live savings... can we do something about it?,1.0,1615379647,YeshGM
+45,m1whqp,,This is in front of my bank. It sums up my feeling right now.,1.0,1615379648,aqua995
+46,m1whvy,,Oh hello pre-market,1.0,1615379662,sulestrange
+47,m1wi1r,,Spanish cryptocoin 2gt live today and a lot of people losing their live savings... can we do something about it?,1.0,1615379675,YeshGM
+48,m1wiem,"I am one of those ""Dad's"" whose lives got destroyed by the economic damage done by a..holes on Wall Street. One of the fall outs from the 2008/2009 depression was the complete destruction of my industry. I held on for a few years just from mind numbing hard work (80 hour weeks and no vacations) and a huge dose of creativity. But in the end I was Wily Coyote. I woke up one day and found nothing but air under me and I was done financially and I had lost my health.
+
+I have been rooting for you kids and cheering you on every day. You have no idea how proud I am of your diamond hands and your courage in the face of such overwhelming power. When the dust finally settles on all of this, somewhere near $1000!, our ""masters of the universe"" will know not to ignore the little guy. There are a lot, I mean a hell of a lot of you little guys (and now, thanks to their losses, not so little guys and gals) again.
+
+So from this Dad and I know from many others, thanks kids. This dish has gotten very cold and it has been very good to finally enjoy it.","From a ""Dad"" to all you retarded apes!",1.0,1615379714,AndrewRemillard
+49,m1wivc,[removed],"I'm getting in to investing, any tips?",1.0,1615379762,Racingteamsam
+50,m1wiw1,[removed],FAANG Stocks??,1.0,1615379763,FixFamous7055
+51,m1wiwq,,Finally picked me up @$280 you beautiful apes!,1.0,1615379765,noosh27
+52,m1wixp,I am happy for every single penny you guys can spare. If anyone wants to help me out please comment. I'm thinking about vloggin it or something. And I will post pictures of the bought GME shares.,"I am owning 2 shares of GME now, started with 0.3 February 1st. I don't have a lot of money and I'm already eating noodles and rice with ketchup til next paycheck. So I thought to try to raise some money by gettin a nice GME or ape tattoo for a few bucks, that I will use to buy more GME!",1.0,1615379767,New-Physics-3761
+53,m1wj59,,"I bought at around 300 and averaged at 240ish, you retards are finally saving me after months of holding, I used my entire student loan so it’s been tough",1.0,1615379787,ryrydaguyguy
+54,m1wjf0,,Fubo to the Moon let's gooo,1.0,1615379815,Wonderful_Bowl_3208
+55,m1wjfp,"RBLX starts trading today! 
+
+If you have kids, own kids, enslave kids... This shit is gona hit the fan! 
+
+1.3 bil 
+
+\~I am not a diamond hand guru, do not take my investment strategy serious!",ROBLOX,1.0,1615379818,Addition_Impressive
+56,m1wju2,,I have no idea what this means.... But it sure looks like a steep hill to climb,1.0,1615379860,Thirsty_Monkey
+57,m1wk9z,"No broken promises here boys, if GME reaches 500 a share I will buy a tesla. I moved to a different state by myself two months ago and im 21 so I know this may seem like an insignificant purchase but itll be my first big one. Wish us luck.",If GME gets to 500 I will buy a tesla,1.0,1615379910,bighoseballin
+58,m1wkb3,"Hi! What do you think about Cellular goods? Rocket with David Beckham?🤣😂🤣😂🚀🚀🚀
+
+https://www.bloomberg.com/news/articles/2021-02-26/beckham-backed-cannabinoid-firm-cellular-goods-soars-in-u-k-ipo",Cellular goods,1.0,1615379914,bsger
+59,m1wkd5,,Finally picked me up 39 GME @$281.50!,1.0,1615379921,noosh27
+60,m1wkfm,,💪💪💪💪💪we cash out at $1000 .. $1000 💪 $1000 remember $1000 💪💪💪💪💪💪,1.0,1615379927,RevolutionaryPoet676
+61,m1wkhr,,UNFI great earnings(+50%EPS) baby wonder who's up rn 🚀🚀🎯💯,1.0,1615379934,Scary-Passenger293
+62,m1wko7,"This stock was heavily shorted from $60 to $26 a few days ago. Even Chamath paper hands, sold the stock and causing to drop. Let's take this to the moon to show him what he is missing out on! Please 🙏",Lets take $SPCE to the Moon 🚀🚀🚀🚀🌕🌕🌕🚀$35 within reach!,1.0,1615379952,jdcl13
+63,m1wktw,,my loss porn 18 days ago vs this morning 😌 yeeeeeeeeeeeeeeeeee!!!!,1.0,1615379968,InsipidGamer
+64,m1wkyv,,Vibe at work while the GME rocket flies,1.0,1615379983,Onboarding92
+65,m1wl0w,"Hy guys lets make the best day for GME lets go to the MOOOOON, this is the best day, lets fuck them, lets show what can we do TOGETHER, HOLD THE LINE!!!!🚀🚀💸💸💲📈📈🔝",GME,0.5,1615379989,stockpumporpump
+66,m1wlap,[removed],Not again,1.0,1615380016,johnteail
+67,m1wlhi,,"I’ll be there all the way until 69,420",1.0,1615380036,Kayache11
+68,m1wm8d,,Some dd from yahoo,1.0,1615380109,SusieWhitwell
+69,m1wmge,,Never in my life did I think I would make over 1K in a single day. Us apes are making dreams come true.,1.0,1615380133,Conscious-Spring3652
+70,m1wmjk,"Can some smart brained ape please explain it to me? 
+
+Just to be clear: I´m with all of you on GME and I hold 65 shares to Valhalla but for now I did set some sell orders on different levels to at least secure some profits.
+
+&amp;#x200B;
+
+If the price actually goes to 50k/100k, how can the hedgies buy back all the shorted stock at that price level? They just can´t, or not? They just don´t have the money for it, or not? What whould that mean? They are forced to excecute at least some of it and then go bankrupt instantly? So at least some apes or long hedgies will get their money but maybe 1-5% and the rest get nothing? What then? Stock is at 100k and nobody is there to buy anymore so it drops to 40 bucks pretty much instantly?
+
+&amp;#x200B;
+
+My limit orders right now (I change them multiple times per day :-D)
+
+15 x 500 - to get my initial investment back
+
+15 x 1k
+
+10 x 5k
+
+5 x  10k
+
+10 x 50k - for the memes
+
+10 x 100k - for the even stronger memes","GME 100k$ is not a meme, or is it?",1.0,1615380141,Robin_Squeeze
+71,m1wmou,[removed],"I am owning 2 shares of GME now, started with 0.3 February 1st. I don't have a lot of money and I'm already eating noodles and rice with ketchup til next paycheck. So I thought to try to raise some money by gettin a nice GME or ape tattoo for a few bucks, that I will use to buy more GME!",1.0,1615380155,New-Physics-3761
+72,m1wmqv,,I like the stock,1.0,1615380161,dualsport650
+73,m1wmse,,I have a limited vocabulary,1.0,1615380166,CTMWood
+74,m1wmzp,"I trade with etrade, im looking at vanguard and it says you can move assets from one trader to them. Is this just monetary or can i move the stocks themselves ?",Changing accounts,1.0,1615380188,Zerofade618
+75,m1wn12,,"SPCE to the moon 🚀🚀🚀🚀🚀🌕🌕🌕🚀🚀🚀! This stock was heavily shorted from 60 to 25, with a non stop selling that lasted a month. Chamath paper hands sold it too. Lets take it to the moon to show him what he is missing out on!",1.0,1615380192,jdcl13
+76,m1wn7r,[removed],Need some advice,1.0,1615380211,Elmartino77
+77,m1wnf8,,"Canadian ape reporting in. Not much, but it's what I can hold.",1.0,1615380229,Combo_Breaker_Denied
+78,m1wnnt,[removed],Inpixon Short volume high,1.0,1615380248,pkays14
+79,m1wnpa,,GME Hype Trailer,1.0,1615380253,misterwieb
+80,m1wnwm,[removed],ROBLOX,1.0,1615380272,3-Diamond-Hands
+81,m1wo6d,[removed],Yalla group,1.0,1615380298,I_Ocelot
+82,m1wojt,,"Note to self, not financial advice.",1.0,1615380334,aroflip
+83,m1wojx,"So I was trying to talk to my kids about how much they look like my wife's boyfriend, but they kept ignoring me because they were on Roblox. So then I tried to get my wife's opinion, but she was at her boyfriend's house, and they were play Roblox too. Turn's out this shit's on the market today for $45 with a market value of $30 billion. I'm going in bitches.",RBLX for $45,1.0,1615380335,EgoDefenseMechanism
+84,m1womj,,HOLDING AMC TILL TO THE MOON🚀🚀🚀,1.0,1615380342,WaveRider_X-52
+85,m1won5,to the moon we hold,gme hold,1.0,1615380344,codmo886
+86,m1wot4,,GME $284 pre-market,1.0,1615380360,kashguy
+87,m1wowd,"Germany and other countries doing their Job. 
+$283 now 16% oder the day. Keep pushing guys. We are raising it slowly now 💪🚀🚀
+HODL and STFU my fellow retards and apes 🦍",To the f...in moon,1.0,1615380369,Adventurous-Will3494
+88,m1wowu,Is it too late to invest in GME? Or shall I put money in,Gme,1.0,1615380370,zino17
+89,m1woyn,,Genuine question. At what point do we sell? $500? $1000? What’s the target?!,1.0,1615380375,yoskees
+90,m1wp6l,,"You beautiful, beautiful retards - I can’t believe what I’m seeing! 🚀📈💎🙌",1.0,1615380395,CaptK4
+91,m1wp78,,"Short Shares Availability just reduced from 1.1Mil. to 350K at fintel.io .....THEY ARE STILL F**** SHORTING, are you serious Melvin &amp; Co. ? HOLD MY DEAR APES, HOOOOLD",1.0,1615380397,Robin_Squeeze
+92,m1wp98,Thoughts? What are your plays when RBLX is available? Ticker is now searchable on almost all trading platforms and today is probably the day.,"So GME, AMC, and.... RBLX?",1.0,1615380401,ohitsjustsean
+93,m1wpb9,,Lol found this in my grandpa’s office,1.0,1615380406,VelvetChicken
+94,m1wpfo,,Wat doin,1.0,1615380416,pinkcatsonacid
+95,m1wpg2,"So I bought a few shares @ 40 and now regret not having bought more. I just went in @ 285 about 2K worth. It would suck to lose it but I’ve missed so many great opportunities already. It may not go up to 100K (hope I’m wrong) but anything above 1K would help immensely. Also, wife my kill me in the next day or so even though she agreed to this.",Just went 2K in,1.0,1615380417,Otakutech2020
+96,m1wpyy,[removed],GMe,1.0,1615380467,TheDiamondApe
+97,m1wq1p,,When you promised you weren't going to check prices pre-market,1.0,1615380475,filyoshi
+98,m1wq1v,,"They made a little typo, fixed it for them.",1.0,1615380475,Ivannwang
+99,m1wq5i,[removed],"Dear Gainstakers, if you don’t donate at least 3% of your win to a good cause (with proof here), you are just as big of a POS as the Hedgies you rant against.",1.0,1615380486,El_Seven

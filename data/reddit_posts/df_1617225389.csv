@@ -1,0 +1,422 @@
+,post_id,text,title,upvote_ratio,date,author
+0,mhfz1n,I am a 14 year old trying to get into stocks. Are there any stocks with good returns that I should be watching? I have been keeping my eye on MSFT and it seems to be performing well as of now.,First Investment,1.0,1617225405,urmomhahahaha
+1,mhfzo5,"Tomorrow  I'm gonna check for MVIS with the possibility of a contract of $21.9  billion for some HoloLens, it could go really high.
+
+They are the supplier of microsoft for the HoloLens
+
+[https://www.bloomberg.com/news/articles/2021-03-31/microsoft-22-billion-u-s-army-deal-for-hololens-moves-forward](https://www.bloomberg.com/news/articles/2021-03-31/microsoft-22-billion-u-s-army-deal-for-hololens-moves-forward)
+
+&amp;#x200B;
+
+Any thought about that move ?",Any thought about MVIS ?,1.0,1617225455,Felires
+2,mhg0kj,"I'm not seeing many short bets here. 
+
+Am I missing them somewhere?
+
+Are short bets not risky enough? FYI up 143% since yesterday on UI puts. Pussy ass me only bought one contract since I've been generally shit at options trading so far.",WSB Only Bulls?,1.0,1617225523,TemporaryNebula1
+3,mhg0nv,"I see a lot of people asking basic questions about calls on just about every thread that mentions them. So here you go.
+
+Note: before the finance majors come out and nitpick small things, remember that this is a basic primer for idiots; some of it has been simplified.
+
+WHAT IS A CALL OPTION: BASICS
+
+A call option (hereafter referred to simply as a ""call"") is a contract that gives you the ability, though not the obligation, to buy 100 shares of a stock for a specific price by a specific date, called the expiration date. Example: You buy a $400 call for GME that expires on March 19th. What that means is that at any time between now and end-of-day on 3/19, you can buy 100 shares of GME for $400. If the price spikes to $700 dollars, you can still buy them for $400. That's a pretty good deal.
+
+So I need the price of GME to get to $400 to break even, and anything above that is profit, right? Not quite. You have to pay a premium for the option, which is the amount of money you're giving to the option seller in exchange for the contract. The premium is listed as the price per share, so if the option has a $2 premium, that means that you have to pay $2 per share of GME in the contract, which means that you pay $200 the buy the call ($2/share x 100 shares). You give the seller $200, and they give you the call option. Since you paid $200 for the option, this means that your break even price is $402 dollars per share. Why? Because if the price only got to $400, you could have bought it for $400/share without buying the contract, which means the money you spend on the contract was a waste. However, if the price goes to $403/share, then you make a profit, because you effectively paid $402/share for a stock worth $403/share.
+
+But what if the price doesn't go up, or even goes down? Do I have to still buy those shares for $400? No. You never have to buy the shares if you don't want to. Remember, a call gives you the ability to buy shares for $400, but not the obligation.
+
+But what if the price of GME goes way up but I don't have $40,000 around to buy 100 shares at $400/share? Then you sell the contract to someone who either does have $40,000 sitting around, or (slightly advanced info here that you don't need to know) to someone who is trying to offset a position. Regardless of who buys it, they will pay you a lot of money for your option because it is ITM, or in the money. What does that mean? Let's look at some option vocabulary.
+
+CALL OPTION VOCABULARY
+
+Strike Price: This is the price that you are allowed to pay for the stock per the contract. In our $400 call option above, the strike price is $400. At any time before the expiration date, you are allowed to exercise the contract the contract and pay $400/share for the stock.
+
+Exercise: Exercising an option means you are exercising your ability to buy the 100 shares of stock. In the example above, you would spend $40,000 for 100 shares of stock regardless of the stock's price at the time. Can I exercise and only buy 20 shares of stock? No. If you can't afford to exercise, then you can sell your option to someone else.
+
+Expiration Date: This is when your call expires. if you have a 3/19 expiration date, that means that your call option is no longer good after 3/19
+
+Premium: The premium is the price you pay to the call-seller for the contract, and it is listed as the price per share. Knowing that, how much will it cost to buy an option with a premium of .25? If you do the math, it will cost you $25, which is .25/share x 100 shares.
+
+ITM and OTM: ""In the Money,"" and ""Out of the Money."" ITM calls are calls for which the stock price has exceeded the strike price. If you have a $400 call, and the price of GME goes to $405, then your call is ITM because you can buy a $405 stock for $400. If you then immediately sold the stock for $405, you'd make money. OTM calls are calls for which the stock price is below the strike price. If you have a $400 call and the price of GME is $350, then your call is OTM. It is important to realize that being ITM doesn't mean being profitable. In the example above of the $400 call with a $2 premium, if GME goes to $401, you are ITM because 401&gt;400, but you haven't broken even yet because your break-even price is $402.
+
+FDs: FD is not an investment term, and you don't need to know what it means in order to understand calls. It is a WSB term, and it stands for maggot's delight (but with an F, because autmod won't let me define FDs). FDs are OTM calls with short expirations, and as such are a huge gamble. The guy who spent 90k on 1dte (1 ""day to expiration"") OTM GME calls? Those were all FDs, and they all expired worthless. Why are they called FDs? Because when you buy FDs, you usually end up taking it in the ass.
+
+WHEN PEOPLE LIST THEIR OPTION POSITIONS, THEY USE A BUNCH OF NUMBERS AND LETTERS THAT I DON'T UNDERSTAND. HOW DO I FIGURE OUT WHAT THEY'RE TALKING ABOUT
+
+You have probably seen something like this: GME $400c 3/19. Let's break it down.
+
+GME $400c 3/19 - The GME stands for Gamestop, which you probably figured out. The $400c is a call option with a strike price of $400. If it said $400p, it would be a put option, but we'll talk about those later. The 3/19 stands for the expiration date.
+
+Now let's make it more complicated. If I said, ""I bought 10 $5 GME $800c 3/19,"" what do I mean?
+
+It means that I bought ten contracts of GME $800 calls with a 3/19 expiration, and I paid $5 per share. If I paid $5 per share, how much did I spend on my contracts? I spent $5,000 ($5/share x 100 shares x 10 contracts).
+
+Now you try it. A $700 call on GME that expires next week costs around seven bucks a share. How would you explain to me that you bought two of them?
+
+You would say that you bought 2 $7 GME $700c 3/19. Now you can look like you know what you're talking about even though you still probably don't.
+
+WHY DO PEOPLE BUY CALL OPTIONS?
+
+This is confusing. Why do people even do this? People buy call options because you can make a lot of money. If you have the right to buy 100 shares of something for a fixed price, then for every $1 the share price goes above your break-even price, you make $100. If you have a $400c with a break even of $402, and the price gets to $412, then you make $1,000 profit. That's $10 of profit ($412-$402) times 100 shares. You can buy the shares and hold them, or you can buy them and sell them immediately to realize that profit. Or you can sell the contract to someone else and just take the money. It is usually better to sell the contract, but that's not an important distinction because most of you can't afford to exercise anyway, and will be selling contracts.
+
+WHY ARE CALLS DANGEROUS?
+
+When you buy a stock, at least you own the stock. If you buy an option and it expires worthless, then you have nothing. If the guy who bought 90k worth of FDs had bought 90k worth of GME and held, then he'd still have somewhere around 90k worth of GME, +/- 5% depending on when he bought on Thursday. Instead, he has nothing.
+
+WHY DOES THE VALUE OF MY CALL KEEP CHANGING
+
+So you bought a call option, and every time you look at it it's worth a different amount of money. That's because there are actually two types of value in an option: options have Intrinsic Value, and Extrinsic Value.
+
+Intrinsic Value is the exercisable value of the option, If you own a $400c, and the price is $412, then the intrinsic value of the option is $12/share, or $1200, because that's the value you would get if you exercised it right now. as stock price goes up, intrinsic value goes up. Pretty easy.
+
+Extrinsic Value has a more complicated definition, so we're going to call Extrinsic Value the potential the option has, and that potential is based on time and volatility. For example, if there is a long time before expiration, then that means that there is more potential for the option to go ITM, because more time = more chances for the price to rise. Therefore, options further from expiration will be worth more than options close to expiration. Conversely, less time to expiration = less value, which means that your option can constantly lose value as time goes on and the number of chances you have to go ITM decreases. This is called theta decay, but you don't need to worry about that.
+
+Volatility is the second part of extrinsic value, and options for stocks that are more volatile can be worth more than options for stocks that trade steadily, because if a stock price swings wildly up and down, there's a greater chance that one of those upswings will put you ITM. This is reflected in a measurement called IV, or Implied Volatility. Like Theta Decay, IV is a more advanced concept that you don't need to understand now as long as you get the basics.
+
+Due to the factors of time (theta) and volatility (IV) constantly changing, the extrinsic value of your option will also change over time. This is why the value of your option will constantly change. Is the stock calming down and starting to trade sideways (low volatility)? Your option value will decrease as IV drops. Is the stock starting to jump around? Your option value will increase as IV increases.
+
+Sometimes the stock price can be climbing slowly but the value of your option can be decreasing. Why do you think that is? If the stock value is increasing slowly, but you're way OTM and running out of time because your option expires tomorrow, the downward price pressure of theta decay can overcome the upward price pressure of volatility and stock price rise, and your option value can decrease.
+
+
+I BOUGHT A CALL AND I'M ITM! HOW/WHEN DO I SELL MY CONTRACTS
+
+You can sell your contracts at any time. You don't have to wait until the expiration to sell your contracts. This is good, because if the price spikes, you can dump your options for profit and move on. There was a point yesterday when 90k FD guy's 275 and 285 calls were ITM when GME spiked to 290. If he had sold then, he wouldn't have lost everything by waiting until expiration.
+
+I BOUGHT A CALL AND I'M ITM! HOW/WHEN DO I EXERCISE MY CONTRACTS
+
+Make sure that you have enough money to cover buying all the shares and click the exercise button. They get your money, and you get their shares. This can take some time.
+
+OK. I GET IT. BUT CAN YOU GIVE ME A TL:DR JUST IN CASE I ACTUALLY DON'T GET IT
+
+A call option is a contract to buy 100 shares of a stock at a certain price. To buy the contract, you pay a premium to the contract seller. If the price of the stock goes above the price of your contract, you can either buy the shares or sell the contract for profit.
+
+The End.
+
+SO I'M AN EXPERT NOW AND CAN GO YOLO EVERYTHING ON CALLS AND MAKE MONEY?
+
+No. You have a basic understanding of how calls work and know just enough to be dangerous. Don't go crazy. Buy a call. See how it works for real. Don't YOLO your life savings on your newfound knowledge. Or do. Live your life how you want; I'm not your dad. Just make sure you post the porn when you win or lose.","I see a lot of people wanted to follow up on this, so I am reposting and hoping the original author doesn't mind. This is an options beginner.",1.0,1617225531,kakalaka
+4,mhg0o6,[removed],"Everyday that passes the squeeze gets closer, don’t forget we’re not like the hedgies",1.0,1617225531,IDontKnowMierda
+5,mhg19z,,What... the WSB logo is now being used at anti-COVID protests in the Netherlands,1.0,1617225583,Heparanase
+6,mhg22o,,"Those of you wondering what are the best stocks to watch for SHORT SQUEEZE, (GME &amp; AMC OF COURSE)here is a small list of the best of the heaviest shorted! 😎🚀🚀 GOOD LUCK APES!!!",1.0,1617225647,Jrenzine
+7,mhg2cq,"Longer time to maturity means more risk which demands more reward but why isn’t this represented linearly. All the pictures of the upward sloping yield curve are steep at beginning and levels off at longer maturities? Please help I can’t find a clear answer to this. Ever time I ask the question about the curve shape I get because “longer ytm means more risk which demands a higher yield”
+
+I just want to know the reason for curve shape over a line. Is it law of diminishing returns? Is it on a log scale? Is it because more difficult to know the yield on longer dated maturities?",Why is the yield curve a curve and not linear?,1.0,1617225670,wilkeniso
+8,mhg2uk,[removed],Webull contest don't judge me!,1.0,1617225709,edwardvedder10
+9,mhg3b7,,"Ideanomics, Inc. Reports Full Year 2020 Financial Results",1.0,1617225747,Historical-Ad2922
+10,mhg4rt,"This is remarkable -WoW - go alphaC
+
+Guys, can you imagine how you feel as an HF employee seeing, with access to corrupt real data of there shorts, the new age waving to you. WoW !!!
+
+As an HF employee I would wonder if I am on the right page. I think half of this gentlemen already think about transformation ore even more real, the got already shares on the g + m + e or / and a + m ... something. 
+
+Some of them just do not imagine the new reality. You can not win against millions of apes. Just imagine a battle to hook a super carrier. If millions enter the line, no chance at all. Shown in a lot of VC examples from you apes. 
+
+I guess some of the good HF employees already moved to the ape wave., buying shares in the nighttime and go short daytime. Good ! 
+Going to the moon and move beyond. Alpha Centauri is the next Galaxy to us. 
+
+So, AC (Alpha Centauri) 🚀🚀🚀🚀🚀🚀🚀🚀🚀🎢🎢🎢🎢🎢🚀🚀🚀🚀🎢🎢  
+
+Go AC. Hold and enjoy. 
+
+See you around Alpha Centauri",The Ape Wave against HF employees,1.0,1617225864,PakStefan
+11,mhg514,,What the hell happened to the DOW?,1.0,1617225886,Careful_Infinity
+12,mhg59w,[removed],$PSFE (Paysafe) the most undervalued fintech play on the market. Popular analyst Steve Grasso has been calling for $45 for a while and yesterday Jim Cramer hopped aboard the hype train. Look at the Valuations compared to its peers below and decide for yourself.,1.0,1617225905,ticklemypicklesir
+13,mhg6ht,"[https://ir.globalselfstorage.us/news-events/press-releases/detail/111/global-self-storage-reports-fourth-quarter-and-full-year](https://ir.globalselfstorage.us/news-events/press-releases/detail/111/global-self-storage-reports-fourth-quarter-and-full-year)
+
+SELF",Self Global self storage,1.0,1617226004,eric2050
+14,mhg6v6,[removed],(UAVS) Ag Eagle Aerial Systems,1.0,1617226036,Saintslaps
+15,mhg6yu,"[https://twitter.com/PlugIntoPaysafe/status/1377363004375846915?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet](https://twitter.com/PlugIntoPaysafe/status/1377363004375846915?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)
+
+&amp;#x200B;
+
+https://preview.redd.it/mb836g4dlfq61.jpg?width=522&amp;format=pjpg&amp;auto=webp&amp;s=3b68ad8b6d2197604d7552c656a824c16d1238cb",PSFE tweets themselves ringing the NYSE closing bell today,1.0,1617226044,stole_ur_username
+16,mhg73l,,Typical Goldman Sachs,1.0,1617226055,scwizard
+17,mhg7ai," Greetings, my fellow degenerates.
+
+Last week, I posted my first ever DD on MVIS. You can read it here: [https://new.reddit.com/r/wallstreetbets/comments/me3f3r/zerog34rs\_friday\_dd\_mvis/](https://new.reddit.com/r/wallstreetbets/comments/me3f3r/zerog34rs_friday_dd_mvis/)
+
+If you missed it, today MVIS took flight as it pulled 50%ish on the day. It took liftoff at the start of power hour and, after 20 glorious minutes, began the trend sideways to eventually close at $18.55 (up from sub-$14.00).
+
+**Why did this happen?**
+
+Well, Microsoft won a contract with the U.S. Army for augmented-reality headsets, worth up to $21.9 B over 10 years: [https://www.cnbc.com/2021/03/31/microsoft-wins-contract-to-make-modified-hololens-for-us-army.html](https://www.cnbc.com/2021/03/31/microsoft-wins-contract-to-make-modified-hololens-for-us-army.html)
+
+I believe, as I explain in my DD, MVIS is going to continue it's rise all throughout 2021. I have different price targets depending on scenarios but for the short-term, I believe MVIS will hit $29 by end of the month (APR).
+
+**How will it get there? What's new this past week besides the spike?**
+
+1. MVIS is going to be showing off their LiDAR in an APR demo. They were still on track to meet their goals during their last report.
+2. Biden Infrastructure Plan - Building a national EV charging system, promoting vehicle exchanges from less efficient gas-powered cars to full EV or hybrid EVs. EVs and autonomous vehicles go hand-in-hand so this plan is great for MVIS as well.
+3. MORE job openings (up to 17 now thus confirming my claim last week that hiring would ramp up): [http://www.microvision.com/current-openings/?p=job%2FoTo4efwj](http://www.microvision.com/current-openings/?p=job%2FoTo4efwj)
+4. Buyout possibility still on the table from a T1 tech company that *may or may not* already be invested in MVIS tech (RE: MVIS DD)
+5. MVIS dropped hard with the NASDAQ dumping last week but as of today is the BEST recovery stock impacted
+6. Short-interest is still a factor with &gt;1 day to cover:
+
+Short Volume Ratio: 13% (down from 30% last week) - [https://fintel.io/ss/us/mvis](https://fintel.io/ss/us/mvis)
+
+% of Volume Shorted as of Mar. 30: 33.46% (down from 64.98% last week) - [https://www.nakedshortreport.com/company/MVIS](https://www.nakedshortreport.com/company/MVIS)
+
+% of Shares Shorted: 15.32% (up from 12.64% last week) - [https://www.marketbeat.com/stocks/NASDAQ/MVIS/short-interest/](https://www.marketbeat.com/stocks/NASDAQ/MVIS/short-interest/)
+
+Summary Quote: [https://shortsqueeze.com/?symbol=MVIS&amp;submit=Short+Quote](https://shortsqueeze.com/?symbol=MVIS&amp;submit=Short+Quote)
+
+There are excellent long and short-term opportunities to play here. So for those feeling the FOMO, I believe there's still plenty of time to get in even if the sub-$14.00 bargain price is gone.
+
+**Positions**
+
+* Shares - 600 @ 14.46 (up from 100 at $13.33)
+* Options - Closed my contracts today during the run, will be reopening positions when I calibrate my goals tomorrow
+
+**Disclaimer**: I am not a financial advisor. None of what I say should ever be construed as financial advice. I am an information worker by trade - I share information that I gather with others for entertainment and educational purposes. I strongly encourage you to do your own due diligence and make your own financial decisions.",MVIS Update + Upcoming Events,1.0,1617226070,ZeroG34R
+18,mhg7sc,[removed],Go to the AMC movies today,1.0,1617226111,DisastrousVanilla544
+19,mhg7te,I heard Medmen may be in discussions with Tilray. Is theee any truth to this?    That would be huge for both companies.  Hope it’s true.,Is There any truth to Tilray &amp; Medmen Rumors.,1.0,1617226113,One-Gazelle-83
+20,mhg8d5,[removed],$PSFE (Paysafe) the most undervalued fintech play on the market. Popular analyst Steve Grasso has been calling for $45 for a while and yesterday Jim Cramer hopped aboard the hype train. Look at the Valuations compared to its peers below and decide for yourself.,1.0,1617226156,ticklemypicklesir
+21,mhg8qo,[removed],You need to prepare in case GME goes too high and the shorts take the entire game down with them.,1.0,1617226190,Bluenose13
+22,mhg8sd,[removed],Digibyte - The New Frontier of Blockchain (DBG),1.0,1617226193,11son-Trader
+23,mhg8w6,,💵🚀🔥SOS🔥🚀No financial advice,1.0,1617226201,lucianosocrates76
+24,mhg8zu,[removed],$PSFE (Paysafe) the most undervalued fintech play on the market. Popular analyst Steve Grasso has been calling for $45 for a while and yesterday Jim Cramer hopped aboard the hype train. Look at the Valuations compared to its peers below and decide for yourself.,1.0,1617226209,ticklemypicklesir
+25,mhg9cz,,"I like the stock, started trading 3 months ago and I’m all in",1.0,1617226241,ExtreemVin
+26,mhgah5,,All of Us Apes are Michael the Wizard from Price is Right,1.0,1617226335,GroundbreakingTop636
+27,mhgb5f,"I'm still a relatively new lurker (who joined last year March) and still remember when Tanker gang was prevalent.  I've also learnt of legends like GUH and Ornamental Gourd futures man.
+
+But that made me think: We have absolute legends in losses like these, but surely there must've been people who have been EXTREMELY successful (like DFV) on WSB.  
+
+So if the old, knowledgeable apes could give me a history lesson on that, I'd be damn grateful!
+I will just sit here patiently and continue to eat my crayons.",Who were the most successful Traders on this sub?,1.0,1617226391,HanzoSK
+28,mhgbmv,,Matt McCall sounds like a real fuck 🤡🚀🚀,1.0,1617226434,dabo1795
+29,mhgbnb,"🙌🏼💎🦍🚀🌕
+
+TL;DR  any helpful resources of any kind are welcome!
+
+
+was curious if anyone could share any recommendations on books, articles, newspapers, magazines, web articlesor YouTube links on what you’ve found most helpful when it comes to investing, from beginner-expert.
+
+I understand this post may get lost due to the heavy traffic. And that this may have already been posted before...but, nothing wrong with getting an updated take. 
+
+I’ve been a long time lerker. And I  have dabbled a bit in investing, but with no knowledge of what I’m doing. And I’m ready to dive fully in. I do have some books and podcasts and YouTube channels that I’m invested in. Currently digging in to technical analysis myself, but wouldn’t mind more resources. I’m not asking you to do the work for me; just point me in the direction of things that have helped you along the way??
+
+🙌🏼💎🦍🚀🌕",Useful resources,1.0,1617226435,nbrendon
+30,mhgbud," 
+
+A few weeks ago i stumbled upon this company which excavates metals in Quebec, at the moment they are drilling sample holes in their soil to figure out where exactly they wish to start excavating. Yesterday they posted their drilling results so far which were quite promising.
+
+Another interesting thing about this company is its ticker, i have absolutely no idea who gave them the permission to list stocks under that name, eitherway, it is in my opinion an interesting way to attract investors. As of now nearly 23% of their shares are held by institutions
+
+**New Adrian Zone Assay Highlights**
+
+* **CL21-89:** **78.4** **grams per tonne (g/t) Au over 3.0 metres** **(m), including** **313.0 g/t Au over 0.5m, and** **147.0 g/t Au over 0.5m, at a vertical depth of 164m below surface**
+* **CL21-92: Significant VG present at 301m below surface; this represents the furthest northeast intersection to date**
+
+**New GMZ North Veins Assay Highlights**
+
+* **CL21-84:** **3.0** **g/t Au over 15.5m, including** **64.6 g/t Au over 0.5m** **(VG) at 188m below surface; located 35m east of hole CL20-50 (4.8 g/t Au over 34.0m)**
+* **CL21-51:** **9.0** **g/t Au over 7.4m, including** **20.3 g/t Au over 1.5m, and** **19.9 g/t Au over 1.5m,** **located 79m west of hole CL20-50 (4.8 g/t Au over 34.0m); plus** **70.3** **g/t Au over 1.5m, including** **104.2 g/t Au over 1.0m; plus** **7.2** **g/t Au over 1.5m,** **(new veins)** **starting at respective vertical depths of 165m, 372m, and 385m below surface**
+* **CL21-52:** **1.3** **g/t Au over 41.5m, including** **4.7 g/t Au over 6.0m, and 5.7 g/t Au over 0.5m, starting at 193m below surface**
+* **CL21-53:** **3.0** **g/t Au over 30.5m, including** **26.5 g/t Au over 3.0m, plus 0.8** **g/t Au over 17.0m, starting at respective vertical depths of 50m, and 115m below surface**
+* **CL21-55:** **2.2** **g/t Au over 9.0m, including 5.3 g/t Au over 1.15m, starting at a vertical depth of 71m, below surface**
+* **CL21-49:** **2.1** **g/t Au over 7.5m, starting at 198m below surface**
+* **CL21-63:** **2.9** **g/t Au over 7.75m, including 7.9 g/t Au over 1.0m, and 8.0 g/t Au over 1.0m; plus** **1.6** **g/t Au over 12.0m, including 7.1 g/t Au over 1.5m, starting at respective vertical depths of 127m, and 43m below surface**
+* **CL21-64:** **1.7** **g/t Au over 13.8m, including** **14.6 g/t Au over 0.85m; plus** **29.9** **g/t Au over 0.85m; plus 1.1 g/t Au over 10.7m, starting at respective vertical depths of 150m, 175m, and 182m below surface**
+* **\*\*Hole CL-81:** **24.3 g/t Au over 6.55m, (previously reported** **33.7 g/t Au over 4.7m), including** **60.7 g/t Au over 2.15m, which includes** **89.6 g/t Au over 0.5m, starting at a vertical depth of 169m**
+
+https://preview.redd.it/vrwbo41vmfq61.png?width=1453&amp;format=png&amp;auto=webp&amp;s=be5da9c625162ab21e806dd9078fcfbcecd19678",Galway Metals $GAYMF,1.0,1617226452,Bm-Master
+31,mhgbyq,,I decided to go all in on my remaining spaghetti and saw some incredible gains about 15 minutes later. YOLO!,1.0,1617226461,dittnamn
+32,mhgbyr,"My fellow apes,
+We have another opportunity coming upon us. Shorts in ticker HCMC are about 400% from what I’ve seen with my dd. HCMC is a MEGA penny stock, not even at 1 cent. LETS GET ON IT AND GO FOR ALL THE TENDIES 🔥🔥🔥",HCMC Short,1.0,1617226461,Hzivrrt
+33,mhgcuk,"[https://twitter.com/PlugIntoPaysafe/status/1377363004375846915](https://twitter.com/PlugIntoPaysafe/status/1377363004375846915)
+
+&amp;#x200B;
+
+https://preview.redd.it/gpmwnkl6nfq61.jpg?width=522&amp;format=pjpg&amp;auto=webp&amp;s=e4516a3f9fb7dcdcbc45adf6872c772ad2438a33",PSFE tweet of them ringing the closing bell today,1.0,1617226538,stole_ur_username
+34,mhgcuq,[removed],Everyone needs to prepare in case GME moons so high that the shorts take down the entire market with them.,1.0,1617226538,Bluenose13
+35,mhgcvl,,"Tron Coin, Guys this shit will raise up to 1$ by your will 🙌🏽🙌🏽🙌🏽",1.0,1617226540,BobSan-
+36,mhgdap,"&amp;#x200B;
+
+*Processing video fc0p6cfxjfq61...*",when ur Wallstreetbets friend calls,1.0,1617226577,myroommatethe
+37,mhgdmx,"In a few years when OILCF is crushing $20, you retarded monkeys are going to hail this smooth brained crayon eater for having it all figured out. I’m so deep in there, balls deep, and you should be too. Disclaimer I’m a crayon eating retarded ape so this is not advice. Now back to the advice; these assholes weathered the bullshit like we all did with Covid. Plus a 2 year cash burn to get to scale, low barrel prices, and through all of that have made strategic moves to grow conscientiously. Next Stop...... Moon Rocks Bitches!!! Buy now! Buy Low! Go to the moon with this retard 🤪🚀🌕",OILCF,1.0,1617226603,PuzzleheadedTangelo8
+38,mhgdzb,,"Tron Coin, Guys this shit will raise up to 1$ by your will 🙌🏽🙌🏽🙌🏽",1.0,1617226631,BobSan-
+39,mhge3b,,This ape doesn't know much other than buy and HODL til we have all the bananas,1.0,1617226641,needleszja
+40,mhgea2,[removed],$PSFE (Paysafe) the most undervalued fintech play on the market. Popular analyst Steve Grasso has been calling for $45 for a while and yesterday Jim Cramer hopped aboard the hype train. Look at the Valuations compared to its peers below and decide for yourself.,1.0,1617226657,ticklemypicklesir
+41,mhgecl,,Another really skinny volume day,1.0,1617226663,Mr_Jed_Clampett
+42,mhgekb,,$MVIS YOLO,0.99,1617226679,smokey_twin
+43,mhgf8b,[removed],Everyone needs to prepare in case GME goes too high and the shorts take the entire game down with them.,1.0,1617226737,Bluenose13
+44,mhgfa2,"&amp;#x200B;
+
+https://preview.redd.it/8z935jntnfq61.jpg?width=578&amp;format=pjpg&amp;auto=webp&amp;s=73f9ac6706f97a91a202d007534741d3844a6a5d
+
+[https://twitter.com/PlugIntoPaysafe/status/1377363004375846915](https://twitter.com/PlugIntoPaysafe/status/1377363004375846915)",PSFE tweet of them ringing the closing bell at NYSE today,1.0,1617226741,stole_ur_username
+45,mhgfcw,,First all electric full size pickup coming to market soon,1.0,1617226748,Northeastlocal
+46,mhgfez,,GME YOLO month-end update — Mar 2021,1.0,1617226752,Onboarding92
+47,mhgffg,,DD: Gamestop Price Analysis -- still a Deep Fucking Value under $550,1.0,1617226753,Onboarding92
+48,mhgfgl,,🚀 ticket punched. It’s literally so easy (and free) to HODL. I wonder how much it costs to keep trying to dive the price down. I wonder which group of people can last longer. I just go do something else and no look at phone until 🚀,1.0,1617226757,Onboarding92
+49,mhgfiw,,"You best start believing in long term holds BB gang, you're in one!",1.0,1617226762,Demiurge__
+50,mhgg6o,,I wear this shit every damn day and HOLD. Now my wife’s boyfriend wants one,1.0,1617226820,jimao993
+51,mhggtp,,The Sacrificial Cramer: Cramer doing WSB AMA (Part 1),1.0,1617226873,FloatNuker
+52,mhgi2h,,Robinhood suspicious timing for “Scheduled Maintenance”,1.0,1617226975,andrew_ex
+53,mhgiu2,"My next bet was going to be GME but when it's till up to close $200 gone wrong but there is other players in the market, 
+
+$CTRM (current price 0.76)
+
+https://preview.redd.it/9kq2rdjgofq61.png?width=841&amp;format=png&amp;auto=webp&amp;s=9d6f23fb576342932d74c937186b31bb14e261f2
+
+And recently we have seen a small spike in the short amount may be leading up to short squeeze incoming. 
+
+https://preview.redd.it/dcv3knykofq61.png?width=672&amp;format=png&amp;auto=webp&amp;s=e78ed0616a2f58be983e5a27a527cfd735c461d1
+
+I'm not a financial advisor ""I just like the stock""","$CTRM Short volume of 13,522,829 shares out of 36,957,000 May be a short squeeze incoming!!!",1.0,1617227045,madsforrell
+54,mhgj12,,"Note to self day #15, not financial advice",1.0,1617227062,aroflip
+55,mhgjzb,,$GME just saying,1.0,1617227138,Apeguru123
+56,mhgkfx,"DOW volume today. 3.5 trillion in transactions(420 million volume). Highest DOW has been in 5 years (before today) was 40 million volume 
+
+https://preview.redd.it/9zvnt5tcofq61.png?width=645&amp;format=png&amp;auto=webp&amp;s=db5bd5d608bdc66ef9ea84038719118c0aa30aaa
+
+The alpha volume was so ridiculous it left its chart to keep going and penetrate the top one on yahoo
+
+&amp;#x200B;
+
+https://preview.redd.it/f7srah9snfq61.png?width=875&amp;format=png&amp;auto=webp&amp;s=41506b98c84ba1d7f0ba03138fcf5f60980aa510
+
+After hours theres just been another whole (average) days volume in the Cramer Jones 30 
+
+https://preview.redd.it/e7bu1twbofq61.png?width=934&amp;format=png&amp;auto=webp&amp;s=46cecf542eed53c18141afe064d00fbfd2f2c1fc
+
+if you can't count - 414m in first picture
+
+418m in second
+
+418m - 414m is 4m - source google
+
+&amp;#x200B;
+
+https://preview.redd.it/vr8ew5xvofq61.png?width=668&amp;format=png&amp;auto=webp&amp;s=60ffec0b36460466594b9af7581eed1d3b15670f
+
+&amp;#x200B;
+
+If this the covid rug pull at last? Is this last years quad witching at last? Is it Gourd Futures? 
+
+Or is this SLR prepartaion H, liqudiating a mass of shit to get those resrves in place before Papa Powell comes a knocking.  
+
+
+for real what the fuck is this shit?",What the fuck just happened at the close of Boomer Jones 30 (3.5 trillion in transactions),1.0,1617227175,moonski
+57,mhgl3b,[removed],"$SLV is toxic waste, sell NOW. Break the most fraudulent market ever. BUY $PSLV!!! (huge difference as Donald would say)",1.0,1617227225,SnooGadgets5017
+58,mhgl3f,,Thank you Miley!!! We are living in a simulation,1.0,1617227225,E-ntertainment720
+59,mhgm67,"Derrick Soo lost everything in a flash in 2008. His former job was a classified government contractor for the Department of Defense. In 2007, he was forced into retirement after developing health problems as a result of his work. He went from sailing yachts to living on the streets of Oakland in a matter of months. He began cleaning up trash and organizing a functional community of homeless people, gianing support from the local government. He is now running for Mayor of Oakland in 2022. The infinite wisdom of the YouseTube algorithm saw fit to bestow unto me an amazing interview with him, and I am bringing it here to the attention of you fine ladies and gentleman for your viewing pleasure and consideration. I will leave the link in the comments as YouseToob videos aren't alliwed in posts right now for some reason. Beliw is the link to his mayoral campaign.
+
+https://m.facebook.com/975183006011778/",Meet Derrick Soo former multimillionaire who lost everything in the 2008 crash and is now homeless. He's running for mayor of Oakland in 2022.,1.0,1617227312,Analoghogdog
+60,mhgmcp,,Robinhood suspicious timing for “Scheduled Maintenance”,1.0,1617227327,andrew_ex
+61,mhgmi7,,$RKDA financial snapshot,1.0,1617227340,Miccolus
+62,mhgmm9,"Is CIDM held too much down !? 
+
+ [Naked Short Report, Nasdaq and NYSE Naked Short Positions, Short Selling Interest](https://www.nakedshortreport.com/company/CIDM)",CIDM average daily short volume above 50%,1.0,1617227348,Christianitten
+63,mhgmmg,"Pro forma FDSO of 380M, implying a $2.4B market cap at a $6.20 share price. Management guiding to $500M+ of revenue in 2021 and $100M+ adj. EBITDA WITHOUT underwriting recreational sales from New York and Virginia, where they are poised to be the #1 operator in the former and the $2 operator in the latter. 2020 revenues were up 234% YoY and the margins are steadily improving. Consider their two NYC locations: 14th &amp; 3rd and Brooklyn. Curaleaf, the largest MSO trading many turns of revenue higher, is located in Queens and Long Island. There is no other MSO better exposed to NYC.
+
+&amp;#x200B;
+
+I am expecting $1B+ in sales in 2022 and $300M+ in adj. EBITDA. That means the biz. is trading at 2.4x 2022 revenues. If you put TLRY's multiple on this business (\~18x 2022 revenues), it should be trading at $40/share. 
+
+&amp;#x200B;
+
+You can find the investor presentation here: [https://d1io3yog0oux5.cloudfront.net/\_fe270c2c6e3bf48c50a3a306a395bf60/colcare/db/354/2637/pdf/CCHW+Presentation+Q4+2020+\_+vFINAL%282%29.pdf](https://d1io3yog0oux5.cloudfront.net/_fe270c2c6e3bf48c50a3a306a395bf60/colcare/db/354/2637/pdf/CCHW+Presentation+Q4+2020+_+vFINAL%282%29.pdf)
+
+&amp;#x200B;
+
+Disclosure: I am long 20k shares and know this business better than most on the Street. It trades OTC like other MSOs but I expect SAFE banking to pass the Senate and uplisting to occur within the next 18 months. Can discuss this further in the comments.
+
+&amp;#x200B;
+
+Edit: It's not a foreign stock. It's listed on the Toronto NEO under CCHW, but the company is incorporated in the U.S. (founded in New York, actually) and trades on the OTC as CCHWF. Management is American with ex-Goldman and private equity backgrounds. Fidelity doesn't charge me anything to buy shares.",Columbia Care ($CCHWF) is the weed MSO with the greatest exposure to newly legalized New York and Virginia,1.0,1617227349,gyroboros
+64,mhgmmk,Lets celebrate it my fellow apes!,National Crayon Day!,1.0,1617227349,tombob32
+65,mhgmyd,,"For a poor college student currently living in a small Airbnb, making 11 thousand dollars in 30 minutes is pretty god damn amazing. First bought into MVIS because I thought it was funny the stock symbol was almost the same as my long time Reddit name/gamertag, but have since become a true believer",1.0,1617227379,m4vis
+66,mhgnb2,LKCO is about to take off!!!,LKCO to the moon!!! Let’s get it!,1.0,1617227406,jasonb187
+67,mhgnfi,Just thinking out loud here...  does anyone know if it would be possible to create hidden swaps to de-leverage short positions to sneak out of a short squeeze?  (And blame it on Bull Hwang in exchange for many wives?),Bull Hwang Fall Guy?,1.0,1617227417,Environmental-Mind52
+68,mhgnny,"I am not a financial advisor, this is not financial advice. **These are my opinions based on some of the prevailing sentiments regarding certain low cap stocks** that are constantly being pumped on this forum and what I believe are some important risk factors to understand in the coming year(s). 
+
+**(This is not about GME - I like the stock)**
+
+However everyday I come to this forum and see same 5-10 tickers of stocks that I wouldn't touch with a 10ft pole. I see the same old story on every single one of these posts - it looks something like this:
+
+**40% SHORT INTEREST ON (INSERT TICKER) GOING TO THE MOON, SHORT SQUEEZE INCOMING** 
+
+Let me just put this out there. Actual short squeezes are incredibly rare and it takes astounding amounts of retardation for the possibility to exist. And I will admit some people actually do great technical analysis and examine stocks from an unbias perspective and those are not the people I am referring to.
+
+These posts often contain no fundamental analysis of said ticker nor do they even mention anything about what the company actually does. They are blatant pumps for terrible companies that in my opinion shouldn't even exist. The people that post this shit don't disclose their positions in the company, downvote your critiques, and don't provide any real helpful information about the stock. Its all just loosely pieced together technical jargon that doesn't actually mean anything.
+
+What's worse is there are a lot of people who have come here as first time investors and buy into some of these companies. I'm not saying its bad to buy these businesses - but its bad to have them pitched as something that they're not. Please do your own research, often a 1 minute google search can end up saving you thousands of dollars.
+
+**RISK FACTORS MOVING FORWARD - MY BOOMER BEAR THESIS**
+
+While these stocks can often make you a lot of money when you invest properly. They are also exposed to a lot of macro economic risk and can quite literally go tits up overnight. Here are some of the macro economic risks I think people should consider with all their investments in the near term.
+
+1) Jerome Powell can raise interest rates whenever the fuck he wants. If he ""deems"" the recovery is ahead of schedule he will likely do this. You will shit yourself seeing how fast investors yoink their cash out of these low cap speculative companies when the free money disappears. It is my personal belief that many of these growth stocks will go bankrupt or be bought out within a year of rates rising. If you get caught holding the bag you better hope for the latter.
+
+2) Inflation. While the fed says drastic inflation wont be a problem - that only refers to consumer products. INFLATION is already here in so many assets, stocks included. Understand the market has been in the shitter the last few months but somehow all the indexes are around their ATHs. What would normally be considered a penny stock for some reason has a 10B market cap.
+
+3) Autistic debt. The past 12 years interest rates have been near 0, giving businesses and people alike to get cheap and productive loans. But for every good loan there is 5 autistic ones waiting to bankrupt people and businesses as soon as the cash dries up. I'm talking 200k student loans for humanities degrees, loans for vacant commercials real estate, PPP loans for businesses that should have went under anyways, etc. 
+
+I'm not so autistic to tell you when all these risk factors will come into play, but they will happen sooner or later and the last place you want your cash is in these low cap growth stocks. 
+
+So don't buy into the hype without understanding the risks you are taking when buying some of these stocks. **I'm not talking about the apes yoloing their life savings into same day expiry call options - those autists know what they are doing and I applaud their courage.** I'm talking about the Jordan Belfort types here selling you penny stocks on this forum. They don't disclose their positions, downvote any counter arguments, and basically do everything it takes to make their post seem like a legit investment opportunity. While many of these posts are reported and deleted some linger for longer than they should.
+
+Maybe I'm the retarded one, but I just hate the fact the people come here for the first time and leave with a negative opinion about investing because they were deceived. Sorry for being a depressing boomer, hope this helps someone.","The Boomer Bear Thesis, DD &amp; Risk Management",1.0,1617227437,Bannerhoard
+69,mhgnoz,,Can FLDM become a meme stock ?,1.0,1617227440,SDavid457
+70,mhgohh,"During AH today I was watching the Level II data of GME and noticed a sell order with an asking price of $1,000,000.00 from OTCBB. Being a new ape to WSB and to investing in general, I was curious and took a look in to it. From what I can gather it is an electronic quotation service provided by FINRA, and apparently it only deals with selling trade data of certain stocks to those who are subscribed to their service. But my question is: If it is only a data trading service, why would it be showing up on the Level II data like that? Is this somehow their way of extracting data from the stock market? By holding a position, listing an exorbitant sell price of $1,000,000.00 that no one would actually buy, collecting the data, and cancelling the order? I'm just curious and would like to know if that is what it is!","Why was there a sell order, with an asking price of $1,000,000.00, for GME today?",1.0,1617227515,LiggyBoneBones
+71,mhgox7,,GAMESTOP - Good afernoon APES! The time is 2:55 pm PDT!,1.0,1617227548,sewerchicken007
+72,mhgp3r,,Here they go again 🙄,1.0,1617227563,Corns626
+73,mhgpn8,,Don't give up. Thought I'd share it with some friends.,1.0,1617227610,civiksi
+74,mhgppr,,IT’S OUR DAY! Gonna eat the red ones! Won’t be needing them soon!,1.0,1617227617,-DemCheekss
+75,mhgq7t,,Can FLDM become a new meme stock ?,1.0,1617227661,SDavid457
+76,mhgqdl,,Roaring Kitty climbs to the top,1.0,1617227674,Piranhaswarm
+77,mhgqem,,Found Jim Cramer's reddit account,1.0,1617227676,Jabroskiski
+78,mhgqnv,"Hi fellow investors,
+
+I want to break down why the stock is currently floating at high 7$ - Low 8$ right now and also discuss some positive sentiments in the upcoming months. 
+
+1) Let’s start with what’s currently going on. $UWMC has a short interest of %10.72 on a float of 92.5M shares. This is very high for the amount of shares available in the public float. 92.5M \* %10.72 = 9,916,000 shares. 9,991,600 shares times let’s say 8$ your looking at $79,328,000, and that’s if it was shorted at 8$. Total float of 92.5M @ $8 =  $740,000,000. So, with this being in mind, the stock can be considered having quite a high short interest pertaining to the available public float. 
+
+Please refer below (Short Volume %):
+
+https://preview.redd.it/47hctk76nfq61.jpg?width=1242&amp;format=pjpg&amp;auto=webp&amp;s=e9ad19a6761e3469fb2c936f8ae586d1051c57c8
+
+&amp;#x200B;
+
+https://preview.redd.it/0obgafolnfq61.jpg?width=1242&amp;format=pjpg&amp;auto=webp&amp;s=e8dc6ff2153fced2e357e83144133704f19d2963
+
+&amp;#x200B;
+
+https://preview.redd.it/6j1crpnmnfq61.jpg?width=1223&amp;format=pjpg&amp;auto=webp&amp;s=c3170189ba825df731ce562ceb3dadb13f551637
+
+Source: Shortvolume(.)com
+
+2) UWMC announced that they're considering a Senior Notes Offering not to be confused with Senior Debt, of $700,000,000. This is to be used to pay of their MSR and for other corporation purposes. This has both detracted some investors and attracted investors at the same time. Is this a bad thing? Not all, it’s simply a way of raising capital for the company. Think venture capital, inside investors etc. The interest rate would be locked in at %5.5 which is very low and to be paid in 2029. This is actually a smart decision depending on how you look at it to pay off debt owed with a lower and cheaper interest loan. It’s essentially, a senior convertible bond. Prominent start ups and companies expected to have high growth typically use this option as it reduces risk and lowers interest. I mean, I’m not going to go into the nitty gritty of explaining what Senior Notes are, I’m sure someone will in the comments section for those interested. Senior notes are not considered good nor bad. They can be considered bad when a company is sinking like when GM went bankrupt but would be considered good for growing companies such as UWMC who are using it to strengthen their balance sheets and grow their business. Some investors see senior notes and sell out and that is one aspect of the reason for some sell offs. (This is not something to be concerned with at all, personal opinion). The senior note was proposed but has not been finalized in any way. What does this impact to your investment and the stock price? Apart from some people selling out of the stock, it has little affect.
+
+The 3 big factors for the stock price chilling at around high $7 - $8 currently are 1) Current bearish market 2) High short volume % 3) Senior Note announcement/consideration. (Again, this is not a negative thing).
+
+Positive sentiments: Dividends payout in April, will be added to the the Russel 1000 &amp; 3000, if interest/inflation goes up that’s when UWMC or the wholesale channel in general actually makes more profit/revenuw than Refi companies like RKT. So, all this inflation and interest talk going around, this would actually benefit UWMC to my understanding and not go against them. It would actually make them more competitive since wholesalers/brokers provide better rates, that’s not an opinion, it’s a fact. The other biggest factors for positive sentiments is the fact that the stock is extremely undervalued, great fundamentals, and has a solid balance sheet. This isn’t a GME or an AMC, etc. This stock is a completely different play all together and a great hedge in this bearish market; that’s currently on sale at it's current price and provides high dividend payouts of %4.83 or $0.10 per share quarterly.
+
+This is not financial advice, this is just my personal DD on the current price range UWMC is currently trading at. Have faith and patience my fellow investors and put those 💎🖐 to the test. (Disclaimer: Do whatever you want, I'm personally going to 💎🖐 no doubt).
+
+I hope this proves useful to you in some way or another and that you all make a bunch of tendies. 🚀🌔
+
+TL;DR - Stock price is being affected because of the bearish market, short interest and short volume%, and the senior notes offering announcement/consideration.",$UWMC - What's currently going on &amp; updates,1.0,1617227697,ShortChecker
+79,mhgsv2,,Just a funny meme for all you artists,1.0,1617227892,lonedrifter1989
+80,mhgtjh,[removed],"Real person, not a bot",1.0,1617227952,MoneyGrowsOn
+81,mhgtk4,,Matt McCall sounds like a real fuck 🤡🤡🚀🚀💎🙌🏻 https://www.google.com/amp/s/investorplace.com/moneywire/2021/03/stay-far-away-from-gme-stock-madness/amp/,1.0,1617227953,dabo1795
+82,mhgu4c,,Matt McCall sounds like a real fuck 🤡🤡🚀🚀💎🙌🏻,1.0,1617228003,dabo1795
+83,mhgu8f,,"$CLF gains. “If it’s good enough to screenshot, it’s good enough to sell”",1.0,1617228010,heyzeuzz
+84,mhgv1x,,Apes helping apes - or gorillas actually,1.0,1617228075,brak998
+85,mhgvh1,,Don't forgit yer helmut!!!!,1.0,1617228109,HighStaeks
+86,mhgvml,,To the moon.,1.0,1617228122,GabrielleSalonga
+87,mhgvn9,,Found Diamond Hands beer while strolling the liquor store. TO THE MOON🚀,1.0,1617228123,Likemang24
+88,mhgwka,,ITS COMING TO THE MOOON 🚀🚀,1.0,1617228202,Odd_Effort_7843
+89,mhgwup,,ITS HAPPENING 🚀🚀🚀,1.0,1617228227,Odd_Effort_7843
+90,mhgwyq,[removed],Arrrrrgggghhh,1.0,1617228237,JKHoffa
+91,mhgx2a,https://twitter.com/coinmas65394108/status/1377380343372636162?s=21 this is just an example.,Instagram post become more like the news,1.0,1617228246,New_Relative8996
+92,mhgxhk,[removed],Sears Roebuck? SHLDQ,1.0,1617228281,lexcon81
+93,mhgy8k,,Don’t mind the other charts.,1.0,1617228342,UnforgettableSir
+94,mhgyfn,[removed],UAVS TICKER SYMBOL,1.0,1617228359,Able-Consideration18
+95,mhgyt9,[removed],CTRM me in ?!? Who knows anymore. Lol,1.0,1617228391,No_Mercy_to_shorts
+96,mhgzda,[removed],Ilus,1.0,1617228441,richbuton
+97,mhh0pt,Why was the volume 418mil today?,DJI,1.0,1617228552,Aromatic-Watercress1
+98,mhh29c,,DONT PU.MP GAS ON APRIL 15TH,1.0,1617228678,Wil-I-
+99,mhh3dw,,NBA ticket 💯✔️,1.0,1617228768,24sportsforecasts
