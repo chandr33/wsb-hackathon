@@ -8,7 +8,9 @@ from datetime import datetime
 
 PROJECT_PATH= os.path.dirname(os.getcwd())
 POSTS_PATH = 'data/reddit_posts'
-DATA_PATH = os.path.join(PROJECT_PATH, POSTS_PATH)
+COMMENTS_PATH = 'data/reddit_comments'
+POSTS_DATA_PATH = os.path.join(PROJECT_PATH, POSTS_PATH)
+COMMENTS_DATA_PATH = os.path.join(PROJECT_PATH, COMMENTS_PATH)
 
 
 def get_posts():
@@ -33,7 +35,7 @@ def get_posts():
                 posts_list.append(post_item)
             post_df = pd.DataFrame(posts_list)
             filename = f"df_{str(start)}.csv"
-            filepath = os.path.join(DATA_PATH, filename)
+            filepath = os.path.join(POSTS_DATA_PATH, filename)
             post_df.to_csv(filepath)
             last_post = posts[-1]
             start = last_post['created_utc']
@@ -42,9 +44,9 @@ def get_posts():
             print(res, start, e, len(posts))
 
 
-def get_df():
+def get_posts_df():
     pd.set_option('display.max_columns', None)
-    all_files = glob.glob(DATA_PATH + "/*.csv")
+    all_files = glob.glob(POSTS_DATA_PATH + "/*.csv")
 
     dfs = []
 
@@ -59,19 +61,52 @@ def get_df():
     filtered_df.set_index('date', inplace=True)
     final_df = filtered_df.drop(filtered_df.columns[0], axis=1)
     final_df = final_df.sort_index()
-    final_df.to_csv('posts_df.csv')
+    path = os.path.join(os.path.join(PROJECT_PATH, 'data'), 'posts_df.csv')
+    final_df.to_csv(path)
 
 
-def get_comments():
-    # TODO - Get comments
-    url = F"https://api.pushshift.io/reddit/search/comment/?subreddit=wallstreetbets&id=lw72rs&sort=asc&sort_type=created_utc&size=100"
-    res = re.get(url)
-    comments = json.loads(res.text)['data']
-    print(len(comments))
-    for k, v in comments[-1].items():
-        print(f"{k} -> {v}")
-    pass
+def get_posts_list():
+    path = os.path.join(os.path.join(PROJECT_PATH, 'data'), 'posts_df.csv')
+    df = pd.read_csv(path, index_col='date', parse_dates=True)
+    posts = df['post_id'].tolist()
+    return posts
+
+
+def get_comments(post_ids):
+    for post_id in post_ids:
+        start = 1614556800
+        end = 1617235199
+        res = None
+        comments = None
+        while start < end:
+            url = F"https://api.pushshift.io/reddit/search/comment/?link_id={post_id}&sort=asc&sort_type=created_utc&user_removed=False&mod_removed=False&after={start}&is_video=False&size=100"
+            try:
+                res = re.get(url)
+                comments = json.loads(res.text)['data']
+                if len(comments) == 0:
+                    break
+                comment_list = []
+                for comment in comments:
+                    comment_id = comment["id"] if "id" in comment.keys() else None
+                    text = comment["body"] if "body" in comment.keys() else None
+                    date = comment["created_utc"] if "created_utc" in comment.keys() else None
+                    author = comment["author"] if "author" in comment.keys() else None
+                    score = comment["score"] if "score" in comment.keys() else None
+                    awards = comment["total_awards_received"] if "total_awards_received" in comment.keys() else None
+                    comment_item = {"comment_id": comment_id, "text": text, "score": score, "awards": awards, "timestamp": date, "author": author}
+                    comment_list.append(comment_item)
+                comment_df = pd.DataFrame(comment_list)
+                filename = f"df_{str(post_id)}_{str(start)}.csv"
+                filepath = os.path.join(COMMENTS_DATA_PATH, filename)
+                comment_df.to_csv(filepath)
+                last_comment = comments[-1]
+                start = last_comment['created_utc']
+                time.sleep(1)
+            except Exception as e:
+                print(res, start, e, post_id, len(comments))
 
 
 if __name__ == '__main__':
-    get_df()
+    posts = get_posts_list()
+    posts.sort()
+    get_comments(posts)
