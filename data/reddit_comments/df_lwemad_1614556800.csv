@@ -1,0 +1,52 @@
+,comment_id,text,score,awards,timestamp,author
+0,gpgwnxx,Probably just someone who put in a market order during low liquidity and got shafted by getting filled way outside the expected range,13,0,1614725098,perf1620
+1,gpgwu0m,"If you put in market orders during low liquidity you're gonna have a bad time...
+
+😁",10,0,1614725179,perf1620
+2,gpgwvmh,Shit happens,1,0,1614725200,Avidestroyer
+3,gpgwyiy,"Exactly this, low liquidity and shitty timing.",1,0,1614725240,Character_Credit
+4,gpgx0l0,TD AM won’t let you trade a market full order after hours,2,0,1614725267,StonkWonker
+5,gpgx0ro,Story of my sex life,10,0,1614725269,Happifier
+6,gpgx114,Never buy at market price! Ha,1,0,1614725273,SuperFab21
+7,gpgx489,Someone put in a limit sell and a market order went after it,2,0,1614725314,SuperFab21
+8,gpgx5sc,The lines move up AND DOWN? I’m unaware of this down you speak of. 🚀🚀🚀,6,0,1614725334,Solid-Tomato5744
+9,gpgyi1j,[removed],1,0,1614725979,[deleted]
+10,gpgzhr4,I saw it too it shot up to 16.50. What is going on. Can someone explain,1,0,1614726467,Particular_Ad3976
+11,gph03xo,"It's a bird
+
+It's a plane
+
+It's a 
+
+Brokerage Wars
+
+
+As there's been much debate over which brokerages are most desirable, I took the liberty of making this basic Google form in which you can rate these services 1 - 5.
+
+The purpose of this is merely data collection and curiosity. Let me know if I've missed some, or if this could be somehow improved upon!
+
+The sample size is very small rn so please [PARTICIPATE HERE if you like.](https://forms.gle/gS5MaMTDX9ha9j7A7)
+
+Data as of 3/2/21
+
+Brokerage|#Rating
+:--|:--
+TDA/thinkorswim|#4.37
+E*Trade|#3.87
+Fidelity|#3.79
+Interactive/IBKR|#3.72
+Schwab|#3.43
+WeBull|#3.25
+Vanguard|#3.15
+Trading212|#2.9
+Merill_Edge|#2.72
+Zachs|#2.57
+eToro|#2.55
+JPM_You_Invest|#2.38
+Degiro|#2.2
+SoFi|#2.13
+Tastyworks|#2
+Robinhood|#1.67
+Ally|#1.56",2,0,1614726773,da_muffinman
+12,gph1p1v,You should split it up mobile vs desktop as well,2,0,1614727572,OhhBarnacles
+13,gpi69nn,"I saw this happen last month on GE, a very highly liquid stock. The stock was trading at 11.22(bid) and 11.23(ask) at high volume. Out of nowhere a sell order for 11.11 goes through and the chart then shows a long lower wick on a red candle. Stock went back to trade at 11.22 right away. This was the only order at that price, all other orders were at 11.22/11.23 and then stock climbed up to 11.30+. It’s weird, as if someone fat fingered their limit sell order or deliberately tried to sell lower to see if they can cause some panic. I caught this as i was staring at the order book and the chart suddenly showed a spike. Looking at Time &amp; sales confirmed a single order at that lower price, I don’t think it was a market order as the bid and sell walls at 11.22/11.23 were quite high and it wouldn’t have gone through.",1,0,1614749468,ari4redd

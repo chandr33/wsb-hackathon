@@ -1,0 +1,4 @@
+,comment_id,text,score,awards,timestamp,author
+0,gpgjxkr,"If you've placed a market price order, it'll execute for whatever price it is at market open tomorrow. It could go up, down or sideways during after hours trading.",1,0,1614719373,somethingfortoday
+1,gpgk3fb,"ok so i shouldn’t buy during the day, just in case it goes down by the time market opens?",1,0,1614719441,jurlob
+2,gpgl2yx,"Huh? While the market is open, 9:30am-4pm eastern time, a market order executes at whatever the current price is. That's why an after hours market order executes at the price when the market opens, if you aren't approved for after hours trading.",1,0,1614719851,somethingfortoday
