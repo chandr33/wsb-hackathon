@@ -6,7 +6,7 @@ import glob
 import os
 from datetime import datetime
 
-PROJECT_PATH = os.getcwd()
+PROJECT_PATH = os.path.dirname(os.getcwd())
 POSTS_PATH = 'data/reddit_posts'
 COMMENTS_PATH = 'data/reddit_comments'
 POSTS_DATA_PATH = os.path.join(PROJECT_PATH, POSTS_PATH)
@@ -86,7 +86,7 @@ def get_comments(post_ids):
             url = F"https://api.pushshift.io/reddit/search/comment/?link_id={post_id}&sort=asc&sort_type=created_utc&user_removed=False&mod_removed=False&after={start}&is_video=False&size=100"
             try:
                 res = re.get(url)
-                if res.status_code != 200 or res == None:
+                if res.status_code != 200 or res is None:
                     break
                 comments = json.loads(res.text)['data']
                 if len(comments) == 0:
@@ -120,9 +120,12 @@ def get_comments(post_ids):
 
 
 if __name__ == '__main__':
+    # comments_input_path = COMMENTS_DATA_PATH
+    # comments_output_path = os.path.join(PROJECT_PATH, "data/comments_df.csv")
+    # get_df(comments_input_path, comments_output_path)
     posts = get_posts_list()
     posts.sort()
-    post_id = 'lxva6s'
+    post_id = 'm2iqyb'
     idx = posts.index(post_id)
     print(idx)
-    #get_comments(posts[1764:])
+    # get_comments(posts[8576:])

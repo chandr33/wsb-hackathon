@@ -1,0 +1,21 @@
+,comment_id,text,score,awards,timestamp,author
+0,gqgwpx9,When there's more than a 10% move in one minute it halts due to volatility. This happened probably a dozen times in the first run in January. They're getting desperate. A dying animal trapped in corner has one last burst of energy before death.,3,0,1615397781,ZeroTolerrance
+1,gqgx4sb,Is this considered market manipulation?,1,0,1615397912,DJ_Clitoris
+2,gqgxhxd,[removed],1,0,1615398031,[deleted]
+3,gqh094k,Yes.,2,0,1615398927,ZeroTolerrance
+4,gqh2o0d,"Dude I took a screen recording that I might share if it’s significant in any way. 
+
+My 800$ order was PLACED INSTANTLY at 260 while “trading was halted” and when I realized it was halted i tried to cancel. It took SEVERAL minutes to cancel “while trading was halted”, and WHILE the cancel was “loading”, I watched my order get filled @270.
+
+Is this supposed to be able to happen or is this major fuckery?",1,0,1615399815,DJ_Clitoris
+5,gqh3zw8,Did you market order? That just gives you the first available fill and can often be a shitty price. That's why limit order is recommended so you control the maximum price you're willing to buy at. But if it rockets past the price before you get filled you miss out.,2,0,1615400319,ZeroTolerrance
+6,gqh7a56,"Yes it was market order at 262 I should’ve done that (limit order) but the price was spiking up quick. It said my order was executed at 12:58 but from 12:57-12:59 my order was in the process of being cancelled and LoAdiNG.
+
+And before that ~95 seconds of cancelling the order, at 12:56 I waited 60 seconds for the cancel to load but it wouldn’t.
+
+Don’t worry though; my order was PLACED while trading was halted INSTANTLY. But my clip doesn’t show that part, just right after I thought to turn it on. It was only the cancel that didn’t work instantly so everything’s fine I’m fine. This sounds like it was the app’s fault, not the market, and not mine. It could be my fault for paying 270, but spending *literally* 2.5 minutes cancelling the order before it was executed and then watching it fill 90 seconds into cancelling it the second time is fucking suss to me. Do you think the clip worth posting or holding onto?",1,0,1615401609,DJ_Clitoris
+7,gqh7a5s,"You have done an excellent job at wasting my time.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",1,0,1615401609,AutoModerator
+8,gqhairy,I'm not sure. It may have already begun filling once you tried to cancel it. I've had that happen. Brokerage apps can be a bit buggy/slow sometimes. In the future try a limit order so you can choose your price.,2,0,1615402917,ZeroTolerrance

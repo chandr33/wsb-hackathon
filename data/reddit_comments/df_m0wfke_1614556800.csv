@@ -1,0 +1,56 @@
+,comment_id,text,score,awards,timestamp,author
+0,gqa8llr,"Too short, didn’t read.",1,0,1615256583,F1nnycar
+1,gqa8pyk,"So when I put a limit order for an option trade at Fidelity, sometimes it actually fills at a better price than what I put. Are you saying that doesnt happen on robinhood?",4,0,1615256648,PlumpStegadon
+2,gqa8rcw,"As if I needed more reasons to hate Robinhood.
+
+Good DD tho",1,0,1615256670,vinlo
+3,gqa90oa,"Route to improve, which is what you're referring to happens on RH, but that typically only happens when there's a negative or zero edge. OR on some very liquid options that have decreased to the point where the ask is below your bid at the time of routing, in which the MM is obliged to fill you at the new ask.",3,0,1615256811,cuinlumby
+4,gqa9a35,"What is this ""edge""? Is it like the house edge in a casino?",1,0,1615256952,PlumpStegadon
+5,gqa9i8v,Robin Who?,1,0,1615257076,ChadLikeGainz
+6,gqaa0nx,"When a market maker sells you an option they are taking the other side of your trade usually, they hedge their delta in the opposite direction on the offchance you are right on your bet. They do this usually by selling the amount of shares(or buying if you bought puts) a number less than delta at execution, that also takes in volatility. When your order loses delta they can bleed off their edge, to decrease downside risk of the trade, or if things go really south, they will have to fully hedge delta, or even buy back for a loss, depending on the risk profile on the firm, none of which is public info.",2,0,1615257354,cuinlumby
+7,gqaaetd,"Ah, so this must be how the gamma squeezes happen. I wonder if there could also be a reverse gamma squeeze - MMs shorting to delta hedge a bunch of ATM puts.",1,0,1615257572,PlumpStegadon
+8,gqab7oa,Reverse gamma squeezes do exist and are very possible.,3,0,1615258019,newredditacct1221
+9,gqab936,"Them “holding” an order so they can execute before you at the same price is front running.
+
+What is likely happening is that a lot of options exchanges will distribute fills on a pro-rata basis. Meaning that if let’s say you place a bid for 1 contract, 1 other person puts a bid for 499 contracts, and another puts a bid for 500 contracts. All the same price. Now let’s say a seller comes in and hits that bid with 2 contracts. It is weighted, and the 500 and 499 contract bidders will each get filled 1 contract.
+
+Your 1 contract is small in the scope, so this is why it will likely get filled last. The idea behind having the exchange operate like this is to incentivize market makers to add liquidity.
+
+Retail investors typically have to pay the spread to guarantee a fill.
+
+Time priority is only really a thing on equity exchanges. 
+
+Additionally, in the example you gave, let’s say you placed a sell order at $0.79. Given that citadel was willing to sell 0.78 before your order came through, they are able to place a sell for 0.78 as soon as you place the order. Effectively, they can do this as long as it is a low touch strategy with no non-public access to your order. 
+
+Not saying what they are doing is necessarily right or ethical, but simply explaining it for you. But ya securities law have a lot of protection for clients of broker/dealers, I’m not saying it’s impossible for a firm to break securities laws, just that it would probably be found pretty easily given the audit trails of information that firms need to submit to regulatory authorities.",3,0,1615258040,rl_noobtube
+10,gqabwve,"Well maybe one day there will be a reverse gamma squeeze, or ""put squeeze"" as I like to call it on some evil companies and then people will celebrate :)",1,0,1615258407,PlumpStegadon
+11,gqabx05,"Robinhood is a modern day bucket shop with an above average UI. 
+
+Google bucketshop.",1,0,1615258409,videogamesjdkdjdj
+12,gqacal4,I pay more at Robin Hood on buying and selling due to their slow execution. A couple cents buying and a few cents selling cuts into profits big time. Fidelity is quick. Robin Hood is slowest of 3 I use. Webull executes faster then RH but Fidelity is best on execution.,2,0,1615258615,Leetomnsx
+13,gqacxxh,[removed],1,0,1615258973,[deleted]
+14,gqadgbb,We’re robin shitadel,1,0,1615259256,tensi0704
+15,gqadlrh,"A couple things.
+
+&amp;#x200B;
+
+They are not frontrunning even if everything I suspect is true, that seems to be used a lot here, but front running only applies to transactions trading large enough blocks deemed capable to move an individual market.
+
+How large block orders such as: 500+ contracts, it would make sense that large bids are given last priority or AON hence they are market takers, which remove liquidity.
+
+Citadel physically pays for the orders, they internalize them, all of this is completely legal.",1,0,1615259340,cuinlumby
+16,gqaesbs,Robinhood’s order book on live t2 charts are a bit off too. Robinhood has a bunch of fake walls placed that don’t appear in Schwab’s t2 on street smart edge.,1,0,1615259997,TreeHugChamp
+17,gqahsaz,[removed],1,0,1615261697,[deleted]
+18,gqaq44x,I fucking hate the Fidelity interface.,1,0,1615266951,Brendonk23
+19,gqaq5ha,Didn’t someone debunk the Citadel shit during the first GME run?,1,0,1615266975,Brendonk23
+20,gqaqd3s,[removed],1,0,1615267124,[deleted]
+21,gqaqo9e,"I use webull for research and to find stocks. Fidelity m, w, f and RH and webull tue/thur.",1,0,1615267347,Leetomnsx
+22,gqatliq,"First In, First Out, commonly known as FIFO, is an asset-management and valuation method in which assets produced or acquired first are sold, used, or disposed of first. For tax purposes, FIFO assumes that assets with the oldest costs are included in the income statement's cost of goods sold (COGS). The remaining inventory assets are matched to the assets that are most recently purchased or produced.
+
+https://www.investopedia.com/terms/f/fifo.asp
+
+MODS BAN THIS FUCKER. FIFO IS NOT USED FOR ORDER FLOW GTFOH.",1,0,1615269473,tsa004
+23,gqatuzu,BuT fROnT rUNNInG iS iLLEgaL,1,0,1615269680,friedpaco
+24,gqaxear,give this man a medal.,1,0,1615272607,fn-AU
+25,gqdjseo,"Yea, no shit it's mainly used in accounting for costs reporting; but US exchanges have implemented it as a fair way to take orders off the books. FIFO is used in more places than on an income statement.",1,0,1615325508,cuinlumby
+26,gqdoblw,"Most order flow is usually pro rata, fifo is a algo hfts use to run orders off pip sizes in .0001 and run by MMs who need to process 10,000 share blocks as fast as possible, you are not on their radar.",1,0,1615327573,tsa004

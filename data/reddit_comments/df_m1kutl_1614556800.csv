@@ -1,0 +1,43 @@
+,comment_id,text,score,awards,timestamp,author
+0,gqe6co7,Absolute legend,9,0,1615336643,fuckitw3ball
+1,gqe6itz,Do some research and handle long term gains as well retard /s,12,0,1615336733,iwillpassthistime
+2,gqe6j8a,[removed],1,0,1615336738,[deleted]
+3,gqe7igm,"You know you don't have to enter all that data, right?  Use the summary page and mail that shit to the IRS after you file.",9,0,1615337251,Rrrrandle
+4,gqe7qgq,"CPA turd here.  I just pop the summaries on the 1099 into the return (short/long term, basis reported / not reported, etc) and then attach the 1099-B to the return when I file.  Let them at the IRS and the states figure it out.
+
+Trust me when I tell you the broker literally does all the work for you.",11,0,1615337368,CledusBeefpile
+5,gqe7qhu,[removed],2,0,1615337369,[deleted]
+6,gqe8c7v,idk honestly i'm just doing what my accountant asked me to lmao,8,0,1615337693,LiyangHuang
+7,gqe9zqs,I hope you're not paying him because that sounds like his job.,11,0,1615338571,Not_a_hedge_fund
+8,gqeba5p,"Sure, technically you should go through all those trades and make sure the summary is right and they didn't miscategorize something or whatever, but who has time for that?
+
+Also, you need a new accountant if you're doing his job for him.",6,0,1615339267,Rrrrandle
+9,gqec1ft,"TurboTax imports 1099 direct from Fidelity. 
+Pretty easy shit",2,0,1615339672,mylz81
+10,gqed6rf,Who is actually filing by mail in 2021?,-3,0,1615340280,wsbgodly123
+11,gqedibc,"Can just use turbo tax and import it, too.",1,0,1615340451,carlbrooks2
+12,gqee2yl,"someone needs to make a gig work CPA app. user-friendly, tax-dominating CPA wizards. I'd buy that for a share of GME.",0,0,1615340758,lowjack
+13,gqeebqi,"New in 2021 is amending by efile.  Some states still require an amended return to be mailed (looking at you, Nebraska).
+
+I efile and attach a pdf of the 1099 to the return.  This capability is built into the efile API.  I work for a professional services firm where we pay for this shit.",1,0,1615340888,CledusBeefpile
+14,gqeesz1,"This is correct. I use TurboTax, BUT my 1099 from my brokerage was not importable. TurboTax asks me if I have a bunch of lines, if so, just manually put in the summary. No need to put in each trade data.",2,0,1615341142,ihavequestions987
+15,gqeetek,"This is the way - you only need to enter the summary of proceeds, gains and losses portion of the 1099-B info into your return (as opposed to entering each individual transaction).",2,0,1615341149,BasedMagicFan
+16,gqeo67v,nobody tell him,2,0,1615346257,p4rty_sl0th
+17,gqesgum,[removed],1,0,1615348764,[deleted]
+18,gqesutu,"Ah it's a friend doing me a solid, so I'm trying to help out as much as possible",2,0,1615349002,LiyangHuang
+19,gqewdt8,"Will this cover wash sales, as well?",1,0,1615351229,Myllokunmingia
+20,gqexfpq,"Just as a general heads up, RobinHood has issued some amended 1099s in past years, roughly one month after the original 1099 comes out. This year, that would be around March 16. I am waiting until after then to file in case the amended form comes out so I don't have to amend. If you haven't filed yet, I'd recommend you do the same.",1,0,1615351923,DollarThrill
+21,gqf22c4,Yes!,1,0,1615355243,BasedMagicFan
+22,gqf8kt1,"I know this was likely thrown together quickly, but I'm retarded so I'm going to review it.
+
+1. Not PEP8 compliant.  Refactor the logic with nested conditions as functions
+2. Put the working code into a function so you don't execute the code if another python file imports your file
+3. I'd recommend passing the file path as a command line argument instead of raw input from the executing code (at the very least so it can be tab-completed)
+4. Your index variable 'i' is impossible to keep track of
+
+Great job with commenting though.",1,0,1615360656,gimme_GME
+23,gqfaz97,Yes,1,0,1615362859,CledusBeefpile
+24,gqm1nou,"Lmao you're a day ahead of me.  
+I also created a tool yesterday that does just that.
+
+[https://github.com/kevinpark1217/Robinhood-1099-Parser/](https://github.com/kevinpark1217/Robinhood-1099-Parser/)",1,0,1615493854,kevinpark1217

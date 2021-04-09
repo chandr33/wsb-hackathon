@@ -1,0 +1,109 @@
+,comment_id,text,score,awards,timestamp,author
+0,gqd1rzo,Buy high sell low -profit,13,0,1615317518,CsDirtyTea
+1,gqd1wnw,"Give us a stock example, I don’t what your numbers are so can’t make sense of it",8,0,1615317575,ramsoidz
+2,gqd1yqz,[removed],1,0,1615317600,[deleted]
+3,gqd2k31,"We'll say APHA (around 16$ cost basis), Premium for a 1$ covered call for Jan 2023 is 16.80 (1680$), which profits me a net total of around 180 bucks, which is a super limited upside. Tbf I'd make the same money if not more if the price jumped 2 $ (which it will, so maybe APHA is a bad example.) 
+
+I guess I'm just trying to figure out how to profit off of options and curious as to how one manages to make conservative but pretty much guaranteed gains out of it.",3,0,1615317865,Paladinspector
+4,gqd2r6e,[removed],1,0,1615317954,[deleted]
+5,gqd2u0d,"I’m glad you asked that question. That’s a great question. You see, when I was a young boy in Bulgaria...",50,0,1615317990,Free_Band_Shan
+6,gqd2w0b,https://youtu.be/kgMdHm2VWkU,0,0,1615318015,justinbeans
+7,gqd2xw5,"That’s the average Price, you most like won’t be filled in at that price. If you do, then yes! Do lots of it lol. You’re getting an instant 80% in your one year investment with almost no risk",3,0,1615318038,ramsoidz
+8,gqd30dd,"What deep ITM options are profitable lmao. You need to give examples, because what you’re talking about sounds impossible.
+
+There aren’t contracts that the premium=cost of stock like you seem to be saying. Do know how retarded that sounds?",-1,0,1615318069,math4you
+9,gqd3be6,A one year investment to make $180 sounds awful lol,12,0,1615318207,The_Moisturizer
+10,gqd3cqn,"Literally on Apha right this minute. I was looking at the options and just confused as to why they're offering a 16.80 on 1$ calls, where there was around 16$ cost basis. It would be profitable for me to sell a covered call on that contract, and I'd make around 180$ on that trade. I'd make more if I just held, I'm just doing thought experiments to figure out wtf is going on with this.
+
+Also ""How retarded that sounds"" Bro this is WSB.",1,0,1615318224,Paladinspector
+11,gqd3ehl,"A pretty basic options strategy is to sell OTM short to medium term covered calls. You're likely to just keep the premium, but even if the stock moons and your shares get called away, you'll still make decent money.
+
+By selling something way ITM, you're pretty much guaranteed to lose the shares at expiration and you're really capping your upside.",2,0,1615318247,Son_of_X51
+12,gqd3itt,Doing that can “guarantee” a return on your investment but what you just described is a 5% return for 2 years. Congrats?,3,0,1615318300,math4you
+13,gqd3jo0,"No, the way premiums are calculated, you are severely limiting your max profit by selling deep ITM calls.",3,0,1615318311,jmgreen823
+14,gqd3kzx,"I hate the stock, but certain GME leaps are priced pretty close to current stock price.  OP’s question is completely reasonable, but appears to be over your head.",1,0,1615318328,MattMeyerMilwaukee
+15,gqd3mk2,"It sure does. This is mostly just poking numbers to figure out how this works. I'm not fucking with options trading until I can see under the hood, so to speak.",1,0,1615318348,Paladinspector
+16,gqd3si0,"They aren’t? Lmao you are just wrong? Go try again.
+
+Yeah dude, you’re on WSB. Glad your retard figured that one out by now.",-1,0,1615318422,math4you
+17,gqd3ubt,Assignment,2,0,1615318444,Pyr0smurf
+18,gqd3ugc,Well you have to hold the stocks for the duration of those calls unless you buy them back so that’s an opportunity cost. Now imagine you hold that stock for 2 years it goes 5x and then those calls execute and you have to watch all of the profit from holding disappear. Not so fun,2,0,1615318446,rayjensen
+19,gqd3ygj,"Theta (and other favorites of the BS equation) is why. You haven’t discovered something new in the stock market, trust me.
+
+Now, if you are happy with your profits and ready to sell, then there might be a play to squeeze a few extra bucks. But you don’t sell(“write”) covered on things you expect to go way up.",3,0,1615318497,HaveGunsWillTravl
+20,gqd4193,"Uh, no shit dude? A $5 call is gonna have a massive premium very close to the stock price, you understand why right? You sound like a bigger retard than the first guy.",-1,0,1615318532,math4you
+21,gqd46ds,"To continue using APHA as an example:
+
+I have APHA at $14/share, I sold $30 strike October calls for $4.40/share, so I get $440 per contract premium, and also a good profit that I'd be happy with if they get exercised. Also if they don't get exercised, its a stock that I also don't mind having/holding at the expiry time either. 
+
+Sure your way might be ""forsure profit"" but the profit is so limited that the time spent on it wouldn't make any sense. Doing OTM calls could be seen as essentially reducing your cost basis of your shares if they don't get exercised, but also taking nice profits if they do get exercised.",2,0,1615318596,The_Moisturizer
+22,gqd47nn,Ironically OP seems to know what he doesn’t while even I know this is a dumb post,2,0,1615318613,AAA_Dolfan
+23,gqd47qv,"Do you look under the hood of your wife’s boyfriends car after they spend quality time before he has to leave ?
+
+You put money in, and then you get a bigger tax return. What else do you need to know?",4,0,1615318614,FkinAllen
+24,gqd48f1,[deleted],2,0,1615318622,[deleted]
+25,gqd4a3y,The sale + premium of slightly out of the money calls are more than current share price.  And you might not even have them get ITM and exercise.,2,0,1615318643,TegidTathal
+26,gqd4abp,Or way before expiration.,5,0,1615318646,jbrianloker
+27,gqd4ax2,"A Jan 20 2023 1$ call for APHA, right now, on RH, as I fuckin look at this, is 16.80/share, or 1680$/contract. 
+
+I know fuck all about options, and am not about to sell a covered call for 1/16 of the share price. I'm tryna learn, champ. I stand to make a front-end chunk of my initial investment back as premium, WITH a profit, selling that call, and if it gets assigned, they sell my 100 shares for a cool 100$. which is ASS money, but I'd still make a profit. Not fucking MUCH of one, but profit nonetheless.",0,0,1615318653,Paladinspector
+28,gqd4c1h,"Yeah dude. If the premium is higher than the straight sale price, go for it.",1,0,1615318667,Whole-Concentrate371
+29,gqd4cge,I know retard lmao. Please get out of this convo if you can’t read.,-1,0,1615318673,math4you
+30,gqd4cg2,"The problem is, that call you sold deep in the money has a lot of intrinsic value and if that stock price goes up slightly, you'll likely get your shares called away before you can buy that call back at a lower price, for a profit. Deep ITM calls barely decay. If your cost basis for your shares is really low and your not buying them to open the covered call position, and you think the stock price is about to drop, then you might be able to get away with selling an ITM covered call and buy it back for a profit after price decay.",2,0,1615318673,drippinlake
+31,gqd4e5a,"I do, in fact occasionally change my wife's boyfriend's oil. In return he takes care of my wife's plumbing.",6,0,1615318694,Paladinspector
+32,gqd4gis,"Let me start from the beginning, when I was a boy in Bulgaria...
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",6,0,1615318724,AutoModerator
+33,gqd4gid,[deleted],2,0,1615318724,[deleted]
+34,gqd4gi9,YES OR NO,10,0,1615318724,Siren1805
+35,gqd4gv4,"That’s the point I’m telling you dude. You can lock in a 5% gain over 2 years, or you can do something a lot less retarded with your money.",1,0,1615318729,math4you
+36,gqd4iq0,YeS,2,0,1615318753,Flooziez
+37,gqd4kpi,[removed],1,0,1615318777,[deleted]
+38,gqd4qf3,Lmao cya retard. Glad you’re listening to me.,1,0,1615318846,math4you
+39,gqd4zau,"What part of ""I am trying to understand WHY this is fuckin dumb"" did you not track with? I'm not selling a 1$ call just to strike a 180$ profit. I'm seeking perspective on why it's fucking stupid because I know ZERO about options. 
+
+Broadening my knowledge by fishing in WSB brains helps me make more tendies.",-1,0,1615318957,Paladinspector
+40,gqd548r,[deleted],1,0,1615319020,[deleted]
+41,gqd57pf,Oh trust me I am well aware I ain't gonna trip over some new way to print money. I just don't know dick about options and am tryna figure out why this is the way it is.,1,0,1615319063,Paladinspector
+42,gqd58am,"&gt;I’m having a hard time seeing why I shouldn’t do this
+
+&gt;I am trying to understand why this is fucking dumb
+
+Ok so I have made you realize it’s fucking dumb. Job done, get your tendies now in a less retarded way",0,0,1615319071,math4you
+43,gqd59um,You’re getting a 5% roi on 2 years so about 2.5% tbh at that point might as well buy 10 year bonds. Better yet just capture a stock with a 2% dividend yield it’s only good if you have lots of gains and don’t want to pay taxes but you believe that we will be entering a bear market or the stock will be in a bear market,4,0,1615319090,Ragepower529
+44,gqd5hf2,"not stupid, but rarely used strategy. For me, it is about exiting a position with some premium when u think it is about to drop. I usually simply sell since the premium is too small imo",2,0,1615319185,surmoiFire
+45,gqd5hw8,You can buy back the call for a loss and keep the shares in case it moons,1,0,1615319191,Satoujune
+46,gqd5jn5,EYYYY you can say something helpful. Thanks.,1,0,1615319213,Paladinspector
+47,gqd5wq4,"Glad I could help. Maybe stop eating crayons I know they’re non toxic but from the looks of it you’ve had enough. Then when you’ve cleaned yourself off, maybe just maybe you’ll be able to use your lobotomized brain.",0,0,1615319376,math4you
+48,gqd61sg,Imo your better off selling OTM calls since you can make profit off the premium and if it goes up you'll still realize some of that increase,2,0,1615319441,Environmental-Ad1748
+49,gqd6a1g,The only downside is putting a roof on your possible gains. That's about it,2,0,1615319544,SirDaddio
+50,gqd6atk,Assuming your order gets filled you are essentially tying up your equity for almost zero return. If you want inflation to eat your principle may as well park it in a HISA so at least it’s liquid.,2,0,1615319554,Frothylager
+51,gqd6ipj,Fair point.,1,0,1615319651,Paladinspector
+52,gqd6jzj,"One thing for sure, at the end, it can either go up or down, or maybe stay at the same level. Not financial advisor.",1,0,1615319667,SaltyKidRektsYou
+53,gqd6n8j,You also change a long term holding to a short term holding for tax purposes when you get called away if you sell deep ITM calls. Other than that your main downside is just giving up upside potential.,2,0,1615319707,doublemctwist1260
+54,gqd6nf8,"Aye, selling a covered call OTM has the chance of making me money on the premium AND selling for a desirable price that makes me some profit. I suppose this would have been better asked as ""Why do they offer such a dumb high premium to sell shares at fucking bargain bin prices?""",2,0,1615319709,Paladinspector
+55,gqd6p4p,Yeah except those calls are going to always cost more than your earnings on the stock because of the time value and you are selling ITM calls. So you would spend more to buy back the calls than it’s worth...,1,0,1615319731,rayjensen
+56,gqd6vjo,would selling a Deep ITM call count as a 'loss' for capital gains on the actual sale of the stonk? Like yeah the premium counts as capital gain but would that 'loss' of 15$/share actually be tax deductible and make my tax burden equivalent to my actual profit?,1,0,1615319809,Paladinspector
+57,gqd7b1l,Yes you’re right. But again you would be buying back the calls since you would want to hold the shares assuming it still has great runway ahead. But yes the price would be a great loss.,1,0,1615319999,Satoujune
+58,gqd80ab,[removed],1,0,1615320315,[deleted]
+59,gqd8u08,"Ok let me see if I can break it down for you.  The reason. You don't sell long term itm covered calls is because you are forcing yourself to hold an asset for the duration of your covered call and have no upside potential.
+
+As an example you have a $100 stock and you sell a $100 call with a 2 year expiration for $10.00.  you just made $1,000 great right?  Wrong what you are getting is $110 per share in 2 years.  So if that stock ever goes above $110 you just lost all of that growth.  So if your stock was at $150 in 2 years instead of making $5,000 you are still stuck with only $1,000.
+
+The other issue is the capital you are keeping locked in that investment for 2 years with no flexibility to reallocate it else where.
+
+Using the previous example with the $100 stock you have $10,000 just sitting there for 2 years.  You have no ability to use that to make anymore money since you have already collected your max profit of $1,000.  So if another opportunity comes along you miss it because your assets are locked.  If you want to be successful you need to have fluid assets that you can get into and out of quick to react to whatever is happening in the market..
+
+If you are going to sell covered calls personally I would recommend 1 month out, 2 at the most and to sell calls that are st or just past the expected move for that time frame.  That way you are keeping your assets semi liquid while reducing you cost each month which increases your potential to make a profit and provide some downside protection.
+
+So with the $100 stock if the expected 30 day move is +-$8 sell the $110 call for maybe $.75.  now $75 isn't as sexy as $1,000 however if you are able to keep that average for 2 years it is $1,800 instead of $1,000.  Also you are only locking your position for a month at a time and readjusting you call price each month so you aren't limiting your upside unless the stock goes beyond the expected move in any given month. So if after 2 years the stock is at $150 and you sell your net gain for the two years is $6,800 instead of $1,000.",2,0,1615320689,Mangy-Panda
+60,gqd95x2,"This is the kind of wrinkles I needed. Thanks man. This makes a lot of sense, and I appreciate it.",2,0,1615320842,Paladinspector
+61,gqd9y2n,you have to think of it in terms of percentage - 11% here,2,0,1615321193,stockboi81
+62,gqda4l7,Sounds just as bad as a % lol,4,0,1615321272,The_Moisturizer
+63,gqdba4g,"Premium just gets added to the sale price so if you bought at 10 and the price is now 20, and you sold a 10 strike call for 11 and get called away, your net gain is 11.",1,0,1615321782,doublemctwist1260
+64,gqdbucw,No problem,2,0,1615322034,Mangy-Panda
+65,gqddyt8,You cut your potential upside for a guaranteed premium.,1,0,1615322989,fakingglory
+66,gqdffuk,"It’s best to not fuck around. It took me three years to fully understand how they move, they are not straightforward, and GME especially has added a new dimension to them. I have never seen premium be hit as hard by pure demand as opposed to the normal. I fully expect the pricing algo to change permanently after the mass adoption of the retail crowd. Back to learning again 🤷🏻‍♂️ just cover yourself with 
+Spreads etc at least. Dont sell naked!",1,0,1615323621,HaveGunsWillTravl
+67,gqdn8mg,"At my level Im pretty sure if I tried to place a naked option order my Broker would smack the piss out of me. But i appreciate the sentiment, brotherman.",1,0,1615327071,Paladinspector
+68,gqe1yqj,"You would hope so, just don’t count on it!",1,0,1615334322,HaveGunsWillTravl

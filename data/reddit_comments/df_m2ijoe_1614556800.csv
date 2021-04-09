@@ -1,0 +1,46 @@
+,comment_id,text,score,awards,timestamp,author
+0,gqjcyll,[removed],1,0,1615440307,[deleted]
+1,gqjdi31,"I’m not sure who you’re referring to as they, but if you’re talking about the market makers, they don’t make money on manipulating dips like this. They make money off of the bid-ask spread for the stock and commission from people like citadel. They’re not supposed to pick a side on the trade and I don’t think they would choose the short side even if they did.",4,0,1615440595,WisePhantom
+2,gqje3qk,[removed],1,0,1615440926,[deleted]
+3,gqjed3j,tell that to Morgan Stanley during the housing crash.,15,0,1615441074,true_happeniss
+4,gqjedns,[removed],1,0,1615441084,[deleted]
+5,gqjefmb,[removed],1,0,1615441118,[deleted]
+6,gqjejvi,[removed],1,0,1615441183,[deleted]
+7,gqjeqfv,[removed],1,0,1615441277,[deleted]
+8,gqjew5j,[removed],1,0,1615441373,[deleted]
+9,gqjf896,[removed],0,0,1615441559,[deleted]
+10,gqjfjka,[removed],1,0,1615441740,[deleted]
+11,gqjfxb9,"Eeh, I get we’re all reeling from this morning but there’s some pretty good DD pointing to a short attack. I’m just not seeing it with the current data though I’m open to changing my opinion.",3,0,1615441951,WisePhantom
+12,gqjgw88,[removed],1,0,1615442539,[deleted]
+13,gqjiabj,"There is no such thing as a short attack, unless you are talking about someone shorting shares.",-3,0,1615443400,doublegulpofdietcoke
+14,gqjj15j,You nailed it. You don't understand options. they don't lose money on the covered calls they make money.,1,0,1615443837,NotABothanSpy
+15,gqjj8vk,"I can’t help but think it’s something like this:
+
+“Hey, Biff? It’s Skippy from Rackblock.”
+
+“Hey, Skip. What’s up?”
+
+“Looks like you guys are sitting on a million shorts you can’t cover.”
+
+-silence-
+
+“I’ll take that as a yes. We’ve got shares we wanna unload.”
+
+“What’s it gonna cost us?”
+
+“No idea. We’ll start selling at at exactly 12:20 tomorrow. We’ll dump huge blocks of shares. No idea where the price will be but you can cost control on the way up and then buy the dump on the way down.”
+
+“Fuck. That’s gonna be, like $300 mil at this point.”
+“Yeah, well. You should have learned your lesson last time, moron. Could be a hell of a lot worse. You fucking owe me one.”
+
+No idea if that’s a real thing. But who knows what’s real in this casino?",5,0,1615443964,optimismadinfinitum
+16,gqjnbn8,"If they sell covered calls, you are correct, they earn the premium. However, if the stock price goes up, they lose the upside on the stock. They don't have to actually deliver the shares, they can just buy back the call to close their position. It's a money losing proposition. Don't ask me how I know....
+Instead I think they buy calls at the dip then sell them when the stock price rises.",1,0,1615446507,subsetsum
+17,gqjnz3e,Wait short positions are only at 30% now? I thought it was still over 100% of float,1,0,1615446916,here_for_the_lols
+18,gqjpdlu,"S3 counts synthetic shares in it's short counting algorithm. now you will NEVER see another company with above 100% short interest, even if that's what's happening",1,0,1615447866,dajcoder
+19,gqjx8x6,Can you please cite a source about the possible change to include the synthetic shares?,1,0,1615453331,OddSituations
+20,gqjyw66,"I have some problems with this article.
+1. Why is the author so sure about the short positions? I have read other academic articles saying that it is impossible to know the actual shorts on any share because there is no reporting requirement. He does not even say it is his estimate, he is very sure that there is no longer a significant short interest.
+2. If short interest is no longer significant and this is now what he calls a “gamma swarm” then it does not have to be GameStop, it could be done on any share. He does not say why GameStop.
+3. How on earth can the Reddit “swarm” engineer something like this and have the money and infrastructure for it?",1,0,1615454543,animasoul
+21,gqkrqoo,"Yeah, all that is bullshit, but I understand the gamma part a bit better now.",1,0,1615473669,The--scientist

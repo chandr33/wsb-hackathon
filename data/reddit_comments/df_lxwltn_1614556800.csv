@@ -1,0 +1,41 @@
+,comment_id,text,score,awards,timestamp,author
+0,gppds3y,Thanks for bestowing your wisdom upon us smooth-brained apes.,6,0,1614895570,f0rce44
+1,gppdsl1,word too big pls smaller word,38,0,1614895576,liuthemoo
+2,gppdxlq,[removed],1,0,1614895637,[deleted]
+3,gppecfr,[removed],1,0,1614895818,[deleted]
+4,gppfkxr,[removed],1,0,1614896382,[deleted]
+5,gppfrc5,[removed],1,0,1614896463,[deleted]
+6,gppg1jx,Lmao this the shit I come here for,15,0,1614896595,primeinspector
+7,gppg7x3,What are the risks to doing this?,4,0,1614896678,PoopyBear250
+8,gppgmax,You might have to actually pay capital gains taxes instead of just taking losses on every trade.,64,0,1614896865,DeliciouslyUnaware
+9,gppgww2,Nom Nom eating my crayons reading  nom nom,4,0,1614897003,Both_Selection_7821
+10,gppi41s,I made a post on this a while back about ghetto spreads,3,0,1614897573,andrewvl
+11,gppj4zf,Lmao,7,0,1614898066,larsdragl
+12,gppkqgc,Saving this to hopefully understand when I’m smarter,27,0,1614898822,TheFlightlessPenguin
+13,gppmg33,So you buy a call and a put?!?,1,0,1614899661,AlthanRalinor
+14,gppmv1o,[removed],1,0,1614899867,[deleted]
+15,gppny9i,no you buy a call and sell a call that isn't the one you bought.,4,0,1614900411,DeliciouslyUnaware
+16,gppo4qs,"But aren’t you then just doubling your risk? Instead of getting rid of it?
+
+You’ll be on the hook for both calls. The original 376 and the other 377",-1,0,1614900502,AlthanRalinor
+17,gpppc7o,"The call you sell is ITM, so what happens if/when it gets exercised?",1,0,1614901106,sunscooter
+18,gppqmbq,"Your long call is exercised first. 
+
+So you buy 100 shares for $376 each (long 376c) and then you sell 100 shares for $377 each (short 377c). Thats why you don't need any purchasing power. Your 376c can be exercised and will always cover the cost of exercising the 377c",6,0,1614901758,DeliciouslyUnaware
+19,gpprcyc,No you are using the one you own as collateral to sell the other one. You are taking risk off of the table.,2,0,1614902136,DeliciouslyUnaware
+20,gpprf28,"Got it, that makes sense.  Thank you.",1,0,1614902166,sunscooter
+21,gpprzcn,And what happens if the price goes down? You still lose money?,-1,0,1614902457,AlthanRalinor
+22,gppt8m1,"Both options expire worthless and you pocket the premium from selling the 377 call. You still make that profit regardless. 
+
+This is called a vertical spread, and is a trading strategy used to minimize risk hundreds of thousands of times every day.
+
+Let's say you bought the 376c for $1.00. Then after the price went up, you sold the 377c for $3.00.
+
+Then, as in your scenario, SPY plummets to $370.
+
+Your 376c becomes worth $0. But you sold the 377c for $3.00. You get to keep the $300 because someone bought it from you for $300 and now it is worthless",10,0,1614903102,DeliciouslyUnaware
+23,gppuj3y,"Holy fuck, Option 1 had me rolling
+ 
+I don't often read through these threads because they've been cancer lately thanks to the cults, so I didn't realize a bunch of people were getting slapped on the wrists for not knowing about PDT",2,0,1614903752,SeekingSwole
+24,gppuuht,Now you tell me,2,0,1614903910,Acceptable_Wishbone7
+25,gppuv6x,Can I get 25K in 100$ chips?,2,0,1614903920,Unemployable1593

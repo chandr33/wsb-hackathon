@@ -1,0 +1,81 @@
+,comment_id,text,score,awards,timestamp,author
+0,gqiy2ge,What stock and what article are you talking about?,5,0,1615431322,stocktawk
+1,gqiy567,My bad. Will edit. It's on the front page now. $GME and MakerWatch's article allegedly posted an hour before today's dip.,4,0,1615431364,lefunnies
+2,gqiym31,"“Allegedly”
+
+I’m gonna add that to all my comments for now on, in order to be concise... allegedly.",4,0,1615431617,Free_Band_Shan
+3,gqiyskt,"""Allegedly""
+
+it's my favorite color of crayon... allegedly.",6,0,1615431714,lefunnies
+4,gqiyy5q,"When I was a young boy in Bulgaria, allegedly...",3,0,1615431799,Free_Band_Shan
+5,gqiz2s4,"The MarketWatch article is hilarious.
+Shareholders wanted a dip today to buy more GME.
+
+So, if the dip was engineered to harm shareholders, it helped us immensely. 🚀",3,0,1615431870,ilikeyouforyou
+6,gqiza7m,"""So say we all.""",2,0,1615431983,lefunnies
+7,gqj037u,God it’s so blatantly rigged lol,3,0,1615432436,stocktawk
+8,gqj0mke,Um part of the “evidence” presented is that someone got the news alert at 9:55 AM PST. Which is 12:55 PM (after the crash) now that is smooth brained https://mobile.twitter.com/mrdavidnio/status/1369733681259053061,2,0,1615432744,Verb0182
+9,gqj0z5w,Yup. Yet the post I linked is on the sub's front page with &gt;5k updoots 😩,1,0,1615432944,lefunnies
+10,gqj1fql,"Yeah, I go with Occam’s razor. Which is more likely... a shadowy cabal of hedge funds leaked their plans to tank a stock midday to some random MarketWatch journalist (why???) OR something happened with the script/ code and it accidentally said the wrong time. I go with the latter. 
+
+Particularly when the former includes not knowing that PST is 3 hours behind EST.",1,0,1615433198,Verb0182
+11,gqj2sqh,All good brother. We love you,2,0,1615433945,stocktawk
+12,gqj7nve,A number of people have posted screenshots that clearly label the article time as 11:XX am EST. Some have even posted screenshots from their brokerages news feeds on their stocks.,3,0,1615436981,meta-cognizant
+13,gqjerwt,"And they're all forged or something is wrong on their end. The original URL for the article literally has the exact time it was posted, down to the second. It came out at 12:43pm, after the drop.
+
+Details here: https://reddit.com/r/wallstreetbets/comments/m2auez/detailed_examination_of_the_claim_that_mw_posted/gqjcmmu",1,0,1615441300,July25th
+14,gqkhsrl,"That's really not an appropriate use of Occam's razor at all. In fact, you're kinda using it how the monk who came up with it used it, which was in essence to say ""Is it more likely that &lt;the entire history of biological evolution&gt; or simply that God did it?""
+
+Which of course we know to be nonsense.",1,0,1615468273,eulersidentification
+15,gqki7mu,"Lol. This philosophical razor advocates that when presented with competing hypotheses about the same prediction, one should select the solution with the fewest assumptions
+
+It’s the perfect use of Occam’s razor.",1,0,1615468528,Verb0182
+16,gqkl6pw,"Sorry ape brother, you don't understand how to apply Occam's razor and it's obvious to anyone that does. Peace out.
+
+I don't have an opinion on the article btw.",1,0,1615470277,eulersidentification
+17,gqnl7pz,[Webull says otherwise](https://i.imgur.com/Ybpjb4a.png). [As does the etrade feed](https://i.imgur.com/061VrZp.jpg).,0,0,1615521754,meta-cognizant
+18,gqnmz8e,"The Webull response is just some random support person. They aren't confirming that it was necessarily posted at that time, they're dismissing it because it's not their responsibility. Basically saying ""if it was posted when you claim, that was before the dip but we don't handle posting so we aren't responsible"". They have no obligation or incentive to investigate the validity of the screenshot.
+
+Unix time which is accurate down to the second and doesn't vary by timezone is more accurate than sites that handle timezones incorrectly (can can vary based on the user's system time).
+
+The URL also isn't HTML that can be edited nor is it an image which can also be edited.
+
+The Unix time in the URL was always referring to a time after the dip.
+
+The Etrade link contradict others' claims that the original post was at 11:55am. It's supposedly showing an update at that time but the post was 11:43am according to that screenshot. So y'all can't even agree on the lie lmao. In reality, it's just a display issue.
+
+EDIT: Oh look, the same timezone issue happens with Reuters articles on Etrade: https://reddit.com/r/wallstreetbets/comments/m2dil9/the_gme_dip_today_was_shock_a_coordinated_effort/gql0nex",0,0,1615522798,July25th
+19,gqnn8v2,"IF YOU'RE GOING TO FILIBUSTER, YOU SHOULD RUN FOR SENATE!
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",0,0,1615522960,AutoModerator
+20,gqnncuc,"You don't think they would check their records before replying? As support that could land them in a lot of shit if MarketWatch comes after them.
+
+Idc about the url, etrade gets news via API. That article was pushed to etrade when it was timestamped to etrade.",0,0,1615523028,meta-cognizant
+21,gqnnkmp,"No, they don't need to because it's not their article. They just host it but it's on the author, not them. That's like yelling at Facebook for a story someone posted on their wall.
+
+The Etrade timestamp is consistently an hour off: https://reddit.com/r/wallstreetbets/comments/m2dil9/the_gme_dip_today_was_shock_a_coordinated_effort/gql0nex
+
+That proves that according to Etrade, once you account for their hour off, it was 12:43pm. So you actually just proved me right.
+
+You're just spreading false info like the news and hedge fund supporters lmao",0,0,1615523159,July25th
+22,gqnnysh,Lol that Reuters article says 11:26 EST when I go to it. Seems like whoever posted that can't read.,0,0,1615523404,meta-cognizant
+23,gqno4s4,"And for me it shows 12:26pm, I'm in EST.
+
+ https://imgur.com/QygjILd.jpg 
+
+It's almost as if timezones can be fucky... This is why Unix time can be trusted as absolute because it's timezone agnostic.
+
+You're worse than main stream media lmao",0,0,1615523507,July25th
+24,gqnojm9,"I'm in EST too.
+
+It's almost like articles can be taken down and republished with a new link. Hell, even with an extra 1 in it. 
+
+But yeah, you're definitely right. You sure know how to successfully convince someone that has a different opinion than you without insulting them.
+
+Enjoy your life. I don't care enough about this to keep discussing this with you given that you throw out random insults.",0,0,1615523768,meta-cognizant
+25,gqnpgsk,[removed],0,0,1615524362,[deleted]
+26,gqnpjaa,"You have done an excellent job at wasting my time.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",2,0,1615524406,AutoModerator

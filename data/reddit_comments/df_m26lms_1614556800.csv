@@ -1,0 +1,28 @@
+,comment_id,text,score,awards,timestamp,author
+0,gqhh5hx,https://www.youtube.com/watch?v=SD7sw0bf1ms,1,0,1615405700,LUIGI2323
+1,gqhh8tw,I am lost on this as well.,1,0,1615405739,PolyAndPolygons
+2,gqhhbbs,calls and puts give you the **right** but not the **obligation** to buy and sell 100 shares. you can let the option expire.,2,0,1615405769,LUIGI2323
+3,gqhhgfl,"I have yet to trade options, but from what I gather, you can exercise an option, which will have you buy 100 shares at the strike price. This will net you a profit of whatever the difference is between the strike price and the price point when you exercise. This value will always be equal to the profit if you were to simply sell the option. So if you don't have the money for 100 shares of whatever you have a call on, you just sell the option and make the same profit.",1,0,1615405828,bradeypuff
+4,gqhhuhs,"Yeah, but if someone exercises that option, are you the one who buys the 100 shares?",1,0,1615405996,totallybatman
+5,gqhhxfl,"-Sigh- 
+yes if you wish to exercise said call or put you will need the capital to fulfill it. 
+ But you can sell the option if you wish, and you can make the difference between what is was purchased and sold for. This is an option trade.
+
+ Please be careful getting into options though as this is where most new traders get burned. Bad.",1,0,1615406031,OdiumSui
+6,gqhhz9t,"So how do you make money off a call or put option? At what point do people exercise these options, and who is responsible for buying 100 shares?",1,0,1615406053,totallybatman
+7,gqhiene,"No, once you have sold the option it is now their fulfillment.",1,0,1615406233,OdiumSui
+8,gqhj1zd,"This is why I want to understand what everything means. So, you can sell an option to someone else at X price. The new owner can exercise that option, and nothing comes back to you?",1,0,1615406503,totallybatman
+9,gqhj76c,"you generally make money by selling the call/put option itself. 
+
+theres two types of ""options"" (simplified.) theres calls/puts, and then theres covered calls and cash-covered puts. calls/puts give you the **right** to buy/sell 100 shares of the stock. whereas, covered calls/cash-covered puts give you the **obligation** to buy/sell 100 shares of the stock. the latter is the one whos actually providing the 100 shares/the cash required to buy 100 shares.
+
+lets say theres a stock called $CAT and its $1. i have 100 shares, so i want to sell a covered call. you get a premium upfront when you sell a covered call, and someone basically ""buys"" the covered call. lets say the stock goes up to $2 now, and the person who bought the covered call wants to exercise their option. i am forced to sell $CAT for $1 to the person who bought the covered call, even though the stock is at $2.
+
+
+now, lets say i bought a regular call on $CAT for a strike of $5. at expiry, its at $3. because i have the **right** but not the **obligation** to buy 100 shares of the underlying, i can just let the option expire because im not forced to buy.",1,0,1615406566,LUIGI2323
+10,gqhj771,"IF YOU'RE GOING TO FILIBUSTER, YOU SHOULD RUN FOR SENATE!
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",2,0,1615406566,AutoModerator
+11,gqhk6ck,[deleted],1,0,1615406991,[deleted]
+12,gqhk8o2,"Okay, so there are two types of Calls and Puts. The safe one to buy, is just the Call or Put, which allows the new buyer to either sell or buy said stock at whatever price that Call or Put was at. Is that accurate at all, or did I go full retard there?",1,0,1615407019,totallybatman
