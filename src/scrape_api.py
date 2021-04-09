@@ -66,6 +66,7 @@ def get_df(input_path, output_path):
     filtered_df.set_index('date', inplace=True)
     final_df = filtered_df.drop(filtered_df.columns[0], axis=1)
     final_df = final_df.sort_index()
+    final_df = final_df[final_df.index.month == 3]
     final_df.to_csv(output_path)
 
 
