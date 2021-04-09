@@ -1,0 +1,86 @@
+,comment_id,text,score,awards,timestamp,author
+0,gpm7myc,Bullshit.,4,0,1614830395,ImpossiblePasta333
+1,gpm7twq,?,-1,0,1614830501,rozhasi
+2,gpm7tzn,[removed],1,0,1614830502,[deleted]
+3,gpm7uz7,[removed],1,0,1614830518,[deleted]
+4,gpm7vfi,Screenshots or ban,-2,0,1614830525,Shatenburgers
+5,gpm8165,"I know this is where the real money is with stocks, but fuck that noise. 
+
+I mean it's entirely possible it was part of the terms and conditions that no one reads.",1,0,1614830612,boredatwork2082
+6,gpm84ep,Basically yes. They’re just telling you to sell the option before it expires or else you’ll get nothing.,14,0,1614830662,Verb0182
+7,gpm89r2,It didn’t negatively affect me yet. I just want to find out if other brokerages do it too.,0,0,1614830744,rozhasi
+8,gpm8hxq,"I use Etrade and this only applies on the day of expiration right before close.
+
+The second part is common.  If you don't have the money to excercise an option and it is itm they will typically sell it 15 mins to an hour before close on Expiration day. Why would you want to hold it and have it expire worthless. 
+
+The first part also makes sense.  Why would you not want to excercise a contract to buy the underlying security, this is actually why options were invented to acquire stock at a certain price/date.
+
+Both of these seem in line with a brokerage taking care of their customer.  Can you imagine what would happen if they didn't do this and an option that was worth something expired worthless.  Could be worth thousands of dollars each contract.",4,0,1614830871,neothedreamer
+9,gpm8pf5,"I'm pretty new to options too, but yeah that's my understanding. If you expire in the money the default is to exercise, because why wouldn't you? If you don't exercise or sell you get nothing.",3,0,1614830991,padrino39
+10,gpm8qbl,"They actually tell me that they would exercise it for me if it’s ITM. 
+
+If it’s a call option, they would buy the underlying shares if I have enough cash + margin. They would use margin and charge me  interest if I don’t have enough cash. 
+
+If it’s a put option, they would exercise it and sell the underlying shares - if I have any. If I don’t have any underlying shares, they would sell them short (by putting me on margin and charging me interest). 
+
+This just doesn’t sound right to me for long options.",1,0,1614831005,rozhasi
+11,gpm9ffp,"Yeah it might depend on the broker. Most brokers auto exercise. RH says they will try to sell your option for you if you don’t have cash. Maybe TD doesn’t. Either way the choice IS still yours. You can tell them DNE. 
+
+But really take exercise out of your vocabulary :) sell them before 2 or 3 PM (ask TD what their policy is regarding cutoff )",2,0,1614831399,Verb0182
+12,gpm9h05,"Because they would put you in a short position on the underlying security if your put option is even 1c ITM (even if it’s not at the break-even point for you). And that would be right before the close of market on a Friday. By next Monday morning, your short position could be losing you a lot of money. If I buy a put contract to speculate on it (without any intention to sell shares), I don’t want them to exercise it. If it expires ITM but still not profitable, why can’t I simply let it expire? It’s a long contract. I should have a choice to let it expire ITM.",0,0,1614831423,rozhasi
+13,gpm9l5u,yeah etrade did this to me with tesla. they do it because I’m guessing you don’t have the money in your account to cover the option being exercised correct? So they are risking their money hence why they want to hedge it,1,0,1614831490,JsonPun
+14,gpma3bs,"How are they risking their money? If you don’t have cash (and enough margin), you can’t exercise the ITM call option. So, where is the risk for the broker?",0,0,1614831780,rozhasi
+15,gpma6nc,I had a bunch of long Sears puts get exercised on me several years back.  I think they were $.10 ITM.   I just lost track of time on that Friday.   Woke up Monday to being short 5000 shares.   If this does happen though you will at least have the cash proceeds from the share sales to cover your short.   Just have to hope it doesn’t open higher.   In my case I was able to buy back the shares in pre market and still made a few hundred $.,3,0,1614831834,Indycrr
+16,gpmamef,This blows my mind. I wish there was a choice to tell them that you don’t want them to exercise your options ahead of time instead of having to do it on the expiration date only.,-5,0,1614832092,rozhasi
+17,gpmb867,"Yeah so the thing to do in that case would be to sell the option before it expires. You might not be at break-even, but at least you can get a little money back and it's probably less of a hassle than calling the brokerage and telling them not to exercise.",2,0,1614832456,padrino39
+18,gpmb8ur,"It’s correct. TDA is very hands off which is a good thing for traders but it’s your responsibility to sell the contract if you don’t want to exercise. If you don’t sell it and your contract is ITM by even a penny, they are obligated to fulfill the contract and sell shares. You can always call them right after market close and request a do-not-exercise and they will expire the contract instead.",2,0,1614832466,Trade_Theory
+19,gpmbry5,"RH does the same thing—the brokerages are assuming we are buying options because we want to buy the underlying shares at the strike price, not sell off the contracts. Maybe they could incorporate some sort of feature where the purchaser signifies beforehand if they intend to sell the contract or buy the shares.",1,0,1614832788,greenpurples
+20,gpmcxes,Just throwing it out there Webull has a Do Not Exercise button,2,0,1614833501,Rekeever
+21,gpmczn3,[removed],1,0,1614833540,[deleted]
+22,gpme9d7,"Then just sell the position, it's your own responsibility to manage your own positions. Don't blame the brokerage",12,0,1614834350,X12Player
+23,gpmeb1x,"Ask them to exercise and close immediately. Or sell the ITM option at the end of the day if you don't want an open short position.
+
+If you sell a $20 put, and it goes to $10, your put is worth $10 at the end of trading Friday. If they exercise for you, your account is credited $2,000 and you are short 100 shares of stock. If Monday comes and the price rockets to $25, you need to buy 100 shares on the open market and you're out $500. 
+
+But honestly, if you own a put, you probably don't expect the price to rebound, right?",2,0,1614834382,Faedro
+24,gpmf71m,"You do have a choice. You can close the contract early (I really don’t get why you need/want the contracts to expire). Or if it’s ITM at close and you don’t want to exercise it, call up your broker and tell them not to exercise. You have time after market closes to make that decision.",1,0,1614834956,SportTheFoole
+25,gpmgusw,[deleted],1,0,1614836051,[deleted]
+26,gpmipar,"Yes. They are correct. If it's in the money after hours on the day of the expiration they will exercise it.
+
+If you do not have any money to exercise the option, they will attempt to sell it.
+
+Best is to sell it yourself though instead of waiting for them and running the risk of it expiring.",2,0,1614837366,darksoulmakehappy
+27,gpmji8y,[removed],1,0,1614837971,[deleted]
+28,gpmjji1,"Think about what you are saying.  No sir I don't want money.....
+
+I would rather let my options that I paid money for expire worthless.  I am not sure you are cut out for trading options, maybe trading in general.
+
+You said in your post that you can tell the brokerage that you don't want to excercise.  I guarantee you if you do that the brokerage will either excercise or sell it and just keep all the profit.",3,0,1614837996,neothedreamer
+29,gpmkrfn,they let me exercise it even though I didn’t have enough,1,0,1614838926,JsonPun
+30,gpmps3i,"Yes, this is common practice on practically all brokerages. If you don't want it to automatically exercised on expire, then close it out yourself. What's the problem?",1,0,1614843080,ihavequestions987
+31,gpn5cbx,"If your option is one penny ITM, closing out the option position will cost you extra compared to just letting it expire because even though it’s ITM, it’s not yet profitable for you considering that your premium for each share was more than a penny.",1,0,1614857724,rozhasi
+32,gpn5rcl,"If they exercise for you, your account is not credited anything. You get to sell shares at the strike price of the option. If you don’t own the shares, they are entering you in a short position. That’s hardly what most people want to happen right before the end of trading on a Friday. Come Monday, your short position may be losing a lot of money.",1,0,1614858072,rozhasi
+33,gpnvel1,"How the fuck do you think short selling works? 
+
+You sell a share you don’t own and receive cash immediately. 
+
+You use that cash to do something else until you’re ready to buy back that share at a later date and close the position.
+You also have an IOU in your account for the value of that share. Presumably, that IOU amount decreases over time or you wouldn’t have bought a put or shorted that stock.
+
+But yes, you receive actual cash in your account you can use to long something else, the share value is also on your account as margin.",1,0,1614872445,Faedro
+34,gpo71zp,"Yes, you get cash for your brokerage selling shares short by exercising the long put contract for you. 
+
+I was referring to the fact you don’t get any premium on the contract if it gets exercised. So, if it’s a volatile stock, they will exercise your long put contracts and place you in a short position on hundreds of shares. The following Monday you will have to cover your short position - very likely at a loss - as you were speculating on the put contract, not trying to go short on underlying security.
+
+You realize that a long option contract gives you  a choice to exercise or not, right? When your brokerage exercises for you because you forgot (or could not) close your long position before expiration, this is not a choice anymore. Imagine you went on a vacation and found yourself without cell or internet coverage. You could be screwed majorly if your brokerage enters you in a short position while you can’t reach them.",1,0,1614877496,rozhasi
+35,gpo7tto,"You have done an excellent job at wasting my time.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",1,0,1614877828,AutoModerator
+36,gpoajd1,"My god you're retarded. At the end of expiration, there is no premium, only intrinsic value.
+
+You own a $20 put. Stock closes Friday at $15. Option is worth $5. If they execute, they give you +$20 cash and you're short 1 share. Assuming Monday opens where Friday closed, you buy a share for $15, close your short, and keep $5 cash in your account, the same as if you exercised Friday.  Multiply all those numbers by 100 because options.
+
+What the fuck are you going on about covering very likely at a loss. If your option is exercised, barring something crazy happening over the weekend, it'll open roughly where it closed - see example above.
+
+If you're playing with a volatile potato, that's on you.",1,0,1614878994,Faedro

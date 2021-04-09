@@ -1,0 +1,82 @@
+,comment_id,text,score,awards,timestamp,author
+0,gpn03bb,"Sir, this is a catnip lounge.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",13,0,1614852883,AutoModerator
+1,gpn09y0,[removed],1,0,1614853064,[deleted]
+2,gpn0clq,Funny words magic man🚀,68,0,1614853136,EnergyMatrix
+3,gpn0f1e,[removed],1,0,1614853201,[deleted]
+4,gpn0hya,[removed],1,0,1614853281,[deleted]
+5,gpn0jbw,"Got your TL;DR for you broh:
+
+🚀💎🤲🦍",6,0,1614853320,jeaux_seph
+6,gpn0jba,[removed],1,0,1614853320,[deleted]
+7,gpn0ke5,TLDR?,16,0,1614853350,TimsKillerRabbit
+8,gpn0nq2,[removed],1,0,1614853442,[deleted]
+9,gpn0pp8,"cool info, thanks for this.
+maybe an additional column of # of contracts ITM at that price point?  so that one would easily be able to compare hedged shares vs potential shares owed.
+
+Looking at the % of float, I would assume that options writers haven't actually hedged that much lol.",4,0,1614853496,domipal
+10,gpn0ult,"So, do you think she needs a new turbo encabulator or flux capacitor?",17,0,1614853629,angstypoo
+11,gpn0vok,"&gt; cool info, thanks for this. maybe an additional column of # of contracts ITM at that price point? so that one would easily be able to compare hedged shares vs potential shares owed.
+
+I had this at one point, but didn't find it too useful. I may include it in the future.
+
+&gt; Looking at the % of float, I would assume that options writers haven't actually hedged that much lol.
+
+That is most certainly the case. For some tickers I've seen price points that had &gt;100% of float.",3,0,1614853659,pennyether
+12,gpn0x06,"No one knows what it means..
+
+but it’s ***provocative***, 
+
+it gets the people going🚀",103,0,1614853696,Litlobster
+13,gpn0ybb,She canny take much more captain,5,0,1614853731,Dry-Sympathy-3451
+14,gpn11u9,GME blah blah blah GME blah blah blah,-7,0,1614853828,RatchetCliquet
+15,gpn15nf,[removed],1,0,1614853931,[deleted]
+16,gpn1652,Sorry gonna need a too long; understood none,3,0,1614853944,7Thommo7
+17,gpn1idn,[removed],1,0,1614854266,[deleted]
+18,gpn1w6s,[removed],1,0,1614854634,[deleted]
+19,gpn28dz,"Much epic, this comment is",7,0,1614854954,de_wokkie
+20,gpn29a3,Good job,2,0,1614854977,ScrewedUpDinosaur
+21,gpn2a6y,"Read the first sentence, had to google \~10 of its words. Nice.",12,0,1614855001,VollbierJo
+22,gpn2n7j,Ten years ago u/pennyether had a choice,0,0,1614855340,VicTheRealest
+23,gpn2rgi,"I've been meaning to do something like this, but haven't had time thanks to work so I appreciate your effort. I'm a little confused about the 24hr delta, I understand that charm makes delta approach +-1 or 0 whether it's ITM or OTM as time expires. What I'm unsure of is whether or not this is a fair way to approach the problem since the options effected by charm will be larger on fridays than on a monday for example. So wouldn't this number move violently through out any given week? I'm also kind of surprised it's negative with out many ITM calls and OTM puts there are.",2,0,1614855448,I_sell_FDs
+24,gpn2xdu,Thank your for your research. 🚀🚀🚀,4,0,1614855604,_menzel
+25,gpn34us,gets me **JACKED TO THE TITS**,23,0,1614855793,Newfarious
+26,gpn3flp,"Yes, the 24hr delta flux values will tend to be larger towards the end of the week, especially if a large amount of the open interest expires that week.
+
+I don't really understand how that is ""unfair"", though.",2,0,1614856060,pennyether
+27,gpn40pl,"Maybe unfair is the wrong word to use there, obviously I think this is all great work, but my point is that while all of the other numbers will move slowly over time, the 24hr delta will adjust by the day, so it's hard for people to us that in any reasonable model though I honestly don't have a better suggestion besides graphing out the 24hr delta by day if no change occurs and that seems like substantially more work, which I know I don't have the time for so I wouldn't expect that level of analytics.
+
+Also I'm probably not appreciating enough that the open interest per week is a small portion of the overall options chain. So this could be more negligible than I'm making it out to be. I'm unsure, just wanted to ask the question! :)",1,0,1614856581,I_sell_FDs
+28,gpn4riq,"Ideally I'd be able to somehow visually represent a 3d cube with an axis for each of: price point, time, volatility.  Not sure how to do that just yet!
+
+Flattening this down to 2d is possible, but makes it harder to compare along the ""pivoted"" axis.  For example, in each row I could show a spark line for each of gamma, charm, and vanna, where the x axis is price, time, and IV, respectively.  However, comparing the spark lines between price points becomes cumbersome.
+
+On Reddit, I can't squeeze a sparkline into each cell, and so I just have to pick one point along that curve to go with.  I chose 1% for gamma, 24hr for charm, and 1.1x vol for vanna.",2,0,1614857234,pennyether
+29,gpn4rjk,You had me at Charm.,2,0,1614857234,poundofmayoforlunch
+30,gpn530h,buy more gme,10,0,1614857506,HundredSpears
+31,gpn53x6,[removed],1,0,1614857528,[deleted]
+32,gpn54us,[removed],1,0,1614857548,[deleted]
+33,gpn63yc,[removed],1,0,1614858360,[deleted]
+34,gpn6f1w,"Alright then, keep your secrets.",15,0,1614858609,chatterthang
+35,gpn6n47,Make it so.,2,0,1614858787,chatterthang
+36,gpn7hnz,[removed],1,0,1614859439,[deleted]
+37,gpn878t,"If im reading this correctly, quite a bit of shares being used to hedge are getting dumped with each day that passes and the price remains stable?
+
+Also this is really incredible work. I really appreciate the time you've put into this post. This really helps paint a clearer picture of where things can head.",5,0,1614859969,doublegulpofdietcoke
+38,gpn9unc,[removed],1,0,1614861147,[deleted]
+39,gpncyoe,[removed],1,0,1614863225,[deleted]
+40,gpnece9,What if the Run up last week is them hedging and already hold lots of shares to try to reduce gamma squeeze?,1,0,1614864059,hc000
+41,gpnib4p,Same thank you OP! Killer stuff!,4,0,1614866238,throwawaylurker012
+42,gpnmk7y,[removed],1,0,1614868430,[deleted]
+43,gpnqyvy,Can you do a tl:dr on the first sentence,2,0,1614870488,CoSlayerXXX
+44,gpns2zp,I tried my best. I'll just hold.,2,0,1614870976,mAliceinTendieland
+45,gpnubkw,[removed],1,0,1614871968,[deleted]
+46,gpnvdkv,[removed],1,0,1614872433,[deleted]
+47,gpoc5bi,[removed],1,0,1614879682,[deleted]
+48,gpoj3uk,G(ive)ME money!!!!,1,0,1614882613,DrunkSpartan15
+49,gppb853,"We aren’t fucking archeologists, explain the hieroglyphics. 
+
+(I can’t spell, Tim 🍎did it for me)",1,0,1614894430,sforpoor
+50,gppg8r6,[removed],1,0,1614896689,[deleted]
+51,gqtco9s,Math,1,0,1615655822,hikepdx

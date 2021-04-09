@@ -1,0 +1,25 @@
+,comment_id,text,score,awards,timestamp,author
+0,gpolli7,Additive manufacturing would 10+ not 10x,2,0,1614883661,Magicarpal
+1,gpom3g8,"Are they still in a litigation battle with MarkForged? Holding them back imo, as many other companies are just embracing competition. For broader exposure to AM as a whole the PRNT etf covers polymer/ceramic/metal printing including DM",4,0,1614883868,lobstercow42
+2,gponmfw,[removed],1,0,1614884508,[deleted]
+3,gponmfq,"I agree with you that it will grow, but its still far from good (I work in spacecraft engineering). I've worked with additive manufacturers to try and find suitable applications for us but its pretty sparse. There's a time and place for everything, but I don't see additive manufacturing ever overtaking conventional manufacturing. It's a supplement for sure but it's extremely expensive (DMLS &amp; SLS), accuracy is shit compared to CNC, strength is ok, but for a lot of fatigue and creep applications it's too porous and prone to failure.
+
+For metals,  parts made are generally inferior in quality, strength, and the cost is exorbitant. For plastics, you really can't beat the low cost of injection molding. It's great for prototyping tho, use it all the time at work. 
+
+Not trying to downplay how revolutionary additive is, but there's a lot more to it that's holding the industry back. 
+
+Rapid manufacturing is becoming increasingly popular though. Take a look at protolabs and xometry too.",6,0,1614884508,tothemoon1023
+4,gpoon48,I'm not super familiar with 3D printers currently used in procedures but I would this cause hospitals to register as a medical device manufacturer with the FDA?,1,0,1614884936,brainal46
+5,gpopuqq,[removed],1,0,1614885444,[deleted]
+6,gpopv27,"The metal thing is a bit of a gimmick with how good composites are. When you need to use metal there's a reason and it usually aint cost. Sintered metal parts are already limited in their applications, now I have to wait for them to print and pay twice as much to save a gram of carbon? 
+
+As you said, prototyping, sure. Manufacturing? Ehhhhh. IT guy had some sales guy try to get me to use it for punch and die tooling. I lol'd him out of my office and said he can stand next to the press and hit the go button, I'll be as far away as possible erasing all potential links to my liability in his ultimate demise.",2,0,1614885448,gammaradiation2
+7,gpos7yy,"LOL laser sinter for tooling? Sales person is a clown, tooling generally has the tightest tolerances.
+
+To your point about composites tho, I work with a lot of carbon fiber and GFRP. That shit is way more expensive than machining for custom parts, the strength to weight is good but at a huge cost. Bearing strength is ass, so you have bond shit to composites with requires a lot of labor, tooling, and consumables (a lot of which are dangerous chemicals and require certifications just to buy them). Not even touching on fiber aerial weight, resin content, CPT, balancing laminates, CTE mismatch, strong galvanic potential of CF, such a headache
+
+I have to write a 40 page document just to control the handling and curing of pre-preg. Composites are the epitome of cancer for manufacturing, but goddamn do they look sexy and perform well haha.",3,0,1614886404,tothemoon1023
+8,gpoval1,[removed],1,0,1614887654,[deleted]
+9,gppkto7,"Cutting edge composites are deffinitely expensive. Glass reinforced Nylon is a composite and has pretty much replaced metal everywhere metal isnt needed because it is cheap, light, moldable, and strong enough. 
+
+On the tooling it isnt just the tolerance, 0.005"" is the standard for what I do. I didnt even get to tolerances in the conversation. Up to 10 tons on a 1"" barrel is also the standard. S7 tool steel is the go-to but other chemistries are available when needed.  Mild steel deforms. Carbon steel fatigues and ultimately shatters, potentially in a pseudo explosive manner. One punch and die set made of S7 is about $100 and lasts millions of cycles.",1,0,1614898865,gammaradiation2

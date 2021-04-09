@@ -47,9 +47,9 @@ def get_posts():
             print(res, start, e, len(posts))
 
 
-def get_posts_df():
+def get_df(input_path, output_path):
     pd.set_option('display.max_columns', None)
-    all_files = glob.glob(POSTS_DATA_PATH + "/*.csv")
+    all_files = glob.glob(input_path + "/*.csv")
 
     dfs = []
 
@@ -66,8 +66,7 @@ def get_posts_df():
     filtered_df.set_index('date', inplace=True)
     final_df = filtered_df.drop(filtered_df.columns[0], axis=1)
     final_df = final_df.sort_index()
-    path = os.path.join(os.path.join(PROJECT_PATH, 'data'), 'posts_df.csv')
-    final_df.to_csv(path)
+    final_df.to_csv(output_path)
 
 
 def get_posts_list():
@@ -123,7 +122,7 @@ def get_comments(post_ids):
 if __name__ == '__main__':
     posts = get_posts_list()
     posts.sort()
-    post_id = 'lwgdok'
+    post_id = 'lxva6s'
     idx = posts.index(post_id)
     print(idx)
-    #get_comments(posts[1235:])
+    #get_comments(posts[1764:])

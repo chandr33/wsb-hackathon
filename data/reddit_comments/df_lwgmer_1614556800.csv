@@ -1,0 +1,55 @@
+,comment_id,text,score,awards,timestamp,author
+0,gph8h2k,don’t know can’t read,0,0,1614731042,Ionrememberaskn
+1,gph8j81,yes,3,0,1614731073,Grumpy-james
+2,gph8js3,"Sorry man, I typed as slow as I could.",2,0,1614731081,Geoclasm
+3,gph8k3m,Sell to close my friend.,1,0,1614731086,BOOFIN_FART_TRIANGLE
+4,gph8ohg,Can’t read don’t know,1,0,1614731148,SkeeGawd
+5,gph8py7,I can't really focus on it right now.  Just went on a binge and ate all of the Granny Smith Apple crayons in the house.,1,0,1614731170,Jim-Kool-Aid-Jones
+6,gph8sby,"Type slower, please. I still don't understand.
+
+You still have to front the cost of the contract, right? If I don't have the cash to buy the stocks at... oh fuck me, I think I get it. God damn it, your bullshit comment put a wrinkle on my brain. Son of a bitch...",1,0,1614731204,Geoclasm
+7,gph8t7f,"Wrong sub.
+Go to r/options or just simply google it.",1,0,1614731217,CanadianGoku33
+8,gph8y6u,"Your post makes sense to me. I bought my first call today, very very minimal risk with probably even smaller payout if it succeeds. Kinda hoping to learn as it happens but I’m also curious as to the logistics of this.",2,0,1614731288,Capernikush
+9,gph8yak,"yea, this is something im concerned about as well, i'd also like to dip my toes a bit into options, but you'd still need to buy them first right? and assuming they come at 10 or even 100, that's thousands of dollars,.which I cant afford in my current, so im sticking with just buying shares and hope for the best",1,0,1614731289,GuiltyGai
+10,gph8zds,"Call contracts give you the ability to purchase 100 of the stock at the strike price. The cost of these contracts is roughly the difference between the strike and current price as long as it'a in the money and we completely ignore volatility altogether.
+
+With this in mind, imagine you bought a 10c for a $9 stock for 50 cents each ($50 total for 100 shares per contract). Then the price goes up to $11 before the expiration. The difference between share cost and strike is now $1. This equates to $100 per contract. You just doubled your money. Reply to this will give an idea of what happened with meme stocks recently.",2,0,1614731304,boom1chaching
+11,gph92fg,Omg same I’m new here since gme started and read stuff on investopedia but I’m still not understanding the massive gains,1,0,1614731347,lagavulin92
+12,gph9d5e,"Example: Gamestonk
+
+Imagine you thought the stock was going to jump from $20 to literally infinity. The max strike you could get at the time was like $60 or something for probably about 2c premium if you bought it the week it expired. And then that bitch took off and got to 120 by the expiration. Your call just went from worth 2c premium each ($2 per contract) to AT LEAST the $60 difference between strike and price ($6000 per contract).
+
+Bonus: when stocks fluctuate wildly, volatility plays in and makes calls AND puts worth more. So now you do the math. For every $2 you spent, you got $6k back.
+
+Edit: you sell the call contracts and you don't have to purchase the stocks themselves. You pawn that off on the next guy who buys the contract from you.",1,0,1614731499,boom1chaching
+13,gph9hdh,"I was having the same issue. I still havent fig\red it out. I think I need to take a class. I start when covid hit. Bought dave and busters, carnival, spirit. Increased by 150 percent. But I didnt invest much.",1,0,1614731559,kimerrn
+14,gph9i92,[deleted],1,0,1614731572,[deleted]
+15,gph9ilb,"Most contracts don’t get sold and expire worthless or sold for a loss. Most people don’t exercise because it doesn’t make sense to hold onto shares of a stock you don’t actually want. (Or can’t afford to) When you can control 100 shares for a fraction of the cost then sell the option after you’ve made your money. 
+
+You don’t find the buy the broker does. You just set your price or sell at market. But you’re over complicating it. 
+
+Just buy some options cross your fingers and fuck it",1,0,1614731577,SeriousBlack183
+16,gph9ns2,"Options investing isn't a good idea if you need it explained to you like you're 5. Not that this sub is constrained by good ideas though.
+
+&gt;What DOESN'T MAKE ANY FUCKING SENSE TO ME is how you turn $600 into $15,500. You still have to front the money to buy those stocks right? You can't just immediately turn around and sell them to make money magically appear without first paying for them, right?
+
+
+Your link shows someone who owns 10 options contacts- which gives them the right but not obligation to buy 1,000 shares at the strike price on or before expiration. They don't own any shares. To get shares they'd have to exercise the options (forcing whomever sold the options to sell at that price), which indeed, would require them to have 1000x(strike price) on hand.
+
+But that person doesn't have to exercise the options to profit off of them. They can just sell the options to someone who wants them. HFT systems are constantly looking for arbitrage opportunities (e.g. opportunities to profit by buying the options, exercising the options, and selling the shares) and because of this the expected profit from exercising and selling is about the same as the expected profit from just selling the options.",1,0,1614731653,KookyWait
+17,gph9qbb,"I have very limited experience / knowledge in this area but you can sell calls/putts without actually owning the stock. You make money on the premium and you hope the price stays at a price point that makes it so the buyer of your call/putt doesn't exercise the option. 
+
+You can also sell your open call to close it out and take the premium. -- not 100% on how this one works though.",1,0,1614731689,projectyota
+18,gpha3uz,"1. You don’t have to pay the price of the underlying stock. Usually you just sell it to someone else that wants it. Maybe you buy a contract for 3.10 and it rises to 4.50 so you decide to sell it that price. You make 1.50 x 100.
+2. If you sell a $12 call on a $10 stock the option isn’t worth $12 it has no intrinsic value it’s all time value. So it might worth $0.6 (Just a guess). You get 0.6 x 100 = 60 but that’s the maximum amount you will make, you still have to close it or let it expire. So if the stock goes to $12 then the contract is worth more which means that if you decide to close you will have to pay more than you got from selling it. If it’s under $12 at expiration then you get your full $60.",1,0,1614731882,ToiletCompanion
+19,gphanik,[deleted],1,0,1614732158,[deleted]
+20,gphb58u,"If your contract is FAR in the money when expiry time comes but you can’t afford the shares, you will ALWAYS be able to find a buyer.
+
+Say your friend told you about GME back in June when it was trading around $5 dollars (for example) and you looked up the available options which are set to expire on Feb 1st. The $40 2/1/21 call contract probably would have had zero volume so it would have been worthless but your information was so good you were willing to place a bid of .20 for 10 contracts. Each contract covers 100 shares so the premium due to the seller would have been $200 at the time of the trade. Someone would have no problem selling you the right to buy 1000 share at $40 of a “dying” company currently trading at $5. Keep in mind the owner of this contract wouldn’t even break even until the stock was trading at $40.20. 
+
+Now comes the squeeze. You completely forgot about your contracts so you haven’t been tempted to sell yet but you find out GME closed the day trading at $350 on January 27th just 5 days before your call options expire. To exercise your options in full you would need to drop $40,000 more on top of the $200 you already dropped but those 1000 shares are now worth $300,000. If there was absolutely no way whatsoever for you to buy any of the shares and you were forced to sell the contracts, you could realistically ask for a shitload of money for each one of them. At 350 per share someone could pay $15,000 per contract, buy all 1000 shares for $40,000 and still net $10k. So in this scenario you might have turned your $200 into $300,000. 
+
+I could be wrong though. I just started doing this and I’m ratarded",1,0,1614732413,Departure-Extra
+21,gphbooj,I think you’re on the right track but the follow through just wasn’t there,1,0,1614732692,Departure-Extra
+22,gphdvfj,veivoenevevso ehd. end dbdbe pajf,1,0,1614733827,Ionrememberaskn

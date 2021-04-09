@@ -1,0 +1,332 @@
+,comment_id,text,score,awards,timestamp,author
+0,gph7ewt,You literally cannot do this with the same expiration.  If you split the expiration dates it’s called a calendar spread.,7,0,1614730501,Ded_Aye
+1,gph7iq7,Any post that starts with “I can’t tell if I’m retarded or a genius” the answer is always retarded,51,0,1614730556,Soupboy808
+2,gph7l8e,"I thought about this too, seems genius, but when ive tried i couldnt pull it off",1,0,1614730592,Comfortable-Funny-15
+3,gph7nih,This is what I’m looking for. Why can’t you do it? Will your broker just not allow it?,2,0,1614730624,NinjaPirateKing
+4,gph7swd,Sell a put buy the same put they cancel each other out.  You have no position.,11,0,1614730700,Ded_Aye
+5,gph81l6,Definitely a retard,15,0,1614730822,Key_Arm_6566
+6,gph8655,Definitely retarded,1,0,1614730887,Jmoolaspec
+7,gph895a,You aren’t buying your own put though. You must buy the security if the price drops but you have the option to sell. If the price rises you just let your put expire and you just used a cash secured put.,1,0,1614730930,NinjaPirateKing
+8,gph8dzo,You belong here. 😺,1,0,1614730999,layinginthewetspot
+9,gph8hd2,Not surprising. But i need to know exactly why.,1,0,1614731047,NinjaPirateKing
+10,gph8py2,"Let’s say you could do this. (Which I guess you could if you had different brokerages and bought in one and sold in the other.) Why wouldn’t the person you sold the put to exercise it as well if the price dropped below the strike, and sell you a bunch of overpriced shares too, just like you want to do with the put that you bought?",3,0,1614731170,trialrun973
+11,gph8t8l,[removed],1,0,1614731217,[deleted]
+12,gph8vm8,"Spend a dollar at Walmart, earn a different dollar from Wendy’s.  What’s your net position?",7,0,1614731251,Ded_Aye
+13,gph91nf,"you need your broker to stop matching purchases to sales, this will allow you to have both the long put and short put ownership in your account.
+
+
+You could come very close to the same position by buying the narrowest spread you can... 
+
+but think hard about what the position really looks like in a falling market.
+
+Hint: lots of work, still retarded.",3,0,1614731336,mikeyj198
+14,gph964b,I think hes saying its the same as not entering the position at all it just looks different,1,0,1614731399,Climbwithzack
+15,gph96qt,[deleted],1,0,1614731408,[deleted]
+16,gph9apk,"Okay, I think, huge emphasis on think, I know what you mean.  It’s retarded btw.
+
+Assumption: If you owned 100 shares, you could set a limit buy and a limit sell at the same time for the same strike and profit a $0.05/share if both are executed.  Its possible, however this is assuming both get executed.  This doesn’t always happen.  When it doesn’t, you’re in for some fun.  And by fun, I mean bend over.",2,0,1614731464,Libeca
+17,gph9bpv,"I think you are misunderstanding. You want the put you sold to be exercised. Your goal is a cash secured put. You only buy the put to hedge in case it goes lower so that you break even and can now perform a cash secured put at the lower price.
+
+If the price rises your hedge expires and you are in a traditional long position. Assuming it dipped initially enough to fill your cash secured put.",1,0,1614731478,NinjaPirateKing
+18,gph9ebw,"buy $50 puts for $5, sell $50 puts for $5
+
+stonk goes to $25, you like the stonk.
+
+You buy stonk at $25
+
+At expiration:
+
+Your short put is worth $25, you sold it at $5, you lost $20.
+
+Your long put is worth $25, you bought at $5, profit of $20.
+
+
+
+Final score: bought the stock at $25 and paid commissions to trade options that netted to zero.
+
+
+You belong here",3,0,1614731516,mikeyj198
+19,gph9g6t,Second that,6,0,1614731542,ddubwaz
+20,gph9p8p,So you broke even on your cash secured put when the price dropped instead of rose. That’s exactly what a hedge is for.,0,0,1614731673,NinjaPirateKing
+21,gph9tsi,Not quite my meaning. It’s to buy a cash secured put without worrying about the price dropping further.,1,0,1614731739,NinjaPirateKing
+22,gph9yj8,It’s not though. If you let your put expire then you own the security if the put you wrote is exercised.,1,0,1614731807,NinjaPirateKing
+23,gpha28c,Ask yourself how you’d make money on this setup.  Then you won’t need to ask “why not”.,2,0,1614731859,Ded_Aye
+24,gphaaod,"This seems like informed information. What am I missing?
+
+In a falling market the put you sold gets exercised. You now own the security but the price is dropping.
+
+Fortunately you essentially used a married put to hedge those securities so you take no losses. Isn’t that correct?",1,0,1614731977,NinjaPirateKing
+25,gphaopk,"If the price drops and your short put is assigned you own the stock at that price and it’s hedged with your long put.
+
+Now when the price of the security rises you have a long position and profit.
+
+It’s essentially just combining cash secured puts and married puts to ensure you buy at the best price or at least lose nothing.",1,0,1614732175,NinjaPirateKing
+26,gphb1uj,"yes, you paid broker transactions to be able to buy the stock at the prevailing market price.
+
+Congrats!",1,0,1614732364,mikeyj198
+27,gphb5wm,"Okay.  I didn’t fully grasp the stupidity of what you’re attempting to do.  This is turning out to be more retarded than I thought.
+
+Keep in mind, you can’t sell and buy the same option at the same time, because they would net  out to nothing.  Even if you did on 2 separate platforms, again, you would net even or maybe a $0.05/share gain at most if you did it at the same time, then just go negative from theta.  Your actual net potential gain is $0.05/share and potential losses is $0, because they either both expire OTM and you net the difference in initial cost price, or they expire ITM and you net the difference in initial cost price.  This is assuming you get filled in both to be fair, if you get filled only on one end, bend over.",1,0,1614732423,Libeca
+28,gphb76r,Whatever product I got from Walmart minus the opportunity cost of my labor at Wendy’s.,3,0,1614732441,NinjaPirateKing
+29,gphbfzw,"Nope.  You also lost the bid/ask spread in your two options.  Unless you execute one side then input the other side’s order, while price fluctuates and you could get stuck with only half the trade on.
+
+This is a lot of work when you could, you know, just buy the stock.  Or buy a sufficiently ITM call to lower your extrinsic option cost and essentially get a delta of 1.",1,0,1614732566,Ded_Aye
+30,gphbkfj,"If I buy the stock at market and it drops I’ve lost money.
+
+If I use a cash secured put to buy the stock I’ve lost money but I got the premium. If I use the premium to hedge the stock and the stock drops I break even. If it rises I let the hedge expire and I’ve made profit.
+
+The situation isn’t comparable.",1,0,1614732630,NinjaPirateKing
+31,gphblc5,"smooth brain, think slower.
+
+Day one you own no stock
+
+Day two you buy and sell puts for the same price
+
+Day three the stock falls to $25
+
+Day 4 option expiration and the stock is $25, you close both options for no loss/gain (except broker fees)
+
+You can now buy the stock at $25
+
+Let me propose another strategy:
+Do Fucking Nothing, buy the stock later, same p/l but no fees.",1,0,1614732644,mikeyj198
+32,gphborh,in this case he is the worst kind of retard,2,0,1614732693,mikeyj198
+33,gphbpof,"My potential gain is unlimited.
+
+I now own the stock and a married put.",1,0,1614732706,NinjaPirateKing
+34,gphbpqf,I can tell you the end result…BROKE.,1,0,1614732707,No_Parents
+35,gphbra8,Lol I think I'm gonna do nothing and make the same money. Then I'm going to buy more gme💎🙌💎,1,0,1614732730,CamperSteve546
+36,gphc6f0,Do this a bunch and let me know if your brokerage sends you love mail. Buying and selling the exact same thing nets you 0 (minus the donation to the broker),1,0,1614732946,beauchh
+37,gphcayq,That P/L just looks like a long call.  Capped losses to the downside and unlimited upside.,1,0,1614733012,Ded_Aye
+38,gphcfc1,"You are essentially talking about a 0 strike wide spread and prepurchasing the buy to close for the put you sold. 
+
+I’m not sure how you’re planning to make a profit on this if opening them simultaneously as the premium would be the same. Note when selling, you get it when someone raises the bid to your ask and when buying when someone lowers the ask to your bid. Only on an extremely illiquid market could you be doing both, at which point there’s no vig. 
+
+A married put is two long position (long stock and your purchased put), your scenario has a long and a short.",1,0,1614733074,scbtl
+39,gphch8u,"That’s a good point on the bid/ask spread But it’s still cheaper than the entire premium on a married put.
+
+If you just buy the stock and the price drops your risk is your entire investment.
+
+If you marry the stock with a put and the price drops your risk is only the premium.
+
+If you buy the stock with a cash secured put and it drops your risk is your investment minus the premium.
+
+If you buy stock with a cash secured put and marry it with a long put your risk is the difference in the bid/ask spread. Because you’ve paid for the premium and married your stock.",1,0,1614733101,NinjaPirateKing
+40,gphchwi,***RETARD ALERT***,1,0,1614733111,edgar_allen_snatch69
+41,gphcng0,"I believe what you're talking about is called a put debit spread. It's like selling a put that hedges your bet against the price going too low, and is widely used among safer traders like theta gang. The drawback is you miss out on some of the money from selling the put if the price doesn't drop or goes up.",1,0,1614733189,Merovingian_M
+42,gphcpxb,It’s not the same thing though because you aren’t required to exercise your long put.,1,0,1614733226,NinjaPirateKing
+43,gphcruw,Maybe a retarded genius?,1,0,1614733254,uset223
+44,gphcvng,"so you buy at the market.. got it
+
+now you buy a put☺️. woot, covered the downside risk!!!
+
+Now you sold a put??? 💩💩💩💩. fuck man, market goes lower and your long put covered your loss on the stonk, but your short put is naked.
+
+
+Oh fuck, forgot, you bought a put, so that covers the loss on your short put... but 💩 dammit forgot about the stock we bought that is now cheaper.
+
+Better fucking idea, make the trade, post it here, tell us the results.
+
+
+P fucking S - if you can’t find a broker who won’t match trades, just create two brokerage accounts, by the stock and long put in one, short the put in the other.  Please report back with net results.",1,0,1614733308,mikeyj198
+45,gphcxrc,"Essentially yes. But the married put caps your losses at the difference between the bid/ask of the cash secured put you are selling, and the married put you are buying.",1,0,1614733339,NinjaPirateKing
+46,gphd6il,"A naked short put is just a cash secured put. It’s no different than going long except you get the premium, which paid for the married put you used to hedge your long position.",1,0,1614733466,NinjaPirateKing
+47,gphd742,I’ll allow it,1,0,1614733475,NinjaPirateKing
+48,gphd9ns,Just do a Put Credit Spread,1,0,1614733511,RainyCityTay
+49,gphddmp,I was just joking.,1,0,1614733568,uset223
+50,gphdhq2,"Yeah this is a hedge strategy. You definitely make more by not using it if your bet is correct. If your bet is wrong though you lose almost nothing with this strategy.
+
+And the only money you don’t make is the premium you used to buy the hedge. (I.e. Married put.)
+
+Probably shouldn’t have asked a question about hedging on this sub.",2,0,1614733628,NinjaPirateKing
+51,gphdisf,This is retarded...99.999% of the time an itm option is exercised on expiration(if not bought back).  Making you buy the stock and your put expiring (or selling it)  now you have stock at higher than market and no put.  You're better off just buying the dip,1,0,1614733644,joja0206
+52,gphdld7,make your trades and report back,2,0,1614733682,mikeyj198
+53,gphe4z3,I’ll definitely check it out,1,0,1614733967,NinjaPirateKing
+54,gphe6nn,The kind that’s trying to learn. RIP,4,0,1614733991,NinjaPirateKing
+55,gphe9ez,Yea it’s pretty much what you’re describing check out Theta Gang they have in-depth tutorials on it,1,0,1614734032,RainyCityTay
+56,gpheqju,"The problem with your example is day 4.
+
+If expiration is day 5 and the stock goes to $30 after your $25 short put is assigned on day 4, then you just made $500 with no risk of loss.(except broker fees)
+
+If it doesn’t go back up before expiration then you just paid broker fees for bet that didn’t pay off.",1,0,1614734281,NinjaPirateKing
+57,gphfahr,Will do. Too poor for a cash secured put in most stocks though so I gotta wait or find the right one.,1,0,1614734564,NinjaPirateKing
+58,gphfk4b,"AMC 3/19 7P is \~$70 a contract, you sell one (collect $70), you buy one (pay $70). Net: $0 (minus commission), promise to buy AMC at $7, and ability to sell AMC at $7. If AMC goes up or sideways, no one makes u buy, and selling at $7 would be a loss. If AMC goes down below $7, someone will make you buy at $7 (lose money) but you can make someone else buy at $7 too making that money back.",1,0,1614734701,beauchh
+59,gphfw5f,[deleted],1,0,1614734872,[deleted]
+60,gphfzog,"Your brain is definitely smooth and shiny, welcome to the tribe.",2,0,1614734924,mgez
+61,gphg2y5,[deleted],1,0,1614734970,[deleted]
+62,gphgdtu,"Yes if the stock goes up before dipping you make nothing.
+
+If the stock goes down before expiration you make nothing.
+
+If the stock dips and then rises you profit.
+
+This is a strategy to ensure you get the lowest dip price.",1,0,1614735125,NinjaPirateKing
+63,gphgkfk,"I’m used to it by now. One of my favorite hobbies is designing perpetual motion machines in order to learn physics.
+
+I know they can’t work. Figuring out why they can’t work is the fastest way for me to learn.",2,0,1614735218,NinjaPirateKing
+64,gphh0pz,"Ok so you make money if the stock dips then rises. Explain (maybe using AMC example above) what price it dips to, then the price it rises to, and what happens at each price?",1,0,1614735453,beauchh
+65,gphh5ij,"If I used this strategy to buy GME it would buy the dip at it lowest point. If it dipped further you would lose nothing and then could buy at that lower price.
+
+If you buy the dip by just buying GME and it dips further you just lost money.
+
+It’s essentially just going long without risking your investment.",1,0,1614735522,NinjaPirateKing
+66,gphh9d7,"You will be down the difference between the actual price at exercise of the short put, and the puts' strike prices.  If you chose not to exercise your long put at that point you are underwater until the stock price recovers.  Essentially you have found yourself in the exact same scenario as buying a long call.  So just buy the damn call already.",1,0,1614735577,Ded_Aye
+67,gphhgld,"Your short put becomes a standard long position when it is assigned.
+
+Your are just buying stock using a cash secured put and then using the premium you got from selling that put to buy a married put so if it drops further you’ve hedged your loss.
+
+It’s like trailing stop orders with a free hedge position.",1,0,1614735679,NinjaPirateKing
+68,gphhs46,"It’s similar but in that situation you buy at different strikes to profit off the difference.
+
+My strategy is a hedge strategy to buy the underlying security at the lowest price. Then your profit is made on a traditional long position.",1,0,1614735842,NinjaPirateKing
+69,gphi3pb,"We are all more retarded for reading this. Just don't. Go sit down with a calculator and a pencil and figure out your numbers, because- as EVERYONE! - has already pointed out, it's a net zero position, minus commissions.
+
+If you want the lowest price, set limits you believe are reasonable, and may God have mercy on your back account.
+
+Edit: ""bank account""",1,0,1614736006,SaskyTeeKay
+70,gphifl0,"yo someone award this man some flair
+
+&amp;#x200B;
+
+cmon he's **pioneered** a *zero risk long bull strategy*",1,0,1614736175,GoJa_official
+71,gphivdu,"You can’t buy and sell a put with same strike and expiration. They cancel out. If you did this with different brokers, you would lose on bid/ask spread. Also if the short put is assigned, how is it secured with  a long put if the long put has the same expiration as the short put? If the price drops below the strike, are you going to sell right at 3:59 to get the value out of the long put to offset the shares you just bought from the short put? What about after hours. The stock can move before you are able to sell the shares you just bought from the short put. This is just crazy.",2,0,1614736406,lazerbrettncstate
+72,gphkupx,"Okay, for simplicity let’s say the current price of AMC is $9.
+
+I think it’s a relatively good stock but I also think there’s a dip coming.
+
+So I sell a cash secured put for 3/12 at a $7 dollar strike, because that’s a good price and a reasonable dip with it’s beta, and receive a premium of $42. That’s still a pretty big swing though and it’s possible the dip might be a cliff so I also buy a $7 strike put using the $42 dollars I made in case it keeps falling.
+
+Now the dip comes on 4/9 and I use $700 to buy the stock. Turns out my bet was right and AMC moons to $14. I just made $700 and I let the put I bought expire.
+
+Now let’s say I’m wrong, and the price drops to $5 on 4/9. I still bought $700 worth of AMC but fortunately I can sell it at the same price because I bought a put at a strike of $7. So I sell the stock and I’m no worse off. 
+
+Now I can buy the stock at $5 dollars instead of the $7 I had initially guessed and when AMC hits $14 I’ve made $900.
+
+Let’s say though there’s a chance I’m really wrong. Instead of a dip AMC is going to bottom out. If I implemented this strategy I would either have no position or I’d have bought AMC at $5. Neither are too attractive but having the price drop while owning the security is certainly less desirable.
+
+So to keep that from happening instead of buying/selling a single set of $7 puts I do the same at $6,5,4,3,2,1.
+
+Now on 4/9 the price dips to $3. The $7,6,5,4 all break even and I buy 100 shares for $300 dollars. Now when AMC hits $14 I’ve made $1300. And even if it never recovers before expiration I can just sell at break even.
+
+I hope that is a decent explanation. Of course options aren’t always free so there is some cost involved. Many brokers have moved to zero-fee options trading though.",1,0,1614737439,NinjaPirateKing
+73,gphla6u,"&gt; Also if the short put is assigned, how is it secured with a long put if the long put has the same expiration as the short put?
+
+Most puts are assigned before expiration when the price drops below the strike. If it’s never assigned then you just don’t enter a position.",0,0,1614737657,NinjaPirateKing
+74,gphlflz,"See this is what I’m talking about!!!
+
+I know I haven’t but I can’t figure out where the issue is.
+
+Why can’t you use a married put to hedge a cash secured put?",1,0,1614737734,NinjaPirateKing
+75,gphlik1,So you don’t think a cash secured put is better than a limit order?,1,0,1614737774,NinjaPirateKing
+76,gphltuw,"If I buy a long call and the price drops I’m out the premium.
+
+If I use a married put I’m in the same boat with more capital necessary.
+
+But if I initially bought the stock using a cash secured put then I don’t pay a premium on my married put. Or more accurately, I do but it’s the same amount I got for buying the stock in the first place.",1,0,1614737937,NinjaPirateKing
+77,gphmuyt,"Jesus, you are actually retarded.
+
+If at the same strike and date, you’ve just closed your position because your short is offset by the long. It is the exact same cost as buying to close.
+If at a different strike and same date, it’s a vertical.
+If it’s the same or different strike on a different date it’s a calendar/diagonal.
+If it’s a long/short call/put it’s a synthetic long/short.",1,0,1614738468,scbtl
+78,gphmzla,"The buyer of your put contract isn’t likely to exercise their option early. Why would they give up the extrinsic value of the put? Early assignment is possible, but certainly not the norm. Are you seriously suggesting that you discovered a way to be long a stock without any risk?",1,0,1614738535,lazerbrettncstate
+79,gphnxnx,"&gt; Jesus, you are actually retarded.
+
+I guess I came to the right place then.
+
+If you buy a cash secured put that is assigned before expiration you now own the stock.
+
+If you own a put at the same strike you now have a married put.
+
+Now if you exercise that put what you say would be true. But if you don’t exercise it then you now own the security. How is that closing your position?",1,0,1614739023,NinjaPirateKing
+80,gphob4y,"Then use cash secured put instead of this abomination of a scheme you drafted up. I mean, if you run on absolute zero fees/commissions - go hard. But otherwise the cost of writing and buying, selling and exercising just does not make any sense to me. 
+
+I'm far from remotely qualified, best strategy I came up with is the long strangle based on the dow index, and even that seems to be a kick in the nuts haha.
+
+But from what I've read on what you are describing, you are adding an extra step, that just costs money.
+
+Run your scenario in options profit calculator and see if it makes sense then. From what I gathered is you pay for the ability to get the lower strike price of your security.... But you do NOT make any money from premiums. My head hurts, more beer time.",1,0,1614739216,SaskyTeeKay
+81,gphodps,"Finally someone with a good answer.
+
+So most short puts only exercise at expiration?
+
+I thought early exercises is what caused /u/ir0nyman to go tits up?
+
+Does that mean that most cash secured puts only exercise on Fridays before expiration?",1,0,1614739253,NinjaPirateKing
+82,gphos6p,"It essentially is a cash secured put.
+
+The extra step is to keep from misjudging the price floor.
+
+If I buy a cash secured put then the price has already dropped. In order to mitigate the risk of it dropping further you buy a married put to hedge your risk.
+
+After some discussion though it appears the flaw in my plan is that cash secured puts rarely exercise before expiration.
+
+That is good news for writing OTM puts though.",1,0,1614739465,NinjaPirateKing
+83,gphpgzb,A put will likely only be exercised early if it is deep in the money and the extrinsic value is eaten up by a large bid ask spread. Sometimes you will get early assignment from an inexperienced trader.,1,0,1614739827,lazerbrettncstate
+84,gphw6fp,"Don’t forget having collateral.
+It’s a hedging strat imo
+
+Although the price movement depends on THE greek
+
+So if you’re a bullish play make sure you’re absolute Delta is higher than put - Vice Versa",1,0,1614743290,Left-Fee-4315
+85,gphw8hy,"Darn. Yeah that combined with the fact that a broker doesn’t understand holding opposing positions at the same strike make this trade unwieldy at best and impossible at worst.
+
+I learned a shit ton though. Using cash secured puts as limit orders is apparently slow and carries the same risk as buying the security. Though the premium helps.
+
+I guess the best case scenarios is that the price of the security is exactly the strike at expiration or that it never exercises and you keep the premium.
+
+Early exercise usually means you’ve lost money and if it expire below the strike you are forced to take the hit.",1,0,1614743323,NinjaPirateKing
+86,gphwooa,"Apparently the issue is that people rarely exercise puts unless they are deep in the money.
+
+I just assumed that once the price dropped below strike that most people exercised. It still has limited use if the price drops slightly below strike and starts to rise past the strike again.
+
+You’d have to do it on separate brokers though or discuss with your broker in person so they didn’t close your short put when you bought your long put.",2,0,1614743570,NinjaPirateKing
+87,gpigjrh,"You do realize that the options don't get exercised when they're ITM until expiration (most of the time), right?  So why would your short put get assigned on day 4?  If you're holding your long put until day 5, you can safely assume that other people of similar retardation are also hodling until day 5.
+
+So his explanation is accurate.  Your short put will not be assigned until around the same time you execute your long put.  The only way to ""force"" your short put to close is if you buy back that put.  In which case, you're just long a put for the final stretch.  If the stock goes down from that point, you make money, and if it goes up then you lose money.  Because your position is no longer cancelling itself out.
+
+People are struggling to explain this to you because it's just so god damn retarded.  You're just looking to buy our sell a put with extra steps, tying up your money for extra time.",3,0,1614757545,MrStealYoBeef
+88,gpigjrx,"You have done an excellent job at wasting my time.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",1,0,1614757546,AutoModerator
+89,gpih00r,"Early exercises are very rare, with certain exceptions.  There's no reason to exercise an options contracts ahead of time when the time remaining is still worth money.  You may as well sell the contract instead for more than what you would get by exercising.  The exceptions are typically when inexperienced traders exercise through ignorance or when the option is so far ITM that time value no longer has value since it's expected to remain ITM until expiration, so the bid/ask spread isn't good enough to warrant selling the contract.
+
+There's a lot more to it than this as well, but it's the gist of it.",1,0,1614757961,MrStealYoBeef
+90,gpisjy5,"1. Price goes down, you get Put the shares and lets assume you can Put them in turn, you have lost the spread on the options.
+2. Price goes up, you don't have the stock, so you lose the spread on the options.
+
+Guaranteed loser strategy I think.",1,0,1614769061,aka0007
+91,gpitd3i,"Yeah after learning a bit it seems like more trouble than it’s worth. I want to do it for the hell of it though. If it doesn’t get exercised there’s no loss except the few cents for the trade so I can try it til it works.
+
+Much less efficient than just buying calls though.",1,0,1614769806,NinjaPirateKing
+92,gpitfcm,"Yeah it’s retarded.
+
+Is it bad I still want to do it?",1,0,1614769862,NinjaPirateKing
+93,gpj55sj,"You need to think through this math a bit harder
+
+you are long the stock at 50
+you sell a 50 put for $5 and buy one for $5
+stock goes to $25 and you are exercised
+
+
+You pay $50 to buy the stock in a market that is 25 - $25 loss but keep $5 premium
+The stock you own is worth $25 - $25 loss
+You are long a put that is worth $25, $20 gain
+
+$45 in losses and $20 in gain, you lost $25 and own two shares and a put that is in the money.",1,0,1614778372,mikeyj198
+94,gpkrv4r,"Look up cash secured put on investopedia.
+
+Your math is gibberish and you completely misunderstood the premise.",1,0,1614804556,NinjaPirateKing
+95,gpl392n,"You have completely misexplained the premise then, my math was basis your explanation.
+
+
+Cash secured put is just a short put and cash in your account, what you are explaining is a convoluted mess, but still stick by my previous comments, trade and post your results.  This is not an overly risky trade, just unnecessary.",1,0,1614809533,mikeyj198
+96,gpl3sct,Now look up a married put. And see if you can contemplate what opening both positions simultaneously would result in.,1,0,1614809779,NinjaPirateKing
+97,gpodyjw,"ok, so you did do a good job explaining, you just really need to think about your strikes and how the options will price.  
+
+if you’re buying/selling the same strike you either use a strike near the money to protect your long stock, but expose yourself to buying more shares well above the market.  
+
+If you buy/sell below the market you get a better entry on your next purchase, but don’t protect the stock you own very well.
+
+Again, good luck, post results.",1,0,1614880457,mikeyj198

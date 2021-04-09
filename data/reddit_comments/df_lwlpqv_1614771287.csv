@@ -1,0 +1,55 @@
+,comment_id,text,score,awards,timestamp,author
+0,gpiv6si,"Hahah I probably bought one.. but it must have scared someone bc robinhood sent out email... I think it said if it expires itm, I’d have to exercise so I better have money.. or risk margin call on my account ... lol or something like that.",3,0,1614771424,Mysterious_Error_852
+1,gpiwnpy,I don’t think it has.  Although I should mention r/options for these folks that want to know how these things work.,4,0,1614772626,ryan7714
+2,gpiyyoa,"Same. If anyone has a link for us retards to understand the fundamentals, that’d be great.",2,0,1614774380,Grazedaze
+3,gpizhft,"$9 premium would show up as .09 because it’s a cost per share x 100. So IF it hit $800 and OP wanted to exercise the contract (buy 100 shares at $800) his break even price per share would be $800.09
+
+800 is the strike, 800.09 would be the break even
+
+Hope this helps 👍🏻",3,0,1614774752,jeepz127
+4,gpizy3x,"My good sir. You have me mistaken for an 🦧 ape... When I am in fact just a retard with a very real ""don't lose my ass for a meme"" instinct the diamond Hands would most definitely have been broken by the steel pick-ax that is 8000%",-4,0,1614775078,CrosslegLuke
+5,gpj1gqp,"Not sure what you’re trying to say.. but this trade literally impossible to have now. Stock could hit $1k today... nothing will have gain like this without putting a lot more money at risk.. 
+I know I would have fucked up prob .. not selling. Especially if I only paid $90.. lol",1,0,1614776107,Mysterious_Error_852
+6,gpj3yc0,Honestly I don't even care about this trade. I'm not looking to repeat this. I just genuinely wanna learn how to do everything in investing.,-5,0,1614777671,CrosslegLuke
+7,gpj88jb,"Look up implied volatility and learn your Greeks. As they get closer to ITM and the price starts to climb faster than an Ape up a banana tree (plant) they become more valuable. Even if they are still not even close to ITM they gain value when the stock price spikes drastically
+
+*Edit- the contracts become more valuable that is",5,0,1614780067,Stonks_GoUp
+8,gpj8ioa,[removed],1,0,1614780218,[deleted]
+9,gpjax5f,"Thank you for the reply :) I was also confused as to how he realized profits on an option with the strike price of 800$ when the actual price of the stock was so much lower, but I guess the options premium increased due to extrinsic value I imagine? It’s just tough for me to see such a massive gain on a weird option",4,0,1614781451,JohnOswaldJones
+10,gpjgvzx,I’m specifically talking about that subreddit  and the fact that it has a low subscriber count. But yes options is a great place for people to understand!,2,0,1614784260,Live_Painter_9573
+11,gpjvd34,"Okay let me ask it this way, if I bought the option from you, and exercised it. How much would I be buying shares for?",2,0,1614790564,DrunkSpartan15
+12,gpjvx0p,lower premium but me. Have been weekly as rocket insurance,2,0,1614790795,_immodest_proposal_
+13,gpjy3qn,"Dude I was looking at utz, why is it 50% shorted (a week or so ago I checked) when it's been doing well since it hit the open market?",3,0,1614791729,Doovster
+14,gpk4wyk,$800 per share.,1,0,1614794634,ExceptionallyGreat
+15,gpk5acp,So the person who bought those think it will be more than 800 per share on the 5th? Or think the options themselves will be worth more?,2,0,1614794794,DrunkSpartan15
+16,gpk6su7,"No idea what he/she was thinking, or it was even a person, but yeah that's the general idea.",2,0,1614795447,ExceptionallyGreat
+17,gpk739h,"No, their price dropped significantly after that.",1,0,1614795570,ExceptionallyGreat
+18,gpk76wg,You have to pay the premium for buying calls on all platforms.,1,0,1614795614,ExceptionallyGreat
+19,gpk7a5a,"Well yeah it’s speculation, but if they bought it they wanted it. Thank you for your input. This options thing has me confused and fascinated.",2,0,1614795653,DrunkSpartan15
+20,gpk7be8,$80.70,1,0,1614795668,ExceptionallyGreat
+21,gpk7stl,"Okay so I’m looking at a covered call of one of my stocks. If I were to make a contract, I am setting the strike price at time of purchase right? So that means I’m agreeing to sell this stock at strike. Doesn’t matter if the ticker goes up or down. So someone buys the contract, can choose to exercise it. When the contract expires, do they have a grace period for choosing to exercise?",1,0,1614795876,DrunkSpartan15
+22,gpk7wtu,And you get that back regardless of your option expires in the money or not?,1,0,1614795922,ninja8869
+23,gpk9cgf,"No, you don't.",1,0,1614796534,ExceptionallyGreat
+24,gpkebuq,"due to the cost needing to hit $800 and the likely hood of that NOT happening, his premium per share was 0.09c per share, so only $9 per 100 shares.",1,0,1614798704,TheRealMrTrueX
+25,gpkkq1b,"Appreciate it.
+
+What if he didnt have the cash?",2,0,1614801447,charmilliona1re
+26,gpkpsfi,[removed],1,0,1614803661,[deleted]
+27,gpl77zy,"There was some previous DD where someone identified a large short position had been entered (with a bunch of call options to prevent them from getting GME’ed).   It was very cheap to buy a put and I kinda just wanted to see what would happen.  
+
+Sure enough, that put is teaching me a lot about the value of implied volatility.  My option is still not near the money yet it’s worth +40% more.",1,0,1614811389,JayArlington
+28,gplfpru,If the account doesnt have cash or margin to exercise I think the stock is liquidated and the owner of the option will receive the profit,1,0,1614815583,Serious-Lee
+29,gpm7z6j,Fine guess I'll downvote myself to join y'all!,1,0,1614830581,CrosslegLuke
+30,gpmcaau,[removed],1,0,1614833100,[deleted]
+31,gpnzcxj,Extrinsic Value,3,0,1614874174,Foreu2env
+32,gpo0mvj,Btw... up 110% on this.  I wasn’t expecting this.,2,0,1614874733,JayArlington
+33,gpo0wc0,[removed],1,0,1614874846,[deleted]
+34,gpoe2mv,"Thank you for your serious reply to my half-serious question.  
+Last night I inadvertently finally dove into learning about options deeper than calls &amp; puts after being inspired by deep ITM call options and how they have high deltas and Intrinsic Value. Which I then contrasted with extrinsic value.   
+
+
+I think I get intrinsic value, but extrinsic value sort of escapes me. If you have a chance, could you give me just a short blurb of your thoughts?",2,0,1614880505,FreeHKTaiwanNumber1
+35,gpoovtp,"Easiest way to simplify EV is to think of it as a “time value”. The longer time before the option close date, the more EV contributes to a higher contract price. This is because there’s more potential for changes in the underlying stock price over that time.  If a call contract expires in 2 days, there’s very little EV because there’s not much potential for a wild shift in stock price in 2 days. This is not financial advice, I am not an expert. It’s much deeper and has a formula based on more than just time.. but I tried to keep it simple for conceptual sake",2,0,1614885039,Foreu2env
+36,gpop577,That's perfect thank you foreau. I have a basic grasp of time value from a personal finance class years ago and your explanation sealed it. Appreciate your non-financial advice from a non-expert,2,0,1614885147,FreeHKTaiwanNumber1
+37,gq68tmc,[removed],1,0,1615174053,[deleted]
+38,gspbply,[removed],1,0,1617035748,[deleted]

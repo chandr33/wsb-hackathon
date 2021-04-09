@@ -1,0 +1,26 @@
+,comment_id,text,score,awards,timestamp,author
+0,gpm50mi,"I had sold shares with a market order that morning and due to the glitch they processed at $294 but at 6:30am it was at $350
+
+I think all systems were overloaded that morning",3,0,1614828945,Ok-Composer-8278
+1,gpm52mq,[removed],1,0,1614828975,[deleted]
+2,gpm5c9t,[removed],1,0,1614829117,[deleted]
+3,gpm5x65,[removed],1,0,1614829430,[deleted]
+4,gpm64f9,[removed],1,0,1614829540,[deleted]
+5,gpm72q5,"The price Is only what the last trade was in an even lot increment (shares of 100). When you sell something, it executes at the best bid price available. If you queued an order to execute at market open, there may be people with orders before you. If you placed a market order when the opening price was $354, but there were 1,000 different orders in line before you, there may not be enough people buying at $354. If it got to your turn, the best bid may have only been $297. So if you placed a market order you are placing an order to fill at the best available bid price. Since the best bid was $297, your order would execute at the price.
+
+Idk what brokerage you use, but when I used RH I could buy/sell options at 9:30am eastern. I am now getting approved for options at fidelity, so I am unsure how theirs work.
+
+Your brokerage should have agents with access to the Bloomberg terminal where they can literally pull up all of the exact trades during that day. If you pushback a lot, you could probably get them to send you a screenshot of your trade along with other ones before/after yours as well as market open
+
+Edit: Changed 6:30am (Pacific) to 9:30am eastern",9,0,1614830075,Two_trays
+6,gpm7jw3,[removed],1,0,1614830348,[deleted]
+7,gpmb742,"Bullshit you could trade options outside of 9:30 to 4pm est. No brokerage allows that as all options clear through the same clearing house that is only open during market hours.
+
+OP I have noticed on options it can take minutes before options really start trading as a queues can build and a lot of people are waiting for the options bid/ask to populate before they place their trade.  I think this is completely plausible and probably did happen on such a volatile stock.
+
+It doesn't matter what the underlying was trading at, it only matters what the options were selling for. By the way it doesn't matter when Nasdaq was open and trading as GME is traded on NYSE.",2,0,1614832438,neothedreamer
+8,gpmbz0u,[removed],1,0,1614832907,[deleted]
+9,gpmcx6x,Sorry I live on west coast 6:30am is 9:30am eastern,1,0,1614833497,Two_trays
+10,gpmenrq,"You cn get minute-by-minute historical options data from marketchameleon. They have a free trial so you could get it and then delete your account. If you have already used your free trial or don't want to sign up for it, remind me in the morning when I wake up and I'll get you the data for that day.",6,0,1614834610,meta-cognizant
+11,gpmjdh5,Np,2,0,1614837870,neothedreamer
+12,gppbmzr,[removed],1,0,1614894612,[deleted]
